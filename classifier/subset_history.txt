@@ -1,0 +1,223 @@
+Epoch 1/20
+Training batch 1 loss: 0.018652907013893126
+Training batch 2 loss: 0.01568599045276642
+Training batch 3 loss: 0.01707911044359207
+Training batch 4 loss: 0.017028661072254182
+Training batch 5 loss: 0.016458280384540558
+Training batch 6 loss: 0.015030768513679505
+Epoch 1 training loss: 0.6662381192048391
+Testing batch 1 loss: 0.014770488440990447
+Testing batch 2 loss: 0.03570615649223328
+Testing loss: 0.6524713337421417, Accuracy: 0.6833333333333333
+New best model saved with accuracy: 0.6833 at epoch 1
+Epoch 2/20
+Training batch 1 loss: 0.014747455716133118
+Training batch 2 loss: 0.0149727463722229
+Training batch 3 loss: 0.014316640794277191
+Training batch 4 loss: 0.013271994888782501
+Training batch 5 loss: 0.013289213180541992
+Training batch 6 loss: 0.014282426238059998
+Epoch 2 training loss: 0.5658698479334513
+Testing batch 1 loss: 0.015657442808151244
+Testing batch 2 loss: 0.028016823530197143
+Testing loss: 0.5933170914649963, Accuracy: 0.6833333333333333
+Epoch 3/20
+Training batch 1 loss: 0.013592903316020966
+Training batch 2 loss: 0.013787096738815308
+Training batch 3 loss: 0.013496617972850799
+Training batch 4 loss: 0.012021604925394058
+Training batch 5 loss: 0.011014053970575333
+Training batch 6 loss: 0.010763903707265854
+Epoch 3 training loss: 0.4978412042061488
+Testing batch 1 loss: 0.01338789314031601
+Testing batch 2 loss: 0.03373240530490875
+Testing loss: 0.6050819158554077, Accuracy: 0.6666666666666666
+Epoch 4/20
+Training batch 1 loss: 0.01146138533949852
+Training batch 2 loss: 0.0104678176343441
+Training batch 3 loss: 0.009985573589801788
+Training batch 4 loss: 0.009784205257892609
+Training batch 5 loss: 0.009670619666576386
+Training batch 6 loss: 0.009871795028448104
+Epoch 4 training loss: 0.4082759767770767
+Testing batch 1 loss: 0.015235514938831329
+Testing batch 2 loss: 0.022842507064342498
+Testing loss: 0.5331353694200516, Accuracy: 0.7166666666666667
+New best model saved with accuracy: 0.7167 at epoch 4
+Epoch 5/20
+Training batch 1 loss: 0.010819323360919952
+Training batch 2 loss: 0.008800730854272843
+Training batch 3 loss: 0.008083014190196991
+Training batch 4 loss: 0.007879882305860519
+Training batch 5 loss: 0.008226893842220306
+Training batch 6 loss: 0.0073034785687923435
+Epoch 5 training loss: 0.34075548748175305
+Testing batch 1 loss: 0.014124153554439545
+Testing batch 2 loss: 0.025566864013671874
+Testing loss: 0.5381517112255096, Accuracy: 0.7166666666666667
+Epoch 6/20
+Training batch 1 loss: 0.007837115973234176
+Training batch 2 loss: 0.005430499464273453
+Training batch 3 loss: 0.007723817974328995
+Training batch 4 loss: 0.0060559440404176716
+Training batch 5 loss: 0.0087972030043602
+Training batch 6 loss: 0.0052883349359035495
+Epoch 6 training loss: 0.27421943595012027
+Testing batch 1 loss: 0.013237702846527099
+Testing batch 2 loss: 0.0263509064912796
+Testing loss: 0.528263121843338, Accuracy: 0.7333333333333333
+New best model saved with accuracy: 0.7333 at epoch 6
+Epoch 7/20
+Training batch 1 loss: 0.005439568683505059
+Training batch 2 loss: 0.008073238283395767
+Training batch 3 loss: 0.00482138991355896
+Training batch 4 loss: 0.005644384026527405
+Training batch 5 loss: 0.004759162664413452
+Training batch 6 loss: 0.00424322709441185
+Epoch 7 training loss: 0.21987313777208328
+Testing batch 1 loss: 0.01148533821105957
+Testing batch 2 loss: 0.034758108854293826
+Testing loss: 0.5772878527641296, Accuracy: 0.7
+Epoch 8/20
+Training batch 1 loss: 0.004177767038345337
+Training batch 2 loss: 0.005175381898880005
+Training batch 3 loss: 0.0053560566157102585
+Training batch 4 loss: 0.00447455495595932
+Training batch 5 loss: 0.003193701058626175
+Training batch 6 loss: 0.0027208145707845687
+Epoch 8 training loss: 0.16732184092203775
+Testing batch 1 loss: 0.012847082316875457
+Testing batch 2 loss: 0.029632392525672912
+Testing loss: 0.5532655715942383, Accuracy: 0.7166666666666667
+Epoch 9/20
+Training batch 1 loss: 0.00425458736717701
+Training batch 2 loss: 0.0028927560895681383
+Training batch 3 loss: 0.003162210062146187
+Training batch 4 loss: 0.003972167894244194
+Training batch 5 loss: 0.0026257377117872237
+Training batch 6 loss: 0.0018405715003609658
+Epoch 9 training loss: 0.12498687083522479
+Testing batch 1 loss: 0.01311844140291214
+Testing batch 2 loss: 0.035621413588523866
+Testing loss: 0.6185829639434814, Accuracy: 0.7
+Epoch 10/20
+Training batch 1 loss: 0.002496231906116009
+Training batch 2 loss: 0.0013624143786728383
+Training batch 3 loss: 0.0022098129615187646
+Training batch 4 loss: 0.003663945198059082
+Training batch 5 loss: 0.0014637584798038005
+Training batch 6 loss: 0.0027182180434465407
+Epoch 10 training loss: 0.09276253978411357
+Testing batch 1 loss: 0.01545691043138504
+Testing batch 2 loss: 0.02840466797351837
+Testing loss: 0.5931848883628845, Accuracy: 0.7166666666666667
+Epoch 11/20
+Training batch 1 loss: 0.0019306505098938942
+Training batch 2 loss: 0.0036233872175216674
+Training batch 3 loss: 0.0016840461641550065
+Training batch 4 loss: 0.001049921754747629
+Training batch 5 loss: 0.0012837907299399376
+Training batch 6 loss: 0.0011237065307796
+Epoch 11 training loss: 0.0713033527135849
+Testing batch 1 loss: 0.01552569717168808
+Testing batch 2 loss: 0.02930949330329895
+Testing loss: 0.6036088764667511, Accuracy: 0.7333333333333333
+Epoch 12/20
+Training batch 1 loss: 0.0016219064593315125
+Training batch 2 loss: 0.0017767665907740594
+Training batch 3 loss: 0.0009939691051840782
+Training batch 4 loss: 0.001216430403292179
+Training batch 5 loss: 0.001628800854086876
+Training batch 6 loss: 0.0008478236384689807
+Epoch 12 training loss: 0.05390464700758457
+Testing batch 1 loss: 0.01732492595911026
+Testing batch 2 loss: 0.03003450036048889
+Testing loss: 0.6468435227870941, Accuracy: 0.7333333333333333
+Epoch 13/20
+Training batch 1 loss: 0.0007899905554950237
+Training batch 2 loss: 0.0008285185322165489
+Training batch 3 loss: 0.0013975247740745545
+Training batch 4 loss: 0.0012869944795966149
+Training batch 5 loss: 0.0006068524904549122
+Training batch 6 loss: 0.0017766932025551796
+Epoch 13 training loss: 0.04457716022928556
+Testing batch 1 loss: 0.01808631271123886
+Testing batch 2 loss: 0.031517043709754944
+Testing loss: 0.6768966913223267, Accuracy: 0.7333333333333333
+Epoch 14/20
+Training batch 1 loss: 0.001162723731249571
+Training batch 2 loss: 0.0009501120075583458
+Training batch 3 loss: 0.0010549625381827354
+Training batch 4 loss: 0.0007131619844585657
+Training batch 5 loss: 0.0005522415041923523
+Training batch 6 loss: 0.0006079066544771195
+Epoch 14 training loss: 0.03360738946745793
+Testing batch 1 loss: 0.015955232083797455
+Testing batch 2 loss: 0.04907686114311218
+Testing loss: 0.8098732531070709, Accuracy: 0.7
+Epoch 15/20
+Training batch 1 loss: 0.0016061481088399886
+Training batch 2 loss: 0.0006601241882890462
+Training batch 3 loss: 0.0004557405598461628
+Training batch 4 loss: 0.000532720424234867
+Training batch 5 loss: 0.0004460346885025501
+Training batch 6 loss: 0.000606439309194684
+Epoch 15 training loss: 0.028714715192715328
+Testing batch 1 loss: 0.018849568068981172
+Testing batch 2 loss: 0.0461276113986969
+Testing loss: 0.8382674753665924, Accuracy: 0.7166666666666667
+Epoch 16/20
+Training batch 1 loss: 0.0004238112829625607
+Training batch 2 loss: 0.00046858135610818865
+Training batch 3 loss: 0.0006186663638800382
+Training batch 4 loss: 0.0007420052774250507
+Training batch 5 loss: 0.0005529807414859534
+Training batch 6 loss: 0.0007879937067627907
+Epoch 16 training loss: 0.023960258190830547
+Testing batch 1 loss: 0.02280633747577667
+Testing batch 2 loss: 0.03620969951152801
+Testing loss: 0.8182237446308136, Accuracy: 0.7
+Epoch 17/20
+Training batch 1 loss: 0.0002923276973888278
+Training batch 2 loss: 0.0004588697571307421
+Training batch 3 loss: 0.0003149544121697545
+Training batch 4 loss: 0.0004743244033306837
+Training batch 5 loss: 0.00031236656941473483
+Training batch 6 loss: 0.0006374119780957699
+Epoch 17 training loss: 0.01660169878353675
+Testing batch 1 loss: 0.023767194151878356
+Testing batch 2 loss: 0.035106852650642395
+Testing loss: 0.8264124095439911, Accuracy: 0.7166666666666667
+Epoch 18/20
+Training batch 1 loss: 0.00027708143461495637
+Training batch 2 loss: 0.0003804061096161604
+Training batch 3 loss: 0.00034745838493108747
+Training batch 4 loss: 0.00022043685894459485
+Training batch 5 loss: 0.0005848805420100689
+Training batch 6 loss: 0.00022052780259400605
+Epoch 18 training loss: 0.013538607551405827
+Testing batch 1 loss: 0.015548874437808991
+Testing batch 2 loss: 0.07457873821258545
+Testing loss: 1.0567648708820343, Accuracy: 0.7
+Epoch 19/20
+Training batch 1 loss: 0.0003835875540971756
+Training batch 2 loss: 0.0002839303808286786
+Training batch 3 loss: 0.00028771897777915003
+Training batch 4 loss: 0.00024292394518852234
+Training batch 5 loss: 0.0002081670332700014
+Training batch 6 loss: 0.00032334192655980587
+Epoch 19 training loss: 0.01153113211815556
+Testing batch 1 loss: 0.018239712715148924
+Testing batch 2 loss: 0.0542202353477478
+Testing loss: 0.9069966077804565, Accuracy: 0.7333333333333333
+Epoch 20/20
+Training batch 1 loss: 0.00023847625125199555
+Training batch 2 loss: 0.00021024197340011597
+Training batch 3 loss: 0.00018620751798152922
+Training batch 4 loss: 0.00019658817909657956
+Training batch 5 loss: 0.000286917295306921
+Training batch 6 loss: 0.0003235080512240529
+Epoch 20 training loss: 0.009612928455074629
+Testing batch 1 loss: 0.023505687713623047
+Testing batch 2 loss: 0.0450171560049057
+Testing loss: 0.9202853143215179, Accuracy: 0.7166666666666667

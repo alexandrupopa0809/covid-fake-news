@@ -1,4 +1,5 @@
 import csv
+import random
 
 import pandas as pd
 import torch
@@ -9,13 +10,13 @@ from transformers import AutoTokenizer, BertForSequenceClassification
 
 
 class NewsDataPreparation:
-    def __init__(self, file_path, sample_size=250, test_size=0.2, random_state=42):
+    def __init__(self, file_path, sample_size=160, test_size=0.2, random_state=42):
         self.file_path = file_path
         self.sample_size = sample_size
         self.test_size = test_size
         self.random_state = random_state
         self.data = self._load_data()
-        self.titles, self.labels = self._extract_titles_labels()
+        self.titles, self.labels = self._extract_balanced_titles_labels()
         (
             self.titles_train,
             self.titles_test,
@@ -25,15 +26,31 @@ class NewsDataPreparation:
 
     def _load_data(self):
         data = []
-        with open(self.file_path, newline='', encoding='utf-8') as f:
+        with open(self.file_path, newline="", encoding="utf-8") as f:
             reader = csv.DictReader(f)
             for row in reader:
                 data.append(row)
         return data
 
     def _extract_titles_labels(self):
-        titles = [item["title"] for item in self.data][:self.sample_size]
-        labels = [1 if item["label"].lower() == "real" else 0 for item in self.data][:self.sample_size]
+        titles = [item["title"] for item in self.data][: self.sample_size]
+        labels = [1 if item["label"].lower() == "real" else 0 for item in self.data][
+            : self.sample_size
+        ]
+        return titles, labels
+
+    def _extract_balanced_titles_labels(self):
+        real_news = [item for item in self.data if item["label"].lower() == "real"]
+        fake_news = [item for item in self.data if item["label"].lower() == "fake"]
+
+        sampled_real = random.sample(real_news, self.sample_size)
+        sampled_fake = random.sample(fake_news, self.sample_size)
+
+        balanced_data = sampled_real + sampled_fake
+        random.shuffle(balanced_data)
+
+        titles = [item["title"] for item in balanced_data]
+        labels = [1 if item["label"].lower() == "real" else 0 for item in balanced_data]
         return titles, labels
 
     def _train_test_split(self):
@@ -126,14 +143,16 @@ class NewsModelTrainer:
         if accuracy > self.best_accuracy:
             self.best_accuracy = accuracy
             torch.save(self.model.state_dict(), self.save_path)
-            print(f"New best model saved with accuracy: {accuracy:.4f} at epoch {epoch}")
+            print(
+                f"New best model saved with accuracy: {accuracy:.4f} at epoch {epoch}"
+            )
 
 
 if __name__ == "__main__":
-    data_prep = NewsDataPreparation(
-        "./data/labeled_news_dataset.csv", sample_size=150
+    data_prep = NewsDataPreparation("./data/labeled_news_dataset.csv", sample_size=150)
+    tokenizer = AutoTokenizer.from_pretrained(
+        "dumitrescustefan/bert-base-romanian-cased-v1"
     )
-    tokenizer = AutoTokenizer.from_pretrained("dumitrescustefan/bert-base-romanian-cased-v1")
     train_dataset = TokenizedDataset(
         data_prep.titles_train,
         data_prep.labels_train,
@@ -146,6 +165,9 @@ if __name__ == "__main__":
     )
 
     trainer = NewsModelTrainer(
-        "dumitrescustefan/bert-base-romanian-cased-v1", train_dataset, test_dataset, num_epochs=20
+        "dumitrescustefan/bert-base-romanian-cased-v1",
+        train_dataset,
+        test_dataset,
+        num_epochs=20,
     )
     trainer.train()
