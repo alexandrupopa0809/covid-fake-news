@@ -1,0 +1,1807 @@
+[
+    {
+        "title": "NU MAI \u021aINE, L\u0102SA\u021aI\u2026",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "\u00cen Italia, nimeni nu mai respect\u0103 recomand\u0103rile privind distan\u021barea social\u0103",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Cum vor ar\u0103ta atacurile informatice \u00een 2021 - Urmeaz\u0103 noi unghiuri de amenin\u021bare \u0219i modific\u0103ri ale strategiei de atac, spun cei de la Kaspersky Lab",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Primul rom\u00e2n cu abonament 5G spune c\u0103 \u00eel cost\u0103 300 de lei, c\u0103 e tot 60 de lei G-ul",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "C\u0103lc\u00e2iul lui Ahile al Uniunii Europene \u00een rela\u021bia cu China: Germania",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Trump este sup\u0103rat pe China \u015fi nu mai consider\u0103 important acordul comercial",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Vaccinul anti-Covid, nu e de fapt un vaccin \u2013 explica\u021bia",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Uniunea European\u0103 face apel la Netflix s\u0103 nu mai emit\u0103 \u00een HD, avertiz\u00e2nd c\u0103, altfel, internetul ar putea colapsa ca urmare a num\u0103rului uria\u0219 de oameni care se uit\u0103 la filme, fiind izola\u021bi \u00een cas\u0103 din cauza coronavirusului",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "\u2013 \u00cen\u0219el\u0103toria Coronavirusului \u0219i leg\u0103tura cu tehnologia 5G \u2013",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Autorit\u0103\u021bile din Marea Britanie cer companiilor de social media s\u0103 ajute la eliminarea conspira\u021biei \"coronavirusul - provocat de 5G\"",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Ministrul Educa\u0163iei: Avem peste 154.000 de angaja\u0163i din sistemul de \u00eenv\u0103\u0163\u0103m\u00e2nt deja vaccina\u0163i",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Descoperirea medical\u0103 a momentului: Sars-Cov2 este mai activ pe timpul nop\u0163ii \u015fi \u00een Grecia",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "WSJ: Produc\u0163ia de serie a viitoarelor telefoane iPhone am\u00e2nat\u0103 din cauza coronavirusului",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Australia regret\u0103 ''deteriorarea inutil\u0103'' a rela\u0163iilor cu China",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Cum vrea UE s\u0103 ajung\u0103 la autonomie digital\u0103 p\u00e2n\u0103 \u00een 2030: Cel pu\u021bin 80% dintre adul\u021bi s\u0103 aib\u0103 competen\u021be digitale de baz\u0103, identificare electronic\u0103 \u0219i 5G \u00een toate zonele populate",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Urma\u0219ul \u0219obolanului care a adus ciuma \u00een Europa a fost g\u0103sit \u00een Parcul Natural V\u0103c\u0103re\u0219ti",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "PLANDEMIE este cuv\u00e2ntul potrivit pentru criza mondial\u0103 prin care ni se suprim\u0103 drepturile \u0219i libert\u0103\u021bile",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Efectele pandemiei COVID-19 \u00een re\u021beaua Orange Rom\u00e2nia: Consumul de internet a crescut cu 39%, acoperirea 5G a fost extins\u0103, dar veniturile companiei au sc\u0103zut",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Rom\u00e2nia furnizeaz\u0103 cobai umani - pacien\u021bii primesc medicamente experimentale",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "STUDIU Pandemia gr\u0103be\u015fte transformarea centrelor ora\u015felor \u00een zone prietenoase cu pietonii \u015fi bicicli\u015ftii",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Florin C\u00ee\u021bu vrea politizarea bisericii: \u201cBiserica TREBUIE s\u0103 fac\u0103 campanie pro vaccinare\u201d",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Dr. Monica Pop : 4.500 de rom\u00e2ni care au f\u0103cut COVID dup\u0103 vaccinare s-au \u00eemboln\u0103vit chiar de la VACCIN!",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Consiliul Fiscal: Scenariul revizuit al Guvernului pare mai optimist \u00een raport cu evolu\u021bia economiei/ Apreciem un nivel probabil al deficitului bugetar \u00een jur de 9,8% din PIB \u00een 2020",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Marele Plan din Spatele Proiectului COVID-19",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Sub pretextul epidemiei, Putin a lansat un uria\u0219 experiment de urm\u0103rire a popula\u021biei",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "7 lucruri pe care trebuie s\u0103 le \u0219tie rom\u00e2nii care c\u0103l\u0103toresc \u00een Marea Britanie dup\u0103 Brexit",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Din nou cozi la vaccinare. S-a zvonit c\u0103 cipul te ajut\u0103 s\u0103 c\u00e2\u0219tigi la p\u0103c\u0103nele",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Kremlinul d\u0103 vina pe \"nihilism\" pentru noul val de infec\u021bii Covid",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "VACCINUL NU V\u0102 VA IMUNIZA \u0218I NICI NU V\u0102 VA PROTEJA DE \u201eVIRUSURI\u201d DAR VA FACE S\u0102 DISPAR\u0102 O \u201ePANDEMIE\u201d!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "S-a lansat o aplica\u0163ie pentru locatari, care \u00ee\u0163i afi\u015feaz\u0103 \u00een timp real unde se afl\u0103 administratorul",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Coronavirusul are \u201dmisie\u201d ideologic\u0103 anticre\u0219tin\u0103. C\u00e2nd e programat s\u0103 revin\u0103 \u0219i ce s\u0103rb\u0103toare mai love\u0219te",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Boris Johnson urmeaz\u0103 s\u0103 reduc\u0103 implicarea Huawei \u00een dezvoltarea re\u021belei 5G din Marea Britanie",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Un caracalean se chinuie s\u0103-\u0219i \u00eenve\u021be cardul s\u0103 nu mai dea comisioane",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Le Figaro: Cum trage China sforile la OMS. Etiopianul Tedros Adhanom Ghebreyesus, fost membru al Partidului Comunist Etiopian, un pion al Beijingului",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Ministrul de Interne a decis redeschiderea unui site care a fost \u00eenchis pentru \u0219tiri false, cu promisiunea c\u0103 acestea vor fi \u0219terse",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Poli\u021bia \u0219i jandarmeria ne amendeaz\u0103 dup\u0103 ritualuri masonice: \u00eent\u00e2i au dat 222 de amenzi, azi anun\u021b\u0103 444 de amenzi",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Covid-19 chiar exist\u0103! L-a patentat Bill Gates \u00een 2015: documente \u0219i leg\u0103turi",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Washingtonul acuz\u0103 Beijingul c\u0103 deruleaz\u0103 un \"blitzkrieg economic\" pentru a \"dep\u0103\u0219i\" Statele Unite",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "UE vrea s\u0103 cambat\u0103 teoriile conspira\u021bioniste despre o leg\u0103tur\u0103 \u00eentre 5G \u015fi r\u0103sp\u00e2ndirea COVID-19",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Agenda globalist\u0103: crearea unui super-stat european",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "La GoTech World 2020: The new reality. Digi aduce oferte pentru clien\u021bii corporate \u0219i prezent\u0103ri inedite \u00een sec\u021biunile tematice",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Oameni de \u0219tiin\u021b\u0103 de la OMS afirm\u0103 c\u0103 nu exist\u0103 \u201enicio dovad\u0103\u201d c\u0103 vaccinurile \u00eempiedic\u0103 circula\u021bia covid-19",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Judoka Vl\u0103du\u0163 Simionescu a scos la licita\u0163ie telefonul \u015fi c\u0103\u015ftile primite cadou la Jocurile Olimpice de la Tokyo",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Nikita Mihalkov \u2013 Bill Gates urm\u0103re\u0219te microciparea popula\u021biei!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Mediastandard.ro: Algoritmul YouTube recomand\u0103 con\u021binut instigator la ur\u0103 \u0219i dezinformare",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Breaking: armata Rom\u00e2niei va fi implicat\u0103 \u00een vaccinarea popula\u021biei",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Cum v\u0103d francezii \u201elumea de dup\u0103\u201d criza coronavirusului: re\u00eentoarcerea la agricultura ecologic\u0103 \u0219i relocarea \u00een Europa a produc\u021biilor strategice, considerate prioritare \u00een urma unei dezbateri publice cu peste 165.000 de participan\u021bi",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Rafila confirm\u0103 c\u0103 vaccinul anti-Covid modific\u0103 ADN-ul",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "NYT: Surprinse \u00eentr-o spiral\u0103 ideologic\u0103, Statele Unite \u0219i China se \u00eendreapt\u0103 spre un R\u0103zboi Rece",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Elitele de la Davos \u0219i noul r\u0103zboi cultural global",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Romania nu a primit doze din lotul de vaccin AstraZeneca cu suspiciuni. Valeriu Gheorghita: \"Peste 200.000 de persoane vaccinate, fara reactii adverse deosebite\"",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "MILIOANE DE ROM\u00c2NI SUNT IRADIA\u021aI ZILNIC CU OCAZIA TRIAJULUI EPIDEMIOLOGIC?!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Fostul vicepre\u0219edinte al Pfizer rupe t\u0103cerea: \u201eAvem nevoie de Dumnezeu mai mult ca oric\u00e2nd\u201d. Dezv\u0103luirile omului de \u0219tiin\u021b\u0103",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Propunere revolu\u021bionar\u0103: Comisia European\u0103 vrea ca fiecare cet\u0103\u021bean s\u0103 aib\u0103 o \u201dcarte de identitate digital\u0103\u201d pentru a elimina birocra\u021bia \u0219i a cre\u0219te gradul de digitalizare a serviciilor",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Raport german: Coronavirusul, alarm\u0103 fals\u0103!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "C\u00ee\u021bu ne demonstreaz\u0103: Coronavirusul circul\u0103 noaptea. Au fost impuse restric\u021bii de circula\u021bie \u0219i \u00een alte \u021b\u0103ri din UE",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "AVERTISMENTUL unui medic: care sunt ALIMENTELE care fac VICTIME sigure \u00een fa\u021ba coronavirusului",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Mediastandard.ro: Dezinformarea privind 5G \u0219i Covid s-a r\u0103sp\u00e2ndit de dou\u0103 ori mai repede dec\u00e2t alte teorii",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Business report: Unde se poate c\u0103l\u0103tori \u00een primele zile din 2021. Escrocherie de peste 35.000 de euro cu oferte false de Revelion. Obiceiuri surprinz\u0103toare la trecerea dintre ani. Cele mai a\u015fteptate telefoane",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "\u00cen Europa, noul Drum sanitar al M\u0103t\u0103sii promovat de China st\u00e2rne\u0219te nemul\u021bumiri / Rusia, dezinformarea \u0219i doctrina soft power",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Miliardarul Microsoft, Bill Gates - 64 de ani - a fost arestat ast\u0103zi, 12.mai 2020, de FBI sub acuza\u021bia de terorism biologic.",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "\u00cencepe nebunia! Pandemia de coronavirus aduce FOAMETEA!",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Num\u0103rul de modele electrice \u0219i hibride plug-in aflate la v\u00e2nzare \u00een Rom\u00e2nia a crescut cu 70% \u00een \u0219ase luni",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Un nou tip de coronavirus a fost descoperit \u00een Anglia. Este o muta\u021bie a Covid-19 \u0219i e rezistent \u00eempotriva vaccinurilor",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Coronavirus: Parlamentarii iranieni cer interzicerea vaccinurilor anti-COVID-19 occidentale",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Site web blocat pentru fake news: \"Black Topics\" lega apari\u021bia coronaviruslui de tehnologia 5 G",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Comisia European\u0103 traseaz\u0103 calea c\u0103tre o Europ\u0103 autonom\u0103 din punct de vedere digital p\u00e2n\u0103 \u00een 2030",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Un ONG bucure\u0219tean recomand\u0103 ca Suarez s\u0103 fie sterilizat \u0219i eliberat \u00eenapoi pe terenul de fotbal",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "\u201eNu este nevoie de vaccin. Pandemia s-a \u00eencheiat\u201d. Fostul \u0219ef \u0219tiin\u021bific al Pfizer acuz\u0103 c\u0103 \u201eal doilea val\u201d a fost falsificat cu ajutorul testelor Covid",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Rom\u00e2nia ar avea propria TULPIN\u0102 de coronavirus - Presa str\u0103in\u0103 scria de ea de anul trecut",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Virusul tic\u0103lo\u0219iei",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Iohannis: Crearea unui consens pentru o Rom\u00e2nie digital\u0103, \u00eenceputul unui drum c\u0103tre o Rom\u00e2nie normal\u0103",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "WhatsApp a introdus cea mai strict\u0103 regul\u0103 de p\u00e2n\u0103 acum, pentru a lupta \u00eempotriva mesajelor false",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "\u00abCertificatele imunitare\u00bb, f\u0103r\u0103 de care nu vom putea ie\u0219i din cas\u0103 nevaccina\u021bi",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "MEDIC LEGIST GERMAN: \u201eNU EXIST\u0102 VIRUS UCIGA\u0218\u201d",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Trump anun\u021b\u0103 c\u0103 a anulat discu\u021biile comerciale cu China din cauza r\u0103spunsului la pandemie",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Alert\u0103: copiii pot fi vaccina\u021bi obligatoriu la \u0219coal\u0103!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Momente penibile cu influenceri din perioada COVID-19 care arat\u0103 c\u0103 internetul poate fi uneori toxic",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "\u201eNu v\u0103 mai l\u0103sa\u021bi testa\u021bi, dac\u0103 vre\u021bi s\u0103 tr\u0103i\u021bi \u0219i dup\u0103 2021.",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Dup\u0103 valul de critici, Vlad Voiculescu schimb\u0103 mesajul! Ce le recomand\u0103 rom\u00e2nilor pentru seara de Revelion",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Polemic\u0103 Beijing-Brazilia dup\u0103 acuza\u0163iile unui fiu al pre\u015fedintelui Bolsonaro privind spionajul cibernetic chinez",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Un rom\u00e2n a descoperit vaccinul contra coronavirusului dar nu e l\u0103sat s\u0103-l produc\u0103",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Statele Unite deschid un nou front cu China prin faptul c\u0103 \u0219i-au reafirmat sprijinul acordat Taiwanului",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Explozia serviciilor digitale utilizate la domiciliu alimenteaz\u0103 temerile legate de s\u0103n\u0103tate \u015fi de confiden\u0163ialitatea datelor (studiu EY)",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "C\u00ee\u0163u: Guvernul va aproba acte normative care nu suport\u0103 am\u00e2nare  achizi\u0163ia a 4,2 milioane de vaccinuri Pfizer",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Tehnologia 5G va fi numit\u0103 \u00een Rom\u00e2nia Sistemul Arsenie Boca, s\u0103 \u0219i-o doreasc\u0103 to\u021bi",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Bunica de 90 de ani vaccinat\u0103 de COVID spune c\u0103 se cro\u015feteaz\u0103 mult mai bine cu 3 m\u00e2ini",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Eugenistii care ne vor vaccina (II)",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Mi\u0219c\u0103ri tectonice \u00een jurul Rom\u00e2niei: Retragerea trupelor americane din Germania, schimbarea major\u0103 a Statelor Unite fa\u021b\u0103 de Rusia din cauza Chinei \u0219i cum transform\u0103 pandemia Uniunea European\u0103",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Rom\u00e2nia trebuie s\u0103 dea startul unui proces amplu de consolidare fiscal-bugetar\u0103 \u00een acest an (Consiliul Fiscal)",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "COVID-19, o simpl\u0103 grip\u0103 - Recomandarea lui Boris Johnson",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Uite virusul, nu e virusul: pandemia covid, 100% fraud\u0103 planetar\u0103",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "FOTO Kylian Mbappe s-a vaccinat anti-Covid",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Gura p\u0103c\u0103tosului adev\u0103r gr\u0103ie\u0219te ?! \u201e\u2026furnizorii (de vaccinuri) au r\u0103mas f\u0103r\u0103 oameni ce vor s\u0103 fie eutanasia\u021bi.\u201d",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Huawei a raportat venituri de peste 100 de miliarde de dolari, \u00een primele nou\u0103 luni din 2020",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "China - Robo\u0163ii, trimi\u015fi \u00een prima linie a luptei \u00eempotriva epidemiei de coronavirus",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Pot fi b\u0103gate cipuri \u00een corpul uman prin intermediul vaccinurilor? De unde a pornit aceast\u0103 conspira\u021bie anti-Bill Gates",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Oprea (ADR): Se lucreaz\u0103 la un sistem de interoperabilitate a bazelor de date de\u0163inute de institu\u0163iile publice din Rom\u00e2nia",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Curtea Suprem\u0103 austriac\u0103 respinge obligativitatea botni\u021bei la \u0219coal\u0103",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Coronavirusul, ucis de POLIDIN!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Vaticanul Ro\u0219u: Papa cere folosirea pandemiei de COVID pentru impunerea unei Noi Ordini Mondiale",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Elitele care au instaurat deja Noua Ordine Mondial\u0103 preg\u0103tesc terenul: cine nu se vaccineaz\u0103 va fi exclus social!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "UE negociaz\u0103 cu al cincilea produc\u0103tor major pentru vaccinul anti-Covid",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "R\u0102SP\u00c2NDI\u021aI: Organiza\u021bia Mondial\u0103 a S\u0103n\u0103t\u0103\u021bii confirm\u0103 prin statistici c\u0103 virusul COVID nu este mai periculos dec\u00e2t gripa obi\u0219nuit\u0103",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "PSD: Iohannis \u015fi Guvernul Orban v\u00e2nd rom\u00e2nilor iluzia unui vaccin anti-COVID",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Turn 5G deghizat instalat pe furi\u0219, \u00een vreme ce noi suntem bloca\u021bi \u00een case \u2013 adev\u0103ratul scop al acestei tehnologii",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Apple a lansat un nou iPhone ieftin pentru a cre\u015fte v\u00e2nz\u0103rile \u00eenaintea modelului 5G",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Disput\u0103 medical\u0103. Dr. Olivia Steer \u0219i dr. Ion Cristoiu se contrazic pe COVID",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Imagini sc\u00e2rboase cu \u015eo\u015foac\u0103 \u00een Parlament, c\u0103ut\u00e2ndu-se de cipuri \u00een nas",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "AUTORIT\u0102\u0162ILE UCRAINENE DECLAR\u0102 C\u0102 A PARTICIPA LA LITURGHIA ORTODOX\u0102 E O \u201cDISTRAC\u0162IE\u201d DE CARE TE PO\u0162I LIPSI",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Un rom\u00e2n sus\u0163ine c\u0103 reptilienii i-au implantat un cip care piuie c\u00e2nd iese din supermarket",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Un card de salariu cu adev\u0103rat masculin! Simte c\u00e2nd e \u00een po\u0219eta femeii \u0219i se demagnetizeaz\u0103 singur",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Industria german\u0103 cere UE s\u0103-\u015fi \u00een\u0103spreasc\u0103 r\u0103spunsul la practicile comerciale incorecte ale Chinei",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Coronavirus: Pre\u015fedinta Comisiei Europene organizeaz\u0103 un teledon mondial pentru finan\u0163area descoperirii unui vaccin",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Realii papusari nu ne arata vreo luminita la capatul tunelului, deoarece vor ca masele nemultumite sa gaseasca o unica solutie: RAZBOIUL si REVOLUTIA",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Dr. Carrie Madej din SUA ne dezv\u0103luie PERICOLELE URIA\u0218E pentru s\u0103n\u0103tate pe care le poate avea VACCINUL anti- COVID",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "OMS recunoa\u0219te EFECTELE vaccin\u0103rii: num\u0103rul deceselor \u0219i a infect\u0103rilor a crescut. Tot OMS se declar\u0103 \u00eempotriva pa\u0219aportului de vaccinare",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Decizia CEDO de azi va duce la vaccinarea anti-Covid obligatorie",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Ai \u015fobolani \u00een gospod\u0103rie? Acum trebuie microcipa\u0163i \u015fi vaccina\u0163i",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Mike Pompeo trage un semnal de alarm\u0103: \u201eLaboratorul din Wuhan e \u00eenc\u0103 \u00een func\u021biune\u201c ",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Kanye West \u00ee\u0219i anun\u021b\u0103 candidatura la pre\u0219edin\u021bia SUA, cu sloganul DA. Ce spune despre Donald Trump \u0219i cine l-a convins s\u0103 candideze",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Ivermectina, medicamentul miraculos \u00eempotriva Covid-19 pe care dac\u0103 \u00eel iei, nu te \u00eemboln\u0103ve\u0219ti \u2013 potrivit dr. Pierre Kory, pre\u0219edintele FLCCC Alliance",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Beijingul acuz\u0103 Washingtonul c\u0103 vrea s\u0103 elimine Huawei ''prin orice mijloace'', dup\u0103 o aten\u0163ionare a SUA \u00een Brazilia",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Revista TIME. Melinda Gates: \u201eNegrii vor fi primii vaccina\u021bi\u201d",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "ZECE MOTIVE PENTRU CARE SARS-COV-2 ESTE UN VIRUS \u201eIMAGINAR\u201d \u0218I \u201eTEORETIC\u201d. \u201eNU AU IZOLAT NICIODAT\u0102 VIRUSUL\u201d",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "De ce vor muri vaccina\u021bii anti-Covid pe captete",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "40% dintre bulgari cred c\u0103 noul coronavirus\u00a0este o arm\u0103 biologic\u0103 creat\u0103 pentru a reduce popula\u021bia de pe Glob (sondaj)",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Trump: \u201e99% din cazurile de Covid-19 sunt total inofensive.\u201d",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Peru: Ni\u015fte \u0163\u0103rani au \u0163inut captivi opt tehnicieni de teama consecin\u0163elor instal\u0103rii tehnologiei 5G",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Rom\u00e2nul care cre\u0219te c\u00e2ini \u0219o\u0219ocari nu poate dormi de la l\u0103trat",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Vaccinul lui Bill Gates, rezultate \u00eencurajatoare. Cipul se ata\u0219eaz\u0103 perfect la creier!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "INTERVIU Mihai Tudose: Solu\u021bia pentru re-industrializarea UE este \u00een Europa de Est, de Sud \u0219i \u00een \u021b\u0103rile balcanice. Se poate dezvolta \u00een regiunea noastr\u0103 atelierul de care are nevoie UE",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Twitter a \u00eenchis contul conspira\u0163ionistului David Icke pentru ''\u00eenc\u0103lcarea regulilor privind dezinformarea COVID''",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Coronavirusul este pretextul pentru fuziunea identit\u0103\u021bii noastre fizice, digitale \u0219i biologice",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Breaking! Documentele care con\u021bin lista efectelor adverse cauzate de vaccinurile anti-COVID-19",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "ONU, sub controlul lui Bill Gates",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Cercet\u0103torii sunt uimi\u0163i de\u2026 dispari\u0163ia gripei! Dar chiar a disp\u0103rut, sau e doar mascat\u0103 de Covid-19?",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Iohannis s-a r\u0103zg\u00e2ndit cu vaccinul, c\u0103 are deja vreo opt cipuri \u00een cap",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Neti Sandu are COVID. L-a luat de la cineva \u00een Gemeni cu ascendent \u00een Taur",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Noi reguli pentru simplificarea instal\u0103rii re\u021belelor 5G \u00een UE: Antenele vor avea limite stricte de expunere la radia\u021bii pentru protec\u021bia s\u0103n\u0103t\u0103\u021bii",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "C\u00ee\u021bu, \u00een corzi. Rom\u00e2nii nu mai vor s\u0103 se vaccineze",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "MASCA \u2013 INSTRUMENT AL FRICII, AL \u00ceNROBIRII \u015eI AL MINCIUNII",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Livr\u0103rile globale de smartphone-uri vor sc\u0103dea cu aproape 12% anul acesta (IDC)",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Raport PwC: Tehnologia 5G va m\u0103ri productivitatea, contribuind cu 1,3 trilioane de dolari la PIB-ul global, p\u00e2n\u0103 \u00een 2030",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Dr. Mike Yeadon: Pandemia s-a sf\u00e2r\u015fit \u2013 \u201cCel de-al doilea val\u201d este fabricat prin testele fals-pozitive de COVID",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Nimeni nu poarta masca la Copenhaga, Stockholm sau Oslo. ",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Coronavirus: Am\u00e2narea summitului UE-China programat \u00een septembrie, \u00een Germania",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Fauci recunoa\u0219te c\u0103 masca nu protejeaz\u0103 \u00eempotriva Covid \u0219i recomand\u0103 purtarea \u0219i a ochelarilor",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Capii Facebook, Google \u015fi Twitter pu\u0219i la col\u021b de Congresul american pentru c\u0103 nu au CENZURAT destul \u00een leg\u0103tur\u0103 cu plandemia",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "A ap\u0103rut vaccinul anti-COVID sub form\u0103 de iaurt: \u201eEste pur \u0219i simplu lapte fermentat cu bacterii ce con\u021bin genele coronavirusului\u201d",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Twitter va eticheta post\u0103rile care asociaz\u0103 re\u021belele 5G cu noul coronavirus",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "The Financial Times: India \u00ee\u0219i alege o tab\u0103r\u0103 \u00een noul r\u0103zboi rece. E o nebunie din partea Chinei s\u0103-\u0219i \u00eemping\u0103 rivalul \u00een bra\u021bele Americii",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Peste 750 de milioane de cipuri AI \u00eencorporate \u00een mobile vor fi v\u00e2ndute \u00een 2020  venit estimat de 2,6 miliarde de dolari (studiu)",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "\"Partida rus\u0103\" din energie",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Vaccinarea obligatorie! Dictatura BigPharma s-a declan\u0219at",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "AMD negociaz\u0103 preluarea rivalului Xilinx pentru 30 de miliarde de dolari",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Circa 23% dintre responden\u0163ii din Rom\u00e2nia au un telefon compatibil cu tehnologia 5G (raport)",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Scandal diplomatic: Premierul Australiei someaz\u0103 China s\u0103 \u00ee\u0219i cear\u0103 scuze pentru o postare despre solda\u021bii australieni",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Editorial  Putem s\u0103 fim o echip\u0103 na\u021bional\u0103?",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Dr. Fauci vorbea constant cu Bill Gates \u0219i Mark Zuckerberg, \u0219tia c\u0103 m\u0103\u0219tile nu func\u021bioneaz\u0103 \u0219i era con\u0219tient de probabilitatea unei scurgeri din laboratorul din Wuhan, reiese din e-mail-uri lui, prezentate de presa american\u0103 conservatoare",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Germania: Vicepremierul Olaf Scholz, despre uria\u0219ul plan de ie\u0219ire din cea mai grav\u0103 recesiune postbelic\u0103: \"Vrem s\u0103 ie\u0219im \u00een for\u021b\u0103 din criz\u0103\". M\u0103surile decise \u0219i o not\u0103 de optimism",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Huawei a raportat venituri de aproape 65 miliarde de dolari \u00een primul semestru din 2020",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Indienii au g\u0103sit leac la Covid-19. Ce tehnic\u0103 tradi\u021bional\u0103 ajut\u0103 la combatere",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Valneva a anun\u021bat lansarea unui studiu clinic de faz\u0103 3 \u00een care \u00ee\u0219i va compara vaccinul contra Covid-19 cu cel AstraZeneca",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Business report: Magazinele au avut \u00een aceast\u0103 perioad\u0103 v\u00e2nz\u0103ri mai mari dec\u00e2t de Cr\u0103ciun, la anumite categorii de produse  Coronavirus - cum se simte un antreprenor \u00een Rom\u00e2nia, ast\u0103zi  Un gigant de lux se al\u0103tur\u0103 luptei \u00eempotriva coronavirusului. Va produce dezinfectant",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Premierul italian Giuseppe Conte promite un plan 'clar' pentru relansarea economiei",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Vinovatul de serviciu: Tehnologia 5G \u0219i teoriile conspira\u021bioniste despre coronavirus",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Oficiali din Guvern \u0219i SRI: Ne confrunt\u0103m cu o adev\u0103rat\u0103 pandemie \u0219i \u00een spa\u021biul cibernetic . Ce victime au fost \u00een Rom\u00e2nia \u0219i semnalul de alarm\u0103 \u00een privin\u021ba securit\u0103\u021bii 5G",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Guvernul Wuhannis umfl\u0103 cifrele \u201einfecta\u021bilor\u201d de covid-19 pentru a primi cele 33 miliarde de euro din partea UE",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "O mare victorie pentru Omenire \u0219i Libertate: Curtea Suprem\u0103  a Statelor Unite a anulat Vaccinarea Universal\u0103 pe care o preconiza Banda lui Bill Gates \u0219i a celorlal\u021bi t\u00e2lhari mondiali\u0219ti",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "INTERESANT Valeriu Gheorghi\u021b\u0103 nu-i las\u0103 pe pacien\u021bi s\u0103 decid\u0103 cu ce doz\u0103 s\u0103 se vaccineze: Moderna sau Pfizer",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Cazurile de COVID-19 s-au \u00eenmul\u021bit dup\u0103 introducerea obligativit\u0103\u021bii m\u0103\u0219tilor",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "R\u0103zboiul psihologic COVID: \u201eTehnici de modificare comportamental\u0103\u201d pentru supunerea popula\u021biei",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Henry Kissinger avertizeaz\u0103 c\u0103 deteriorarea rela\u021biilor SUA-China ar putea provoca \"o catastrof\u0103 comparabil\u0103 cu Primul R\u0103zboi Mondial\"",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "GRAFICE \u200bLa ce opera\u021biuni renun\u021b\u0103 DIGI \u00een Ungaria, dup\u0103 v\u00e2nzarea afacerilor c\u0103tre o companie controlat\u0103 de apropia\u021bi ai premierului Viktor Orban",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "UPDATE! \u00ceNC\u0102 DOI ROM\u00c2NI UCI\u0218I DE VACCIN. Un profesor de 45 de ani din Arge\u0219 \u0219i un b\u0103rbat de 46 de ani din Tg. Jiu au murit la nici 24 de ore dup\u0103 ce s-au vaccinat cu PFIZER / BioNTech. BILAN\u021aUL NEGRU \u00eenregistrat de ACTIVENEWS",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Guvernul olandez cere cet\u0103\u021benilor S\u0102 NU POARTE MASC\u0102!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "\u200bO noua strategie de securitate cibernetic\u0103 a UE: Reducerea expunerii fa\u021b\u0103 de furnizorii 5G cu grad ridicat de risc, un scut bazat pe Inteligen\u021ba Artificial\u0103 \u0219i rolul centrului de la Bucure\u0219ti",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Japonia, investi\u0163ie de miliarde de dolari pentru o fabric\u0103 unde s\u0103 fie produse cele mai noi cipuri (Yomiuri)",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Mecanismul european de redresare: Nu exist\u0103 proiecte care s\u0103 fie excluse din start de la finan\u021bare, dar trebuie respectate anumite condi\u021bii / Dac\u0103 proiectele din PNRR nu sunt finalizate p\u00e2n\u0103 la finalul anului 2026, banii vor fi returna\u021bi",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "DOCUMENT Dou\u0103 site-uri, \u00eenchise de autorit\u0103\u021bi pentru c\u0103 au publicat \u0219tiri false legate de coronavirus",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Ex Machina (2015) \u2013 Much more human than human",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Cercet\u0103tor german: Virusul a fost creat \u00een Laborator",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Marea Britanie se preg\u0103te\u0219te s\u0103 suspende tratatul de extr\u0103dare cu Hong Kong",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Chinezii r\u00e2d \u00een hohote de pro\u0219tii care au luat \u00een serios teatrul din Wuhan",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Secretarul de stat american Mike Pompeo \u00eel acuz\u0103 pe \u015feful OMS c\u0103 a fost ''cump\u0103rat'' de China (pres\u0103)",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Exterminarea omenirii intr\u0103 \u00eentr-o nou\u0103 faz\u0103? \u00cen SUA se propune purtarea a dou\u0103 m\u0103\u0219ti deodat\u0103 de c\u0103tre aceea\u0219i persoan\u0103",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Cu \u00eengrijorare, despre vaccinare: vaccinul covid = legume modificate genetic",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Ve\u0219ti bune! S\u0103tenii din Suraia v\u00e2nd vaccin Pfizer \u00een Pia\u021ba Obor",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Pentru c\u0103 sunt prea agresivi, iubitorii de maidanezi vor fi steriliza\u0163i s\u0103 nu se \u00eenmul\u0163easc\u0103",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Raport EY: 8 din 10 companii din sectorul telecom reg\u00e2ndesc planurile de transformare digital\u0103 pe fondul pandemiei",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Afacerile Orange Rom\u00e2nia au sc\u0103zut cu 2,1% p\u00e2n\u0103 la 273,1 milioane euro \u00een trimestrul trei, pe fondul v\u00e2nz\u0103rilor moderate de echipamente \u00een criza COVID-19",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Vaccinarea cu Pfizer dezvolt\u0103 \u0219i temuta boal\u0103 Zona Zoster, chiar \u0219i la cei tineri",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Comisia de Ap\u0103rare din Parlamentul britanic anun\u021b\u0103 c\u0103 are dovezi c\u0103 Huawei ac\u0163ioneaz\u0103 \u00een complicitate cu statul chinez",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Ceaiul care poate ajuta in lupta cu COVID-19",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Vaccinurile omoar\u0103 mai mul\u021bi oameni dec\u00e2t COVID. STUDII",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Samsung prognozeaz\u0103 un profit peste a\u015ftept\u0103ri \u00een primul trimestru",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Secretarul general al NATO: Este important ca Regatul Unit s\u0103 reanalizeze rolul Chinei la re\u0163eaua sa 5G",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Pentagonul public\u0103 o list\u0103 de companii care ar avea leg\u0103tur\u0103 cu armata chinez\u0103",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "''Ora Guvernului'': procedur\u0103 \u015fi cronologie",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "BBC Mundo: Impactul economic al epidemiei de coronavirus este evident, dar e imposibil de \u015ftiut c\u00e2t se va extinde",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Corporate News: Profitul companiei Samsung decoleaz\u0103, propulsat de v\u00e2nz\u0103rile de smartphone-uri \u0219i de problemele Huawei",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Coronavirus: Institutul de cercetare economic\u0103 Ifo din Germania vede \u00een varianta delta o amenin\u0163are pentru economie",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Donald Trump nu mai are ''acelea\u015fi sentimente'' fa\u0163\u0103 de Xi Jinping",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Cel mai influent manager din presa european\u0103, editorial devastator la adresa Chinei: Ce vor UE \u0219i Germania? O alian\u021b\u0103 cu democra\u021bia imperfect\u0103 din SUA sau cu dictatura perfect\u0103 din China? Alegerea nu e doar despre bani, ci despre libertate \u0219i demnitatea uman\u0103",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Editorial  O \u0219ans\u0103 istoric\u0103: 30 de miliarde de euro \u00een 3 ani pentru spitale, autostr\u0103zi, digitalizare \u0219i ecologizare",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Arafat ne bag\u0103 din nou \u00een cea\u021b\u0103 privind coronavirusul",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Ofert\u0103 \u0219i contraofert\u0103: dup\u0103 ce mai multe afaceri din Bra\u0219ov au oferit un discount de 10% pentru cei care se vaccineaz\u0103, o afacere din T\u00e2rgu Jiu ofer\u0103 20% reducere pentru cei refuz\u0103 vaccinul anti covid",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "\u00cenc\u0103 un site blocat pentru informa\u021bii false despre evolu\u021bia COVID-19: Un blog care ar fi promovat conspira\u021bii despre noul coronavirus, vaccinuri \u0219i tehnologia 5G",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "OMS dezv\u0103luie genocidul ce se va produce \u00een urma vaccin\u0103rii anti-covid",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Ziua Comunica\u0163iilor 2021, edi\u0163ie aniversar\u0103 de 25 de ani",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Cei care merg iute au \u0219anse de 4 ori mai mici s\u0103 ia Covid",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Twitter va ad\u0103uga etichete \u015fi mesaje de avertizare la unele tweeturi cu informa\u0163ii controversate sau \u00een\u015fel\u0103toare despre COVID-19",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Dictatura COVID \u0219i Poligonul de \u00eencercare Rom\u00e2nia",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Dr Fauci nu crede \u00een eficacitatea total\u0103 a vaccinului: Purta\u021bi masc\u0103 \u0219i dup\u0103",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Milionarul american Elon Musk vrea ca p\u00e2n\u0103 \u00een 2021 s\u0103 microcipeze to\u021bi rom\u00e2nii",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Renate Weber le cere doctorilor milui\u0163i de Iohannis s\u0103 renun\u0163e la mascarad\u0103",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Pandemia va tine 2 ani exact c\u00e2t au ei nevoie pt implementarea noii tehnologii 5G la nivel mondial!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Serialul Netflix \u201cMy Secret Terrius\u201d a prezis \u00een 2018 apari\u0163ia coronavirusului cu o acurate\u0163e alarmant\u0103! \u201cAtac\u0103 direct pl\u0103m\u00e2nii!\u201d",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Sf\u00e2r\u0219itul republicii automobilistice germane? O nou\u0103 er\u0103, a automobilelor ecologice",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "VIDEO Bill Gates, \u0163inta unor teorii ale conspira\u0163iei care-l fac vinovat de pandemia coronavirusului",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Vaccinul, primul obiectiv al provocatei pandemii cu coronavirus este in curs de desfasurare!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Profesorul japonez de fiziologie  medicinal\u0103, dr. imunolog Tasuku Honjo, a provocat ast\u0103zi senza\u021bie \u00een mass-media, spun\u00e2nd c\u0103 virusul corona nu este natural",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Bill Gates are patentul vaccinului pentru virusul mortal de la Wuhan! Se a\u0219teapt\u0103 60 de milioane de mor\u021bi!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Sondaj: \u015etirile false \u015fi slaba informare a publicului - pricipalele cauze ale scepticismului privind vaccinarea",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Afacerile Huawei cu operatorii de telecomunica\u0163ii dispar, anun\u021b\u0103 \u0219eful diploma\u021biei americane",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Forum de securitate cibernetic\u0103, organizat joi \u00een sistem online",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Vela \u2013 Str\u0103nu\u021bi pe strad\u0103, e\u0219ti bun de pu\u0219c\u0103rie!",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Coronavirusul, conceput \u00een laborator ca o arm\u0103 biologic\u0103 de distrugere \u00een mas\u0103",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Un rom\u00e2n angajat la Oculta Mondial\u0103 \u015fi-a f\u0103cut anten\u0103 5G din piese furate de la munc\u0103",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Femeie arestat\u0103 \u00een Anglia pentru c\u0103 a filmat un spital gol",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "[VIDEO] M\u0103\u0219tile con\u021bin parazi\u021bi? Din acest motiv s\u0103 fie interzis\u0103 ivermectina, un anti-parazitar?",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Raed Arafat confirm\u0103 c\u0103 ne vom vaccina de PATRU ORI pe an: 'Imunitatea, dup\u0103 vaccin, este de 6-8 luni'",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Ambasadorul SUA: Corpora\u021biile corupte din China comunist\u0103, precum Huawei \u0219i ZTE, nu \u00ee\u0219i au locul \u00een Rom\u00e2nia democratic\u0103",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Mike Pompeo \u00eel acuz\u0103 pe \u015feful OMS c\u0103 a fost \"cump\u0103rat\" de guvernul Chinei",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Secretarul de stat american Michael Pompeo, mesaj adresat Rom\u00e2niei: \u201eV\u0103 dorim pace, prosperitate \u015fi mult\u0103 s\u0103n\u0103tate \u00een anul care vine\u201d",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Pre\u015fedintele CIO opineaz\u0103 c\u0103 JO 2020 vor fi primele din a patra revolu\u0163ie industrial\u0103",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "\u0218i vaccinul Pfizer UCIDE! Un t\u00e2n\u0103r de doar 35 de ani din Vaslui a murit la 48 de ore de la rapel",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Profesorul Streinu Cercel: Spirtul nu folose\u0219te la nimic",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "ODAT\u0102 VACCINAT, E\u0218TI IREVERSIBIL MODIFICAT GENETIC PRIN PARTICULE SINTETICE \u0218I, MAXIM\u0102 ATEN\u021aIE: VEI AVEA PROPRIETARI. (VIDEO)",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Deputatul PNL, Ovidiu Rae\u021bchi: Rom\u00e2nia ar trebui s\u0103 \u00eencheie contracte \u00een sectoarele de infrastructur\u0103 strategic\u0103 doar cu state din spa\u0163iul euro-atlantic, sau cu companii din state cu valori democratice",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Biserica Ortodox\u0103 din Moldova, subordonat\u0103 Rusiei, \u00eendeamn\u0103 \u201es\u0103 se \u021bin\u0103 post aspru\u201d \u0219i \u201es\u0103 ne rug\u0103m unii pentru al\u021bii\u201d, \u00een contextul pandemiei COVID-19. Ini\u021bial, \u0219efii Bisericii au lansat teorii ale conspira\u021biei cu Bill Gates, antene 5G \u0219i vaccin cu microcip",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "EXCLUSIV: Vaccinarea obligatorie se va face la ordinul ministrului S\u0103n\u0103t\u0103\u021bii cu recomandarea OMS. Amenzi de p\u00e2n\u0103 la 10 mii de lei",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Coronavirus: Antene de telecomunica\u0163ii, atacate pe fondul teoriilor conspira\u0163iei \u00een Marea Britanie",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Accidentele \u0219i coinciden\u021bele care au dus la pandemia Covid-19",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Veste devastatoare pentru lumea televiziunii. Toni Grecu este internat \u00een spital, bolnav de COVID-19",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Fost ministru rom\u00e2n: coronavirusul a fost creat \u00een laborator \u0219i brevetat la Paris",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "COVID-19 \u0219i articolele cu num\u0103rul 33. Ordin pe unitate? Simbolism?",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "FOX NEWS TV SUA DEZV\u0102LUIE CUM VOR OMS, BILL GATES \u0218I DEMOCRA\u021aII AMERICANI S\u0102 CONTROLEZE MASELE, SUB PRETEXTUL COVID-19. VIDEO",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "VIDEO Klaus Iohannis pledeaz\u0103 pentru solidaritate transatlantic\u0103, la recep\u021bia ambasadei SUA cu ocazia Zilei Independen\u021bei",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Presa Interna\u021bional\u0103 Confirm\u0103 : Dovezi c\u0103 virusul corona este f\u0103cut \u00een laborator",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Proiectul chinez de infrastructuri \u2018Noul drum al m\u0103t\u0103sii\u2019, un instrument de \u2018propagand\u0103\u2019 (ministru australian)",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Comisia European\u0103: Toate statele membre au lansat un proces de revizuire \u015fi de consolidare a m\u0103surilor de securitate aplicabile re\u0163elelor 5G",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Un num\u0103r de 12 m\u0103rci de motociclete \u015fi scutere, disponibile \u00een Programul Rabla Moto 2020 (asocia\u0163ie)",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Apple vrea s\u0103 majoreze cu 20% produc\u0163ia noului model de iPhone",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": " UPDATE: Hristos Pilalis, Directorul adjunct al unui mare spital din Atena - Thriasio -, este \u00een stare grav\u0103 la 24 ore de la administrarea vaccinului Pfizer/ BioNTech. So\u021bia: \"M\u0103 tem c\u0103 se \u00eencearc\u0103 s\u0103 se ascund\u0103 faptul c\u0103 este o reac\u021bie advers\u0103 la vaccin\"",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Congela\u021bi sperma \u00eenainte de vaccinul covid pentru a proteja fertilitatea \u2013 spun cercet\u0103torii de la Universitatea din Miami",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Rom\u00e2nia, oficial: peste 8.000 de rom\u00e2ni vaccina\u021bi s-au \u00eemboln\u0103vit\u2026 de Covid",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "STUDIUL care-l bag\u0103 pe Arafat \u00een pu\u0219c\u0103rie: \u00cenchiderea magazinelor la ora 18:00 duce la CRE\u0218TEREA infect\u0103rilor C0VID",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "OMS \u0219i presa s-au schimbat \u00een organiza\u021bii teroriste pe timp de pandemie",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Dup\u0103 re\u021beaua 5G, Vodafone anun\u021b\u0103 o nou\u0103 revolu\u021bie \u00een tehnologie: un site func\u021bional",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Suntem terminati ca specie. Pregatesc terenul pentru a ne comunica, in curand, ca acest coronavirus se transmite si prin fecale, canalizare, sobolani, pasari si alte animale",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Huawei lanseaz\u0103 cea mai recent\u0103 versiune a telefonului s\u0103u pliabil",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "D\u0103ncil\u0103 are un medalion cu num\u0103rul de telefon al lui Dragnea, \u00een caz c\u0103 se pierde",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Eugen Tomac, pre\u0219edintele PMP: Propunem \u00eenfiin\u021barea unui Minister pentru Digitalizare, Inovare \u0219i Inteligen\u021b\u0103 Artificial\u0103 pentru valorificarea performan\u021belor pe care Rom\u00e2nia le are \u00een domeniul ITC",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "S-a lansat \u0162uicafe Dolcepruno, aparatul \u00een care bagi dou\u0103 prune \u015fi iese cinzeaca",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "VIDEO Ambasadorul SUA la Bucure\u0219ti, mesaj electoral de Ziua Na\u021bional\u0103: Guvernul Orban a aplicat reforme pentru a restaura statul de drept / Corup\u0163ia endemic\u0103 \u015fi baronii ro\u015fii r\u0103ma\u015fi din anii regimului comunist nu \u00ee\u015fi au locul \u00een Rom\u00e2nia modern\u0103",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Medicii din Moldova refuz\u0103 s\u0103 se vaccineze \u00eempotriva COVID-19 ",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Comisia European\u0103 simplific\u0103 normele privind ajutoarele de stat, pentru a combate efectele economice ale pandemiei",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Interzis la rug\u0103ciune! Directorul unei institu\u0163ii publice, demis din cauz\u0103 c\u0103 a cerut ajutorul lui Dumnezeu \u00eempotriva epidemiei de coronavirus",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "5G \u00eent\u00e2rzie s\u0103 se dezvolte \u00een Europa: Comisia European\u0103 recomand\u0103 \u021b\u0103rilor UE s\u0103 aib\u0103 o abordare comun\u0103 \u0219i s\u0103 evite \u00eent\u00e2rzierile de acordare a licen\u021belor 5G",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Schimb\u0103rile 5G printre utilizatorii de smartphone-uri din 26 de \u021b\u0103ri, inclusiv Rom\u00e2nia: Unul din cinci utilizatori folose\u0219te mai pu\u021bin Wi-Fi acas\u0103 - studiu",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "UPDATE \u00cen plin\u0103 criz\u0103 politic\u0103, C\u00ee\u021bu \u00eencearc\u0103 din nou o \u0219edin\u021b\u0103 de Guvern la ora 13.00 / USR ar putea boicota din nou",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Olivia Steer are spume la gur\u0103, semn c\u0103 vaccinul de COVID e aproape gata",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Italia: Premierul Giuseppe Conte anun\u021b\u0103 un proiect post-coronavirus pentru relansarea economiei, cu sprijinul UE",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Povestea nega\u021bionistului Covid a c\u0103rui so\u021bie a murit din cauza infect\u0103rii: Nu mai pot schimba trecutul. Nu fi\u021bi necugeta\u021bi ca mine",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "\u00cen urma succesului melodiei \u201cMaidanez\u201d, c\u00e2nt\u0103re\u0163ul Puya a fost sterilizat \u015fi microcipat de prim\u0103rie",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Covid-19: preg\u0103tiri pentru DICTATURA electronic\u0103. Premierul Israelului propune CIPAREA elevilor, China le-a pus deja br\u0103\u021b\u0103ri electronice\u2026",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Dr. Emilian Imbri, despre imunitatea la COVID-19: Scade dup\u0103 o perioad\u0103 pe care speciali\u015ftii nu o cunosc ",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Ce \u00eenseamn\u0103 tehnologia 5G? Vei putea vedea 2 ore de porno \u00een 45 de minute!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Scandal la Prim\u0103ria Capitalei dup\u0103 ce hingherii au sterlizat din gre\u015feal\u0103 un v\u00e2rcolac",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Analiz\u0103 Reuters: Bill Gates nu vrea s\u0103 microcipeze oamenii. Acuza\u021biile sunt false",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Raport PwC: Tehnologia 5G va avea o contribu\u0163ie de 1,3 trilioane de dolari la PIB-ul global, p\u00e2n\u0103 \u00een 2030",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Consiliul Fiscal apreciaz\u0103 un nivel probabil al deficitului bugetar pentru anul 2020 de 9,8% din PIB",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "TEHNOLOGIA DE VACCINARE MRNA ESTE \u201ePIRATERIA SOFTWARE-ULUI VIE\u021aII\u201d. MODIFIC\u0102 GENOMUL UMAN",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Un rom\u00e2n care s-a scobit \u00een nas prin masc\u0103 \u015fi-a \u00eempins cipul 5G direct \u00een creier",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Apple se preg\u0103te\u015fte s\u0103 lanseze 75 de milioane de telefoane iPhone 5G \u00een 2020",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Blocajele au fost inspirate de Partidul Comunist Chinez. O recunoa\u0219te \u201ecreierul\u201d din spatele lockdown-ului din Anglia, Neil Ferguson",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Samsung Electronics anun\u0163\u0103 investi\u0163ii de 206 miliarde de dolari \u00een urm\u0103torii trei ani",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Samsung a redevenit cel mai mare produc\u0103tor mondial de smartphone, dar v\u00e2nz\u0103rile Xiaomi au explodat",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "S\u0103teni din Bolivia au distrus antene de telecomunica\u0163ii din cauza temerilor legate de noul coronavirus",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Europarlamentarul PLUS Drago\u0219 Tudorache cere Comisiei Europene dezvoltarea propriei tehnologii 5G de c\u0103tre UE: Este o adaptare imperativ\u0103 la o lume \u00een care dependen\u021ba \u0219i vulnerabilitatea \u00een fa\u021ba unui regim nedemocratic \u0219i netransparent precum cel din China ne cost\u0103 mii de vie\u021bi",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Scriitorul australian de origine chinez\u0103, Yang Hengjun, judecat \u00een China pentru spionaj",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Alert\u0103 medical\u0103! ARN-ul mesager chiar poate schimba ADN-ul uman. Vaccinul ARN mesager, inamicul t\u0103cut al celulelor imunitare",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Tratament sigur \u00eempotriva Covid 19 recompensat cu Premiul Nobel",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Slugilor lui SOROS le st\u0103 POLIDINUL \u00een g\u00e2t",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Asocia\u021bia Medical\u0103 din Tokyo recomand\u0103 administrarea ivermectinei pentru tratarea Covid19",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Apple a pierdut 100 de miliarde de dolari din capitalizarea sa bursier\u0103",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Casa Poporului va fi deconsolidat\u0103, astfel \u00eenc\u00e2t s\u0103 se pr\u0103bu\u015feasc\u0103 la cutremure mai mici de 5 grade",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "necunoscut"
+    },
+    {
+        "title": "Retrospectiva evenimentelor interne 12-16 aprilie 2021",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "necunoscut"
+    },
+    {
+        "accuracy": 0.7766666666666666,
+        "total_preds": 300,
+        "num_invalid_predictions": 0
+    }
+]

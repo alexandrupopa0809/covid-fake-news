@@ -1,6 +1,7 @@
 import json
 import logging
 import os
+import random
 
 import openai
 from dotenv import load_dotenv
@@ -20,6 +21,29 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
+
+
+def create_balanced_json(data):
+    real_objects = [
+        obj
+        for obj in data
+        if obj.get("label") == "real" and obj["text"] != "necunoscut"
+    ]
+    fake_objects = [
+        obj
+        for obj in data
+        if obj.get("label") == "fake" and obj["text"] != "necunoscut"
+    ]
+
+    sampled_real = random.sample(real_objects, 150)
+    sampled_fake = random.sample(fake_objects, 150)
+
+    print(len(sampled_fake))
+    print(len(sampled_real))
+
+    balanced_data = sampled_real + sampled_fake
+    random.shuffle(balanced_data)
+    write_to_json(balanced_data, "data/subset_articles.json")
 
 
 def get_results(data, claims):
@@ -45,7 +69,9 @@ def get_results(data, claims):
                         continue
 
                 if prompt_obj["claims"]:
-                    user_prompt += f"\n\n\nAcesta este adevarul despre COVID-19: {claims}"
+                    user_prompt += (
+                        f"\n\n\nAcesta este adevarul despre COVID-19: {claims}"
+                    )
 
                 resp = get_gpt_completion(prompt_obj["system_prompt"], user_prompt)
                 predicted_obj = json.loads(resp["content"])
@@ -80,11 +106,11 @@ def get_results(data, claims):
                 "num_invalid_predictions": invalid_preds,
             }
         )
-        write_to_json(results, f"results/{prompt_obj['output_file']}")
+        write_to_json(results, f"results/subset_{prompt_obj['output_file']}")
 
 
 if __name__ == "__main__":
-    data = read_json("data/bi_articles_ds.json")
+    data = read_json("data/subset_articles.json")
     with open("data/source.txt", "r") as f:
         claims = f.read()
     get_results(data, claims)

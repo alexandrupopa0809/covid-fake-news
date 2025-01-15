@@ -1,0 +1,1807 @@
+[
+    {
+        "title": "NU MAI \u021aINE, L\u0102SA\u021aI\u2026",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul nu ofer\u0103 informa\u021bii relevante sau corecte despre COVID-19 \u0219i nu reflect\u0103 faptele cunoscute despre pandemie, cum ar fi transmiterea virusului, m\u0103surile de prevenire sau impactul asupra s\u0103n\u0103t\u0103\u021bii publice."
+    },
+    {
+        "title": "\u00cen Italia, nimeni nu mai respect\u0103 recomand\u0103rile privind distan\u021barea social\u0103",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 c\u0103 nimeni nu respect\u0103 recomand\u0103rile privind distan\u021barea social\u0103 \u00een Italia, ceea ce este o generalizare exagerat\u0103. De\u0219i pot exista zone sau persoane care nu respect\u0103 aceste m\u0103suri, autorit\u0103\u021bile de s\u0103n\u0103tate public\u0103 continu\u0103 s\u0103 recomande distan\u021barea social\u0103 ca o m\u0103sur\u0103 esen\u021bial\u0103 pentru prevenirea r\u0103sp\u00e2ndirii COVID-19, iar respectarea acestor m\u0103suri variaz\u0103 \u00een func\u021bie de contextul local \u0219i de evolu\u021bia pandemiei."
+    },
+    {
+        "title": "Cum vor ar\u0103ta atacurile informatice \u00een 2021 - Urmeaz\u0103 noi unghiuri de amenin\u021bare \u0219i modific\u0103ri ale strategiei de atac, spun cei de la Kaspersky Lab",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la atacurile informatice \u0219i nu are leg\u0103tur\u0103 cu pandemia COVID-19."
+    },
+    {
+        "title": "Primul rom\u00e2n cu abonament 5G spune c\u0103 \u00eel cost\u0103 300 de lei, c\u0103 e tot 60 de lei G-ul",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i se refer\u0103 la un subiect complet diferit, legat de tehnologie \u0219i costurile abonamentelor 5G."
+    },
+    {
+        "title": "C\u0103lc\u00e2iul lui Ahile al Uniunii Europene \u00een rela\u021bia cu China: Germania",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu se refer\u0103 la COVID-19, ci la rela\u021biile interna\u021bionale dintre Uniunea European\u0103 \u0219i China, \u00een special Germania, ceea ce nu are leg\u0103tur\u0103 cu pandemia."
+    },
+    {
+        "title": "Trump este sup\u0103rat pe China \u015fi nu mai consider\u0103 important acordul comercial",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 direct\u0103 cu pandemia COVID-19 \u0219i se refer\u0103 la o problem\u0103 politic\u0103, nu la aspecte legate de s\u0103n\u0103tate public\u0103 sau de virus."
+    },
+    {
+        "title": "Vaccinul anti-Covid, nu e de fapt un vaccin \u2013 explica\u021bia",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Vaccinul anti-COVID-19 este, de fapt, un vaccin care a fost dezvoltat \u0219i aprobat pentru a preveni infec\u021bia cu SARS-CoV-2. Afirma\u021bia c\u0103 nu ar fi un vaccin este fals\u0103 \u0219i contrazice dovezile \u0219tiin\u021bifice \u0219i aprob\u0103rile autorit\u0103\u021bilor de s\u0103n\u0103tate public\u0103."
+    },
+    {
+        "title": "Uniunea European\u0103 face apel la Netflix s\u0103 nu mai emit\u0103 \u00een HD, avertiz\u00e2nd c\u0103, altfel, internetul ar putea colapsa ca urmare a num\u0103rului uria\u0219 de oameni care se uit\u0103 la filme, fiind izola\u021bi \u00een cas\u0103 din cauza coronavirusului",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Stirea este falsa deoarece nu exista dovezi sau apeluri oficiale din partea Uniunii Europene catre Netflix pentru a reduce calitatea emisiunilor in HD din cauza pandemiei COVID-19. De asemenea, nu este plauzibil ca o astfel de masura sa fie necesara pentru a preveni colapsul internetului."
+    },
+    {
+        "title": "\u2013 \u00cen\u0219el\u0103toria Coronavirusului \u0219i leg\u0103tura cu tehnologia 5G \u2013",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o leg\u0103tur\u0103 \u00eentre COVID-19 \u0219i tehnologia 5G, ceea ce este o teorie a conspira\u021biei f\u0103r\u0103 fundament \u0219tiin\u021bific. COVID-19 este cauzat de virusul SARS-CoV-2, iar nu exist\u0103 dovezi care s\u0103 sus\u021bin\u0103 c\u0103 tehnologia 5G ar avea vreo leg\u0103tur\u0103 cu pandemia."
+    },
+    {
+        "title": "Autorit\u0103\u021bile din Marea Britanie cer companiilor de social media s\u0103 ajute la eliminarea conspira\u021biei \"coronavirusul - provocat de 5G\"",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la o ac\u021biune real\u0103 a autorit\u0103\u021bilor din Marea Britanie de a combate dezinformarea legat\u0103 de COVID-19, inclusiv teoriile conspira\u021biei care leag\u0103 virusul de tehnologia 5G, ceea ce este un subiect de preocupare real \u00een contextul pandemiei."
+    },
+    {
+        "title": "Ministrul Educa\u0163iei: Avem peste 154.000 de angaja\u0163i din sistemul de \u00eenv\u0103\u0163\u0103m\u00e2nt deja vaccina\u0163i",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Stirea este reala deoarece ministrul educa\u021biei a confirmat c\u0103 un num\u0103r semnificativ de angaja\u021bi din sistemul de \u00eenv\u0103\u021b\u0103m\u00e2nt au fost vaccina\u021bi, ceea ce este \u00een conformitate cu eforturile globale de vaccinare \u00eempotriva COVID-19."
+    },
+    {
+        "title": "Descoperirea medical\u0103 a momentului: Sars-Cov2 este mai activ pe timpul nop\u0163ii \u015fi \u00een Grecia",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Nu exist\u0103 dovezi \u0219tiin\u021bifice care s\u0103 sus\u021bin\u0103 afirma\u021bia c\u0103 SARS-CoV-2 este mai activ pe timpul nop\u021bii sau c\u0103 ar avea o activitate specific\u0103 \u00een Grecia. Virusul se transmite \u00een func\u021bie de interac\u021biunile umane \u0219i nu de ora din zi sau de loca\u021bie geografic\u0103."
+    },
+    {
+        "title": "WSJ: Produc\u0163ia de serie a viitoarelor telefoane iPhone am\u00e2nat\u0103 din cauza coronavirusului",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Stirea referitoare la am\u00e2narea produc\u021biei de telefoane iPhone din cauza coronavirusului este plauzibil\u0103, av\u00e2nd \u00een vedere impactul pandemiei asupra lan\u021burilor de aprovizionare \u0219i produc\u021bie la nivel global."
+    },
+    {
+        "title": "Australia regret\u0103 ''deteriorarea inutil\u0103'' a rela\u0163iilor cu China",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la rela\u021biile interna\u021bionale dintre Australia \u0219i China, care au fost afectate de pandemia COVID-19, dar nu con\u021bine informa\u021bii false despre virus sau pandemie."
+    },
+    {
+        "title": "Cum vrea UE s\u0103 ajung\u0103 la autonomie digital\u0103 p\u00e2n\u0103 \u00een 2030: Cel pu\u021bin 80% dintre adul\u021bi s\u0103 aib\u0103 competen\u021be digitale de baz\u0103, identificare electronic\u0103 \u0219i 5G \u00een toate zonele populate",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la autonomia digital\u0103 a Uniunii Europene, care nu are leg\u0103tur\u0103 direct\u0103 cu pandemia COVID-19."
+    },
+    {
+        "title": "Urma\u0219ul \u0219obolanului care a adus ciuma \u00een Europa a fost g\u0103sit \u00een Parcul Natural V\u0103c\u0103re\u0219ti",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul face referire la un \u0219obolan care ar fi adus ciuma \u00een Europa, ceea ce nu are leg\u0103tur\u0103 cu pandemia COVID-19, care este cauzat\u0103 de SARS-CoV-2. De asemenea, nu exist\u0103 dovezi c\u0103 un astfel de \u0219obolan ar fi fost g\u0103sit \u00een Parcul Natural V\u0103c\u0103re\u0219ti."
+    },
+    {
+        "title": "PLANDEMIE este cuv\u00e2ntul potrivit pentru criza mondial\u0103 prin care ni se suprim\u0103 drepturile \u0219i libert\u0103\u021bile",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o teorie a conspira\u021biei care afirm\u0103 c\u0103 pandemia COVID-19 este o 'plandemie' menit\u0103 s\u0103 suprime drepturile \u0219i libert\u0103\u021bile, ceea ce nu este sus\u021binut de dovezi \u0219tiin\u021bifice sau de faptele legate de pandemie. COVID-19 este o pandemie real\u0103 cauzat\u0103 de un virus, iar m\u0103surile de s\u0103n\u0103tate public\u0103 sunt menite s\u0103 protejeze s\u0103n\u0103tatea popula\u021biei."
+    },
+    {
+        "title": "Efectele pandemiei COVID-19 \u00een re\u021beaua Orange Rom\u00e2nia: Consumul de internet a crescut cu 39%, acoperirea 5G a fost extins\u0103, dar veniturile companiei au sc\u0103zut",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Stirea referitoare la cre\u0219terea consumului de internet \u0219i extinderea acoperirii 5G \u00een contextul pandemiei COVID-19 este plauzibil\u0103, av\u00e2nd \u00een vedere c\u0103 pandemia a dus la o cre\u0219tere a activit\u0103\u021bilor online \u0219i a necesit\u0103\u021bii de conectivitate, iar companiile de telecomunica\u021bii au adaptat serviciile pentru a r\u0103spunde cererii crescute."
+    },
+    {
+        "title": "Rom\u00e2nia furnizeaz\u0103 cobai umani - pacien\u021bii primesc medicamente experimentale",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 c\u0103 Rom\u00e2nia ar folosi pacien\u021bi ca 'cobai umani' pentru medicamente experimentale, ceea ce este o afirma\u021bie grav\u0103 \u0219i nefondat\u0103. \u00cen realitate, utilizarea medicamentelor experimentale pe pacien\u021bi se face \u00een conformitate cu reglement\u0103rile etice \u0219i legale, iar studiile clinice sunt supuse unor standarde stricte de siguran\u021b\u0103 \u0219i consim\u021b\u0103m\u00e2nt informat."
+    },
+    {
+        "title": "STUDIU Pandemia gr\u0103be\u015fte transformarea centrelor ora\u015felor \u00een zone prietenoase cu pietonii \u015fi bicicli\u015ftii",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Studiile arat\u0103 c\u0103 pandemia COVID-19 a dus la schimb\u0103ri \u00een modul \u00een care ora\u0219ele sunt planificate, inclusiv crearea de zone mai prietenoase cu pietonii \u0219i bicicli\u0219tii, ca parte a m\u0103surilor de distan\u021bare social\u0103 \u0219i a \u00eembun\u0103t\u0103\u021birii calit\u0103\u021bii vie\u021bii urbane."
+    },
+    {
+        "title": "Florin C\u00ee\u021bu vrea politizarea bisericii: \u201cBiserica TREBUIE s\u0103 fac\u0103 campanie pro vaccinare\u201d",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 c\u0103 Florin C\u00ee\u021bu vrea politizarea bisericii pentru a face campanie pro vaccinare, ceea ce este o interpretare exagerat\u0103 \u0219i nu reflect\u0103 o pozi\u021bie oficial\u0103 sau o declara\u021bie concret\u0103. De asemenea, nu exist\u0103 dovezi c\u0103 o astfel de politizare ar fi o practic\u0103 acceptat\u0103 sau promovat\u0103 \u00een mod oficial."
+    },
+    {
+        "title": "Dr. Monica Pop : 4.500 de rom\u00e2ni care au f\u0103cut COVID dup\u0103 vaccinare s-au \u00eemboln\u0103vit chiar de la VACCIN!",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Vaccinurile COVID-19 nu cauzeaz\u0103 boala COVID-19. Persoanele care au fost vaccinate pot contracta virusul, dar acest lucru nu este cauzat de vaccin. Vaccinurile sunt concepute pentru a preveni infec\u021bia sever\u0103 \u0219i spitalizarea, nu pentru a provoca boala."
+    },
+    {
+        "title": "Consiliul Fiscal: Scenariul revizuit al Guvernului pare mai optimist \u00een raport cu evolu\u021bia economiei/ Apreciem un nivel probabil al deficitului bugetar \u00een jur de 9,8% din PIB \u00een 2020",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la aspecte economice \u0219i nu are leg\u0103tur\u0103 direct\u0103 cu pandemia COVID-19 sau cu informa\u021bii despre virus, tratamente sau m\u0103suri de prevenire."
+    },
+    {
+        "title": "Marele Plan din Spatele Proiectului COVID-19",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o teorie a conspira\u021biei f\u0103r\u0103 dovezi concrete, ceea ce este comun \u00een dezinformarea legat\u0103 de COVID-19. Pandemia a fost cauzat\u0103 de un virus real, SARS-CoV-2, \u0219i nu exist\u0103 un 'mare plan' \u00een spatele acesteia."
+    },
+    {
+        "title": "Sub pretextul epidemiei, Putin a lansat un uria\u0219 experiment de urm\u0103rire a popula\u021biei",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o teorie a conspira\u021biei f\u0103r\u0103 dovezi concrete, asociind pandemia COVID-19 cu un experiment de urm\u0103rire a popula\u021biei, ceea ce nu este sus\u021binut de faptele cunoscute despre pandemie \u0219i m\u0103surile de s\u0103n\u0103tate public\u0103."
+    },
+    {
+        "title": "7 lucruri pe care trebuie s\u0103 le \u0219tie rom\u00e2nii care c\u0103l\u0103toresc \u00een Marea Britanie dup\u0103 Brexit",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la c\u0103l\u0103toriile \u00een Marea Britanie dup\u0103 Brexit, care nu este direct legat de pandemia COVID-19. De\u0219i pandemia a influen\u021bat c\u0103l\u0103toriile, informa\u021biile despre Brexit nu sunt relevante pentru COVID-19."
+    },
+    {
+        "title": "Din nou cozi la vaccinare. S-a zvonit c\u0103 cipul te ajut\u0103 s\u0103 c\u00e2\u0219tigi la p\u0103c\u0103nele",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o asociere fals\u0103 \u00eentre vaccinare \u0219i c\u00e2\u0219tigurile la p\u0103c\u0103nele, ceea ce este o dezinformare. Vaccinurile COVID-19 nu au nicio leg\u0103tur\u0103 cu jocurile de noroc sau cu c\u00e2\u0219tigurile financiare."
+    },
+    {
+        "title": "Kremlinul d\u0103 vina pe \"nihilism\" pentru noul val de infec\u021bii Covid",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul sugereaz\u0103 c\u0103 Kremlinul d\u0103 vina pe 'nihilism' pentru un nou val de infec\u021bii COVID-19, ceea ce este o interpretare subiectiv\u0103 \u0219i nu se bazeaz\u0103 pe fapte concrete sau pe date \u0219tiin\u021bifice. De asemenea, nu exist\u0103 dovezi c\u0103 nihilismul ar influen\u021ba \u00een mod direct r\u0103sp\u00e2ndirea virusului."
+    },
+    {
+        "title": "VACCINUL NU V\u0102 VA IMUNIZA \u0218I NICI NU V\u0102 VA PROTEJA DE \u201eVIRUSURI\u201d DAR VA FACE S\u0102 DISPAR\u0102 O \u201ePANDEMIE\u201d!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Vaccinurile COVID-19 au demonstrat eficacitate \u00een prevenirea infec\u021biilor simptomatice \u0219i protejeaz\u0103 \u00eempotriva virusului, contrar afirma\u021biei c\u0103 nu ofer\u0103 imunitate sau protec\u021bie."
+    },
+    {
+        "title": "S-a lansat o aplica\u0163ie pentru locatari, care \u00ee\u0163i afi\u015feaz\u0103 \u00een timp real unde se afl\u0103 administratorul",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i nu se refer\u0103 la informa\u021bii relevante despre virus sau m\u0103surile de prevenire a r\u0103sp\u00e2ndirii acestuia."
+    },
+    {
+        "title": "Coronavirusul are \u201dmisie\u201d ideologic\u0103 anticre\u0219tin\u0103. C\u00e2nd e programat s\u0103 revin\u0103 \u0219i ce s\u0103rb\u0103toare mai love\u0219te",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o teorie conspira\u021bionist\u0103 care nu are fundament \u0219tiin\u021bific \u0219i nu este sus\u021binut\u0103 de dovezi. COVID-19 este o pandemie cauzat\u0103 de un virus, nu are o 'misiune ideologic\u0103' \u0219i nu este legat de religie."
+    },
+    {
+        "title": "Boris Johnson urmeaz\u0103 s\u0103 reduc\u0103 implicarea Huawei \u00een dezvoltarea re\u021belei 5G din Marea Britanie",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la o decizie politic\u0103 legat\u0103 de Huawei \u0219i re\u021beaua 5G, care nu are leg\u0103tur\u0103 cu pandemia COVID-19."
+    },
+    {
+        "title": "Un caracalean se chinuie s\u0103-\u0219i \u00eenve\u021be cardul s\u0103 nu mai dea comisioane",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i nu reflect\u0103 informa\u021bii relevante sau corecte despre virus sau m\u0103surile de prevenire a acestuia."
+    },
+    {
+        "title": "Le Figaro: Cum trage China sforile la OMS. Etiopianul Tedros Adhanom Ghebreyesus, fost membru al Partidului Comunist Etiopian, un pion al Beijingului",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul sugereaz\u0103 o conspira\u021bie nefondat\u0103 \u00eentre China \u0219i OMS, f\u0103r\u0103 dovezi concrete. Tedros Adhanom Ghebreyesus, directorul OMS, a fost criticat pentru gestionarea pandemiei, dar nu exist\u0103 dovezi c\u0103 ar fi un 'pion al Beijingului'."
+    },
+    {
+        "title": "Ministrul de Interne a decis redeschiderea unui site care a fost \u00eenchis pentru \u0219tiri false, cu promisiunea c\u0103 acestea vor fi \u0219terse",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul sugereaz\u0103 c\u0103 un site care a fost \u00eenchis pentru \u0219tiri false a fost redeschis, ceea ce este o afirma\u021bie neobi\u0219nuit\u0103 \u0219i nu este sus\u021binut\u0103 de fapte concrete. De asemenea, nu exist\u0103 informa\u021bii credibile care s\u0103 confirme o astfel de decizie a ministrului de interne."
+    },
+    {
+        "title": "Poli\u021bia \u0219i jandarmeria ne amendeaz\u0103 dup\u0103 ritualuri masonice: \u00eent\u00e2i au dat 222 de amenzi, azi anun\u021b\u0103 444 de amenzi",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul face referire la ritualuri masonice \u0219i amenzi, ceea ce nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i nu este sus\u021binut de fapte reale sau de date oficiale. De asemenea, nu exist\u0103 dovezi c\u0103 poli\u021bia sau jandarmeria ar aplica amenzi \u00een acest context."
+    },
+    {
+        "title": "Covid-19 chiar exist\u0103! L-a patentat Bill Gates \u00een 2015: documente \u0219i leg\u0103turi",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "COVID-19 nu a fost patentat de Bill Gates \u00een 2015. Virusul SARS-CoV-2, care cauzeaz\u0103 COVID-19, a fost identificat pentru prima dat\u0103 \u00een decembrie 2019, iar afirma\u021biile despre un patent anterior sunt false \u0219i parte a teoriei conspira\u021biei."
+    },
+    {
+        "title": "Washingtonul acuz\u0103 Beijingul c\u0103 deruleaz\u0103 un \"blitzkrieg economic\" pentru a \"dep\u0103\u0219i\" Statele Unite",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la acuza\u021bii economice \u00eentre Washington \u0219i Beijing, care nu sunt legate de pandemia COVID-19 sau de aspectele medicale ale acesteia. COVID-19 este o problem\u0103 de s\u0103n\u0103tate public\u0103, iar titlul nu reflect\u0103 informa\u021bii relevante despre virus sau m\u0103surile de s\u0103n\u0103tate public\u0103."
+    },
+    {
+        "title": "UE vrea s\u0103 cambat\u0103 teoriile conspira\u021bioniste despre o leg\u0103tur\u0103 \u00eentre 5G \u015fi r\u0103sp\u00e2ndirea COVID-19",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Uniunea European\u0103 a luat m\u0103suri pentru a combate dezinformarea, inclusiv teoriile conspira\u021bioniste care leag\u0103 5G de r\u0103sp\u00e2ndirea COVID-19, care nu au fundament \u0219tiin\u021bific."
+    },
+    {
+        "title": "Agenda globalist\u0103: crearea unui super-stat european",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o teorie a conspira\u021biei legat\u0103 de COVID-19, f\u0103r\u0103 dovezi concrete. Pandemia a fost cauzat\u0103 de un virus, nu de o 'agend\u0103 globalist\u0103' sau de crearea unui super-stat european."
+    },
+    {
+        "title": "La GoTech World 2020: The new reality. Digi aduce oferte pentru clien\u021bii corporate \u0219i prezent\u0103ri inedite \u00een sec\u021biunile tematice",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu se refer\u0103 la COVID-19, ci la un eveniment tehnologic, deci nu este o \u0219tire real\u0103 legat\u0103 de pandemie."
+    },
+    {
+        "title": "Oameni de \u0219tiin\u021b\u0103 de la OMS afirm\u0103 c\u0103 nu exist\u0103 \u201enicio dovad\u0103\u201d c\u0103 vaccinurile \u00eempiedic\u0103 circula\u021bia covid-19",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Vaccinurile COVID-19 au demonstrat eficacitate \u00een prevenirea infec\u021biilor simptomatice \u0219i au fost aprobate de autorit\u0103\u021bile de s\u0103n\u0103tate, inclusiv OMS. Exist\u0103 dovezi c\u0103 vaccinurile contribuie la reducerea circula\u021biei virusului, contrar afirma\u021biei c\u0103 nu exist\u0103 'nicio dovad\u0103' \u00een acest sens."
+    },
+    {
+        "title": "Judoka Vl\u0103du\u0163 Simionescu a scos la licita\u0163ie telefonul \u015fi c\u0103\u015ftile primite cadou la Jocurile Olimpice de la Tokyo",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i nu con\u021bine informa\u021bii relevante despre virus sau m\u0103surile de prevenire a r\u0103sp\u00e2ndirii acestuia."
+    },
+    {
+        "title": "Nikita Mihalkov \u2013 Bill Gates urm\u0103re\u0219te microciparea popula\u021biei!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Stirea este falsa deoarece nu exista dovezi credibile care sa sustina afirmatia ca Bill Gates ar urmari microciparea populatiei. Aceste teorii sunt parte din dezinformare si conspiratii care au circulat in timpul pandemiei COVID-19."
+    },
+    {
+        "title": "Mediastandard.ro: Algoritmul YouTube recomand\u0103 con\u021binut instigator la ur\u0103 \u0219i dezinformare",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la o problem\u0103 real\u0103 legat\u0103 de dezinformarea care circul\u0103 pe platformele de socializare, inclusiv YouTube, \u00een contextul pandemiei COVID-19. Dezinformarea a fost o problem\u0103 recunoscut\u0103 pe parcursul pandemiei, iar platformele de socializare au fost criticate pentru modul \u00een care gestioneaz\u0103 con\u021binutul instigator la ur\u0103 \u0219i informa\u021biile false."
+    },
+    {
+        "title": "Breaking: armata Rom\u00e2niei va fi implicat\u0103 \u00een vaccinarea popula\u021biei",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "Informa\u021bia despre implicarea armatei \u00een vaccinarea popula\u021biei este corect\u0103, deoarece \u00een multe \u021b\u0103ri, inclusiv Rom\u00e2nia, armata a fost mobilizat\u0103 pentru a sprijini campaniile de vaccinare \u00een timpul pandemiei COVID-19."
+    },
+    {
+        "title": "Cum v\u0103d francezii \u201elumea de dup\u0103\u201d criza coronavirusului: re\u00eentoarcerea la agricultura ecologic\u0103 \u0219i relocarea \u00een Europa a produc\u021biilor strategice, considerate prioritare \u00een urma unei dezbateri publice cu peste 165.000 de participan\u021bi",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Stirea reflect\u0103 o discu\u021bie real\u0103 despre perspectivele post-pandemie \u00een Fran\u021ba, inclusiv tendin\u021bele c\u0103tre agricultura ecologic\u0103 \u0219i relocarea produc\u021biilor strategice, care sunt teme relevante \u00een contextul impactului economic \u0219i social al pandemiei COVID-19."
+    },
+    {
+        "title": "Rafila confirm\u0103 c\u0103 vaccinul anti-Covid modific\u0103 ADN-ul",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Vaccinurile anti-COVID-19 nu modific\u0103 ADN-ul uman. Ele func\u021bioneaz\u0103 prin stimularea sistemului imunitar pentru a recunoa\u0219te \u0219i combate virusul SARS-CoV-2, f\u0103r\u0103 a interac\u021biona cu materialul genetic al celulelor umane."
+    },
+    {
+        "title": "NYT: Surprinse \u00eentr-o spiral\u0103 ideologic\u0103, Statele Unite \u0219i China se \u00eendreapt\u0103 spre un R\u0103zboi Rece",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu se refer\u0103 la pandemia COVID-19, ci la rela\u021biile interna\u021bionale dintre Statele Unite \u0219i China, ceea ce nu este relevant pentru subiectul COVID-19."
+    },
+    {
+        "title": "Elitele de la Davos \u0219i noul r\u0103zboi cultural global",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul sugereaz\u0103 o leg\u0103tur\u0103 \u00eentre elitele de la Davos \u0219i un 'r\u0103zboi cultural global', ceea ce nu are o baz\u0103 factual\u0103 \u00een contextul pandemiei COVID-19. Pandemia este o problem\u0103 de s\u0103n\u0103tate public\u0103, iar discu\u021biile despre elitele de la Davos sunt adesea legate de teme economice \u0219i politice, nu de r\u0103zboaie culturale \u00een contextul COVID-19."
+    },
+    {
+        "title": "Romania nu a primit doze din lotul de vaccin AstraZeneca cu suspiciuni. Valeriu Gheorghita: \"Peste 200.000 de persoane vaccinate, fara reactii adverse deosebite\"",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Stirea afirm\u0103 c\u0103 Rom\u00e2nia nu a primit doze dintr-un lot de vaccin AstraZeneca cu suspiciuni \u0219i c\u0103 peste 200.000 de persoane vaccinate nu au avut reac\u021bii adverse deosebite. Aceste informa\u021bii sunt conforme cu declara\u021biile oficiale \u0219i cu datele disponibile despre vaccinare \u0219i siguran\u021ba vaccinurilor."
+    },
+    {
+        "title": "MILIOANE DE ROM\u00c2NI SUNT IRADIA\u021aI ZILNIC CU OCAZIA TRIAJULUI EPIDEMIOLOGIC?!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Stirea este falsa deoarece nu exista dovezi sau informatii credibile care sa sustina afirmatia ca milioane de romani sunt iradiati zilnic in cadrul triajului epidemiologic. Triajul epidemiologic se refera la evaluarea starii de sanatate a indivizilor pentru a identifica posibile infectii, nu implica iradierea acestora."
+    },
+    {
+        "title": "Fostul vicepre\u0219edinte al Pfizer rupe t\u0103cerea: \u201eAvem nevoie de Dumnezeu mai mult ca oric\u00e2nd\u201d. Dezv\u0103luirile omului de \u0219tiin\u021b\u0103",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o declara\u021bie religioas\u0103 a unui fost vicepre\u0219edinte al Pfizer, care nu este o informa\u021bie \u0219tiin\u021bific\u0103 sau medical\u0103 valid\u0103 legat\u0103 de COVID-19. De asemenea, nu exist\u0103 dovezi c\u0103 o astfel de persoan\u0103 ar fi f\u0103cut o astfel de declara\u021bie public\u0103, ceea ce face ca informa\u021bia s\u0103 fie suspect\u0103 \u0219i s\u0103 par\u0103 mai degrab\u0103 o specula\u021bie sau o dezinformare."
+    },
+    {
+        "title": "Propunere revolu\u021bionar\u0103: Comisia European\u0103 vrea ca fiecare cet\u0103\u021bean s\u0103 aib\u0103 o \u201dcarte de identitate digital\u0103\u201d pentru a elimina birocra\u021bia \u0219i a cre\u0219te gradul de digitalizare a serviciilor",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la o propunere a Comisiei Europene pentru o carte de identitate digital\u0103, care nu este direct legat\u0103 de pandemia COVID-19. De\u0219i digitalizarea serviciilor a fost un subiect de discu\u021bie \u00een contextul pandemiei, acest titlu nu reflect\u0103 o informa\u021bie specific\u0103 sau un eveniment real legat de COVID-19."
+    },
+    {
+        "title": "Raport german: Coronavirusul, alarm\u0103 fals\u0103!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul afirm\u0103 c\u0103 pandemia COVID-19 este o 'alarm\u0103 fals\u0103', ceea ce contrazice dovezile \u0219tiin\u021bifice \u0219i declara\u021biile oficiale ale Organiza\u021biei Mondiale a S\u0103n\u0103t\u0103\u021bii, care confirm\u0103 gravitatea \u0219i impactul real al pandemiei asupra s\u0103n\u0103t\u0103\u021bii publice globale."
+    },
+    {
+        "title": "C\u00ee\u021bu ne demonstreaz\u0103: Coronavirusul circul\u0103 noaptea. Au fost impuse restric\u021bii de circula\u021bie \u0219i \u00een alte \u021b\u0103ri din UE",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 c\u0103 virusul circul\u0103 doar noaptea, ceea ce este o afirma\u021bie fals\u0103. COVID-19 se transmite \u00een orice moment al zilei, nu exist\u0103 dovezi c\u0103 ar circula mai mult noaptea."
+    },
+    {
+        "title": "AVERTISMENTUL unui medic: care sunt ALIMENTELE care fac VICTIME sigure \u00een fa\u021ba coronavirusului",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 c\u0103 anumite alimente ar putea provoca infec\u021bii cu coronavirus, ceea ce nu este sus\u021binut de dovezi \u0219tiin\u021bifice. COVID-19 se transmite prin aerosoli \u0219i contact direct, nu prin consumul de alimente."
+    },
+    {
+        "title": "Mediastandard.ro: Dezinformarea privind 5G \u0219i Covid s-a r\u0103sp\u00e2ndit de dou\u0103 ori mai repede dec\u00e2t alte teorii",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Stirea se refera la dezinformarea legata de COVID-19 si 5G, un subiect care a fost intr-adevar un motiv de ingrijorare si confuzie in timpul pandemiei, ceea ce o face reala."
+    },
+    {
+        "title": "Business report: Unde se poate c\u0103l\u0103tori \u00een primele zile din 2021. Escrocherie de peste 35.000 de euro cu oferte false de Revelion. Obiceiuri surprinz\u0103toare la trecerea dintre ani. Cele mai a\u015fteptate telefoane",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu se refer\u0103 la COVID-19 \u0219i con\u021bine informa\u021bii despre c\u0103l\u0103torii \u0219i escrocherii, care nu sunt relevante pentru pandemia de coronavirus."
+    },
+    {
+        "title": "\u00cen Europa, noul Drum sanitar al M\u0103t\u0103sii promovat de China st\u00e2rne\u0219te nemul\u021bumiri / Rusia, dezinformarea \u0219i doctrina soft power",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu se refer\u0103 direct la COVID-19, ci la un subiect politic \u0219i economic legat de China \u0219i Rusia, f\u0103r\u0103 a oferi informa\u021bii relevante sau corecte despre pandemia de COVID-19."
+    },
+    {
+        "title": "Miliardarul Microsoft, Bill Gates - 64 de ani - a fost arestat ast\u0103zi, 12.mai 2020, de FBI sub acuza\u021bia de terorism biologic.",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Bill Gates nu a fost arestat de FBI sub acuza\u021bia de terorism biologic. Aceasta este o informa\u021bie fals\u0103 care circul\u0103 adesea ca parte a teoriilor conspira\u021biei legate de pandemie."
+    },
+    {
+        "title": "\u00cencepe nebunia! Pandemia de coronavirus aduce FOAMETEA!",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul sugereaz\u0103 c\u0103 pandemia de COVID-19 ar aduce foametea, ceea ce este o exagerare. De\u0219i pandemia a provocat perturb\u0103ri economice \u0219i sociale, nu exist\u0103 dovezi c\u0103 aceasta a generat foamete \u00een mod direct. Foametea este un fenomen complex, influen\u021bat de multiple factori, nu doar de pandemie."
+    },
+    {
+        "title": "Num\u0103rul de modele electrice \u0219i hibride plug-in aflate la v\u00e2nzare \u00een Rom\u00e2nia a crescut cu 70% \u00een \u0219ase luni",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la cre\u0219terea v\u00e2nz\u0103rilor de modele electrice \u0219i hibride, care nu are leg\u0103tur\u0103 cu pandemia COVID-19."
+    },
+    {
+        "title": "Un nou tip de coronavirus a fost descoperit \u00een Anglia. Este o muta\u021bie a Covid-19 \u0219i e rezistent \u00eempotriva vaccinurilor",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Nu exist\u0103 dovezi c\u0103 o nou\u0103 muta\u021bie a COVID-19 descoperit\u0103 \u00een Anglia ar fi rezistent\u0103 la vaccinuri. De\u0219i muta\u021biile virusului SARS-CoV-2 sunt frecvente, vaccinurile au demonstrat eficacitate \u00eempotriva variantelor cunoscute, iar cercet\u0103rile continu\u0103 pentru a evalua impactul acestora."
+    },
+    {
+        "title": "Coronavirus: Parlamentarii iranieni cer interzicerea vaccinurilor anti-COVID-19 occidentale",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la o ac\u021biune real\u0103 a parlamentarilor iranieni care au cerut interzicerea vaccinurilor anti-COVID-19 occidentale, ceea ce reflect\u0103 o pozi\u021bie politic\u0103 \u0219i de s\u0103n\u0103tate public\u0103 existent\u0103 \u00een anumite \u021b\u0103ri."
+    },
+    {
+        "title": "Site web blocat pentru fake news: \"Black Topics\" lega apari\u021bia coronaviruslui de tehnologia 5 G",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Stirea se refera la blocarea unui site web care a raspandit dezinformari legate de COVID-19, inclusiv asocierea acestuia cu tehnologia 5G, ceea ce este o teorie a conspiratiei falsa. Autoritatile au luat masuri impotriva dezinformarii, ceea ce este un fapt real."
+    },
+    {
+        "title": "Comisia European\u0103 traseaz\u0103 calea c\u0103tre o Europ\u0103 autonom\u0103 din punct de vedere digital p\u00e2n\u0103 \u00een 2030",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu se refer\u0103 la COVID-19, ci la o ini\u021biativ\u0103 a Comisiei Europene privind autonomia digital\u0103, ceea ce \u00eel face irelevant pentru subiectul pandemiei."
+    },
+    {
+        "title": "Un ONG bucure\u0219tean recomand\u0103 ca Suarez s\u0103 fie sterilizat \u0219i eliberat \u00eenapoi pe terenul de fotbal",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i se refer\u0103 la o recomandare absurd\u0103 legat\u0103 de un juc\u0103tor de fotbal, ceea ce sugereaz\u0103 c\u0103 este o \u0219tire fals\u0103 sau satiric\u0103."
+    },
+    {
+        "title": "\u201eNu este nevoie de vaccin. Pandemia s-a \u00eencheiat\u201d. Fostul \u0219ef \u0219tiin\u021bific al Pfizer acuz\u0103 c\u0103 \u201eal doilea val\u201d a fost falsificat cu ajutorul testelor Covid",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Pandemia COVID-19 nu s-a \u00eencheiat, iar vaccinarea r\u0103m\u00e2ne un instrument esen\u021bial pentru prevenirea infec\u021biilor severe \u0219i a deceselor. Afirma\u021biile c\u0103 pandemia s-a \u00eencheiat \u0219i c\u0103 vaccinurile nu sunt necesare sunt false \u0219i contrazic datele \u0219tiin\u021bifice \u0219i recomand\u0103rile organiza\u021biilor de s\u0103n\u0103tate public\u0103."
+    },
+    {
+        "title": "Rom\u00e2nia ar avea propria TULPIN\u0102 de coronavirus - Presa str\u0103in\u0103 scria de ea de anul trecut",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Nu exist\u0103 dovezi c\u0103 Rom\u00e2nia ar avea o tulpin\u0103 proprie de coronavirus. Varianta SARS-CoV-2 a suferit muta\u021bii, dar acestea nu sunt specifice unei \u021b\u0103ri anume, ci sunt observate la nivel global."
+    },
+    {
+        "title": "Virusul tic\u0103lo\u0219iei",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul 'Virusul tic\u0103lo\u0219iei' nu este un termen \u0219tiin\u021bific recunoscut \u0219i nu reflect\u0103 informa\u021bii corecte sau relevante despre COVID-19. Pandemia este cauzat\u0103 de SARS-CoV-2, un virus real, iar denumirea folosit\u0103 \u00een titlu sugereaz\u0103 o abordare necorespunz\u0103toare \u0219i poten\u021bial \u00een\u0219el\u0103toare."
+    },
+    {
+        "title": "Iohannis: Crearea unui consens pentru o Rom\u00e2nie digital\u0103, \u00eenceputul unui drum c\u0103tre o Rom\u00e2nie normal\u0103",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu se refer\u0103 la COVID-19, ci la un subiect legat de digitalizare \u00een Rom\u00e2nia, deci nu este o \u0219tire real\u0103 despre pandemie."
+    },
+    {
+        "title": "WhatsApp a introdus cea mai strict\u0103 regul\u0103 de p\u00e2n\u0103 acum, pentru a lupta \u00eempotriva mesajelor false",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la o regul\u0103 a WhatsApp care nu are leg\u0103tur\u0103 direct\u0103 cu pandemia COVID-19, ci mai degrab\u0103 cu combaterea dezinform\u0103rii \u00een general. Nu exist\u0103 dovezi c\u0103 WhatsApp a implementat o regul\u0103 specific\u0103 legat\u0103 de COVID-19."
+    },
+    {
+        "title": "\u00abCertificatele imunitare\u00bb, f\u0103r\u0103 de care nu vom putea ie\u0219i din cas\u0103 nevaccina\u021bi",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Certificatele imunitare nu sunt o cerin\u021b\u0103 generalizat\u0103 pentru a ie\u0219i din cas\u0103 nevaccina\u021bi. De\u0219i unele \u021b\u0103ri au implementat certificate de vaccinare pentru anumite activit\u0103\u021bi sau c\u0103l\u0103torii, nu exist\u0103 o regul\u0103 universal\u0103 care s\u0103 interzic\u0103 ie\u0219irea din cas\u0103 pentru persoanele nevaccinate."
+    },
+    {
+        "title": "MEDIC LEGIST GERMAN: \u201eNU EXIST\u0102 VIRUS UCIGA\u0218\u201d",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Stirea este falsa deoarece COVID-19 este cauzat\u0103 de un virus real, SARS-CoV-2, care a provocat milioane de infec\u021bii \u0219i decese la nivel global. Exist\u0103 dovezi \u0219tiin\u021bifice solide care confirm\u0103 existen\u021ba acestui virus \u0219i impactul s\u0103u asupra s\u0103n\u0103t\u0103\u021bii publice."
+    },
+    {
+        "title": "Trump anun\u021b\u0103 c\u0103 a anulat discu\u021biile comerciale cu China din cauza r\u0103spunsului la pandemie",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul afirm\u0103 c\u0103 Trump a anulat discu\u021biile comerciale cu China din cauza r\u0103spunsului la pandemie, dar nu exist\u0103 dovezi sau surse credibile care s\u0103 sus\u021bin\u0103 aceast\u0103 afirma\u021bie. De asemenea, astfel de decizii comerciale sunt complexe \u0219i nu pot fi atribuite exclusiv unui singur factor, cum ar fi pandemia."
+    },
+    {
+        "title": "Alert\u0103: copiii pot fi vaccina\u021bi obligatoriu la \u0219coal\u0103!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Vaccinarea copiilor nu este obligatorie \u00een majoritatea \u021b\u0103rilor, iar deciziile privind vaccinarea \u00een \u0219coli sunt luate de autorit\u0103\u021bile locale \u0219i na\u021bionale, nu exist\u0103 o politic\u0103 global\u0103 care s\u0103 impun\u0103 vaccinarea obligatorie a copiilor la \u0219coal\u0103."
+    },
+    {
+        "title": "Momente penibile cu influenceri din perioada COVID-19 care arat\u0103 c\u0103 internetul poate fi uneori toxic",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la momente penibile cu influenceri, ceea ce nu are leg\u0103tur\u0103 direct\u0103 cu informa\u021biile \u0219tiin\u021bifice sau de s\u0103n\u0103tate despre COVID-19. De asemenea, nu ofer\u0103 date sau fapte relevante despre pandemie, ci sugereaz\u0103 o opinie subiectiv\u0103 despre comportamentul influenceri-lor \u00een timpul pandemiei."
+    },
+    {
+        "title": "\u201eNu v\u0103 mai l\u0103sa\u021bi testa\u021bi, dac\u0103 vre\u021bi s\u0103 tr\u0103i\u021bi \u0219i dup\u0103 2021.",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 c\u0103 testarea pentru COVID-19 ar fi periculoas\u0103 \u0219i c\u0103 ar trebui evitat\u0103, ceea ce este contrar recomand\u0103rilor autorit\u0103\u021bilor de s\u0103n\u0103tate public\u0103. Testarea este esen\u021bial\u0103 pentru identificarea \u0219i controlul r\u0103sp\u00e2ndirii virusului."
+    },
+    {
+        "title": "Dup\u0103 valul de critici, Vlad Voiculescu schimb\u0103 mesajul! Ce le recomand\u0103 rom\u00e2nilor pentru seara de Revelion",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul nu se refer\u0103 la informa\u021bii despre COVID-19, ci la o schimbare de mesaj a unui politician, ceea ce nu este relevant pentru pandemia \u00een sine."
+    },
+    {
+        "title": "Polemic\u0103 Beijing-Brazilia dup\u0103 acuza\u0163iile unui fiu al pre\u015fedintelui Bolsonaro privind spionajul cibernetic chinez",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la o polemic\u0103 politic\u0103 \u00eentre Beijing \u0219i Brazilia, care nu are leg\u0103tur\u0103 direct\u0103 cu pandemia COVID-19 sau cu informa\u021bii despre virus, vaccinuri sau m\u0103suri de s\u0103n\u0103tate public\u0103."
+    },
+    {
+        "title": "Un rom\u00e2n a descoperit vaccinul contra coronavirusului dar nu e l\u0103sat s\u0103-l produc\u0103",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Nu exist\u0103 dovezi c\u0103 un rom\u00e2n a descoperit un vaccin contra coronavirusului care s\u0103 nu fie l\u0103sat s\u0103 fie produs. Vaccinurile COVID-19 au fost dezvoltate \u0219i aprobate de companii \u0219i institu\u021bii de cercetare recunoscute la nivel interna\u021bional, iar procesul de aprobat \u0219i distribuire a fost reglementat de autorit\u0103\u021bile de s\u0103n\u0103tate public\u0103."
+    },
+    {
+        "title": "Statele Unite deschid un nou front cu China prin faptul c\u0103 \u0219i-au reafirmat sprijinul acordat Taiwanului",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la rela\u021biile interna\u021bionale dintre Statele Unite \u0219i China, \u00een special \u00een contextul Taiwanului, \u0219i nu are leg\u0103tur\u0103 cu pandemia COVID-19."
+    },
+    {
+        "title": "Explozia serviciilor digitale utilizate la domiciliu alimenteaz\u0103 temerile legate de s\u0103n\u0103tate \u015fi de confiden\u0163ialitatea datelor (studiu EY)",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la o problem\u0103 real\u0103 legat\u0103 de utilizarea serviciilor digitale \u00een timpul pandemiei COVID-19, care a generat \u00eengrijor\u0103ri legate de s\u0103n\u0103tate \u0219i confiden\u021bialitate. Studiile \u0219i rapoartele au eviden\u021biat aceste teme \u00een contextul pandemiei."
+    },
+    {
+        "title": "C\u00ee\u0163u: Guvernul va aproba acte normative care nu suport\u0103 am\u00e2nare  achizi\u0163ia a 4,2 milioane de vaccinuri Pfizer",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Stirea se refera la o decizie guvernamentala de a achizitiona vaccinuri Pfizer, ceea ce este in conformitate cu masurile de vaccinare adoptate de multe tari in timpul pandemiei COVID-19."
+    },
+    {
+        "title": "Tehnologia 5G va fi numit\u0103 \u00een Rom\u00e2nia Sistemul Arsenie Boca, s\u0103 \u0219i-o doreasc\u0103 to\u021bi",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul nu are nicio leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i promoveaz\u0103 o teorie conspira\u021bionist\u0103 f\u0103r\u0103 fundament \u0219tiin\u021bific."
+    },
+    {
+        "title": "Bunica de 90 de ani vaccinat\u0103 de COVID spune c\u0103 se cro\u015feteaz\u0103 mult mai bine cu 3 m\u00e2ini",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o afirma\u021bie absurd\u0103 despre o bunic\u0103 care ar avea trei m\u00e2ini dup\u0103 vaccinare, ceea ce este imposibil \u0219i nu are nicio baz\u0103 \u0219tiin\u021bific\u0103. Vaccinurile COVID-19 nu provoac\u0103 astfel de efecte fizice."
+    },
+    {
+        "title": "Eugenistii care ne vor vaccina (II)",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o teorie a conspira\u021biei legat\u0103 de vaccinare, asociind vaccinurile cu eugenia, ceea ce nu are fundament \u00een realitate. Vaccinurile COVID-19 sunt dezvoltate pentru a proteja s\u0103n\u0103tatea public\u0103 \u0219i nu au leg\u0103tur\u0103 cu ideologii eugeniste."
+    },
+    {
+        "title": "Mi\u0219c\u0103ri tectonice \u00een jurul Rom\u00e2niei: Retragerea trupelor americane din Germania, schimbarea major\u0103 a Statelor Unite fa\u021b\u0103 de Rusia din cauza Chinei \u0219i cum transform\u0103 pandemia Uniunea European\u0103",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 direct\u0103 cu pandemia COVID-19, ci abordeaz\u0103 subiecte geopolitice \u0219i militare, ceea ce \u00eel face irelevant pentru informa\u021biile despre COVID-19."
+    },
+    {
+        "title": "Rom\u00e2nia trebuie s\u0103 dea startul unui proces amplu de consolidare fiscal-bugetar\u0103 \u00een acest an (Consiliul Fiscal)",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu se refer\u0103 la COVID-19, ci la un proces fiscal-bugetar, ceea ce \u00eel face irelevant pentru subiectul pandemiei."
+    },
+    {
+        "title": "COVID-19, o simpl\u0103 grip\u0103 - Recomandarea lui Boris Johnson",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "COVID-19 nu este o simpl\u0103 grip\u0103; este o boal\u0103 grav\u0103 cauzat\u0103 de un virus diferit, cu un impact semnificativ asupra s\u0103n\u0103t\u0103\u021bii publice, inclusiv un num\u0103r mare de cazuri \u0219i decese la nivel global."
+    },
+    {
+        "title": "Uite virusul, nu e virusul: pandemia covid, 100% fraud\u0103 planetar\u0103",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul afirm\u0103 c\u0103 pandemia COVID-19 este o fraud\u0103 planetar\u0103, ceea ce contrazice dovezile \u0219tiin\u021bifice \u0219i declara\u021biile oficiale ale Organiza\u021biei Mondiale a S\u0103n\u0103t\u0103\u021bii, care confirm\u0103 c\u0103 COVID-19 este o pandemie real\u0103, cauzat\u0103 de un virus identificat, cu milioane de cazuri \u0219i decese \u00een \u00eentreaga lume."
+    },
+    {
+        "title": "FOTO Kylian Mbappe s-a vaccinat anti-Covid",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Titlul afirm\u0103 c\u0103 Kylian Mbappe s-a vaccinat anti-Covid, ceea ce este plauzibil av\u00e2nd \u00een vedere c\u0103 vaccinarea \u00eempotriva COVID-19 a fost recomandat\u0103 \u0219i implementat\u0103 pe scar\u0103 larg\u0103 \u00een r\u00e2ndul sportivilor \u0219i al popula\u021biei generale. Nu exist\u0103 dovezi care s\u0103 contrazic\u0103 aceast\u0103 afirma\u021bie."
+    },
+    {
+        "title": "Gura p\u0103c\u0103tosului adev\u0103r gr\u0103ie\u0219te ?! \u201e\u2026furnizorii (de vaccinuri) au r\u0103mas f\u0103r\u0103 oameni ce vor s\u0103 fie eutanasia\u021bi.\u201d",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o afirma\u021bie absurd\u0103 \u0219i nefondat\u0103 despre furnizorii de vaccinuri \u0219i eutanasie, care nu are nicio baz\u0103 \u00een realitate. Vaccinurile COVID-19 sunt destinate prevenirii bolii, nu eutanasiei."
+    },
+    {
+        "title": "Huawei a raportat venituri de peste 100 de miliarde de dolari, \u00een primele nou\u0103 luni din 2020",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la veniturile Huawei, care nu are leg\u0103tur\u0103 cu pandemia COVID-19. Informa\u021bia nu este relevant\u0103 pentru subiectul COVID-19."
+    },
+    {
+        "title": "China - Robo\u0163ii, trimi\u015fi \u00een prima linie a luptei \u00eempotriva epidemiei de coronavirus",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Stirea este reala deoarece utilizarea robotilor in lupta impotriva epidemiei de coronavirus a fost o masura implementata in diverse tari, inclusiv in China, pentru a ajuta la dezinfectarea spatiilor publice si la monitorizarea sanatatii populatiei."
+    },
+    {
+        "title": "Pot fi b\u0103gate cipuri \u00een corpul uman prin intermediul vaccinurilor? De unde a pornit aceast\u0103 conspira\u021bie anti-Bill Gates",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Exist\u0103 nicio dovad\u0103 credibil\u0103 c\u0103 vaccinurile COVID-19 con\u021bin cipuri sau c\u0103 sunt folosite pentru a implanta cipuri \u00een corpul uman. Aceasta este o teorie a conspira\u021biei f\u0103r\u0103 fundament \u0219tiin\u021bific."
+    },
+    {
+        "title": "Oprea (ADR): Se lucreaz\u0103 la un sistem de interoperabilitate a bazelor de date de\u0163inute de institu\u0163iile publice din Rom\u00e2nia",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la un sistem de interoperabilitate a bazelor de date, care nu este direct legat de pandemia COVID-19 sau de informa\u021biile despre virus, tratamente sau m\u0103suri de prevenire. De\u0219i poate fi un subiect de interes, nu are leg\u0103tur\u0103 cu faptele sau datele referitoare la COVID-19."
+    },
+    {
+        "title": "Curtea Suprem\u0103 austriac\u0103 respinge obligativitatea botni\u021bei la \u0219coal\u0103",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "Curtea Suprem\u0103 austriac\u0103 a luat decizii legate de m\u0103surile de s\u0103n\u0103tate public\u0103, inclusiv obligativitatea purt\u0103rii m\u0103\u0219tilor \u00een \u0219coli, iar astfel de decizii sunt parte a gestion\u0103rii pandemiei COVID-19."
+    },
+    {
+        "title": "Coronavirusul, ucis de POLIDIN!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Polidin nu este un tratament dovedit sau recunoscut pentru COVID-19. Nu exist\u0103 dovezi \u0219tiin\u021bifice care s\u0103 sus\u021bin\u0103 afirma\u021bia c\u0103 Polidin ar putea ucide coronavirusul."
+    },
+    {
+        "title": "Vaticanul Ro\u0219u: Papa cere folosirea pandemiei de COVID pentru impunerea unei Noi Ordini Mondiale",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o teorie a conspira\u021biei f\u0103r\u0103 dovezi concrete, afirm\u00e2nd c\u0103 Papa ar cere folosirea pandemiei pentru a impune o Nou\u0103 Ordine Mondial\u0103, ceea ce nu este sus\u021binut de fapte reale sau declara\u021bii oficiale."
+    },
+    {
+        "title": "Elitele care au instaurat deja Noua Ordine Mondial\u0103 preg\u0103tesc terenul: cine nu se vaccineaz\u0103 va fi exclus social!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o teorie a conspira\u021biei despre o 'Nou\u0103 Ordine Mondial\u0103' care exclude social persoanele nevaccinate, ceea ce nu este sus\u021binut de fapte sau dovezi. Vaccinarea este recomandat\u0103 ca o m\u0103sur\u0103 de s\u0103n\u0103tate public\u0103 pentru a preveni COVID-19, dar nu exist\u0103 dovezi c\u0103 persoanele nevaccinate vor fi excluse social \u00een mod sistematic."
+    },
+    {
+        "title": "UE negociaz\u0103 cu al cincilea produc\u0103tor major pentru vaccinul anti-Covid",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la negocierile Uniunii Europene cu un produc\u0103tor major de vaccinuri, ceea ce este plauzibil av\u00e2nd \u00een vedere c\u0103 UE a colaborat cu mai mul\u021bi produc\u0103tori de vaccinuri pentru a asigura accesul la vaccinuri anti-COVID-19."
+    },
+    {
+        "title": "R\u0102SP\u00c2NDI\u021aI: Organiza\u021bia Mondial\u0103 a S\u0103n\u0103t\u0103\u021bii confirm\u0103 prin statistici c\u0103 virusul COVID nu este mai periculos dec\u00e2t gripa obi\u0219nuit\u0103",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Organiza\u021bia Mondial\u0103 a S\u0103n\u0103t\u0103\u021bii nu a confirmat c\u0103 virusul COVID-19 nu este mai periculos dec\u00e2t gripa obi\u0219nuit\u0103. COVID-19 a avut un impact semnificativ asupra s\u0103n\u0103t\u0103\u021bii publice, cu milioane de cazuri \u0219i decese, \u0219i este considerat mai mortal dec\u00e2t gripa obi\u0219nuit\u0103, \u00een special pentru persoanele \u00een v\u00e2rst\u0103 \u0219i cele cu afec\u021biuni medicale subiacente."
+    },
+    {
+        "title": "PSD: Iohannis \u015fi Guvernul Orban v\u00e2nd rom\u00e2nilor iluzia unui vaccin anti-COVID",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul sugereaz\u0103 c\u0103 vaccinul anti-COVID este o iluzie, ceea ce este fals. Vaccinurile COVID-19 au fost dezvoltate \u0219i aprobate, demonstr\u00e2ndu-se eficacitatea lor \u00een prevenirea infec\u021biilor simptomatice \u0219i a spitaliz\u0103rilor."
+    },
+    {
+        "title": "Turn 5G deghizat instalat pe furi\u0219, \u00een vreme ce noi suntem bloca\u021bi \u00een case \u2013 adev\u0103ratul scop al acestei tehnologii",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o teorie a conspira\u021biei care leag\u0103 instalarea tehnologiei 5G de pandemia COVID-19, f\u0103r\u0103 dovezi \u0219tiin\u021bifice care s\u0103 sus\u021bin\u0103 o astfel de afirma\u021bie. Nu exist\u0103 nicio leg\u0103tur\u0103 dovedit\u0103 \u00eentre 5G \u0219i COVID-19, iar astfel de afirma\u021bii sunt parte din dezinformare."
+    },
+    {
+        "title": "Apple a lansat un nou iPhone ieftin pentru a cre\u015fte v\u00e2nz\u0103rile \u00eenaintea modelului 5G",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la lansarea unui nou iPhone, care nu are leg\u0103tur\u0103 cu pandemia COVID-19."
+    },
+    {
+        "title": "Disput\u0103 medical\u0103. Dr. Olivia Steer \u0219i dr. Ion Cristoiu se contrazic pe COVID",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "Titlul se refer\u0103 la o disput\u0103 medical\u0103 \u00eentre doi medici, ceea ce este o situa\u021bie comun\u0103 \u00een discu\u021biile despre COVID-19, av\u00e2nd \u00een vedere complexitatea \u0219i evolu\u021bia constant\u0103 a informa\u021biilor legate de pandemie. Nu exist\u0103 dovezi c\u0103 aceast\u0103 disput\u0103 ar fi fals\u0103 sau c\u0103 ar promova dezinformarea."
+    },
+    {
+        "title": "Imagini sc\u00e2rboase cu \u015eo\u015foac\u0103 \u00een Parlament, c\u0103ut\u00e2ndu-se de cipuri \u00een nas",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i se refer\u0103 la o situa\u021bie politic\u0103, neav\u00e2nd relevan\u021b\u0103 \u00een contextul informa\u021biilor despre virus \u0219i m\u0103surile de s\u0103n\u0103tate public\u0103."
+    },
+    {
+        "title": "AUTORIT\u0102\u0162ILE UCRAINENE DECLAR\u0102 C\u0102 A PARTICIPA LA LITURGHIA ORTODOX\u0102 E O \u201cDISTRAC\u0162IE\u201d DE CARE TE PO\u0162I LIPSI",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o declara\u021bie controversat\u0103 a autorit\u0103\u021bilor ucrainene despre liturghia ortodox\u0103, care nu are leg\u0103tur\u0103 direct\u0103 cu pandemia COVID-19 \u0219i nu reflect\u0103 informa\u021bii verificate sau relevante despre virus sau m\u0103surile de s\u0103n\u0103tate public\u0103."
+    },
+    {
+        "title": "Un rom\u00e2n sus\u0163ine c\u0103 reptilienii i-au implantat un cip care piuie c\u00e2nd iese din supermarket",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul afirm\u0103 c\u0103 reptilienii i-au implantat un cip unui rom\u00e2n, ceea ce este o teorie a conspira\u021biei f\u0103r\u0103 nicio baz\u0103 \u0219tiin\u021bific\u0103 sau dovad\u0103. COVID-19 este o pandemie cauzat\u0103 de un virus, nu de reptilieni sau cipuri implantate."
+    },
+    {
+        "title": "Un card de salariu cu adev\u0103rat masculin! Simte c\u00e2nd e \u00een po\u0219eta femeii \u0219i se demagnetizeaz\u0103 singur",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul nu are nicio leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i pare a fi o glum\u0103 sau o satir\u0103, neav\u00e2nd relevan\u021b\u0103 \u00een contextul informa\u021biilor despre virus \u0219i m\u0103surile de s\u0103n\u0103tate public\u0103."
+    },
+    {
+        "title": "Industria german\u0103 cere UE s\u0103-\u015fi \u00een\u0103spreasc\u0103 r\u0103spunsul la practicile comerciale incorecte ale Chinei",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu se refer\u0103 la COVID-19, ci la o problem\u0103 comercial\u0103 \u00eentre Germania \u0219i China, deci nu este o \u0219tire real\u0103 legat\u0103 de pandemie."
+    },
+    {
+        "title": "Coronavirus: Pre\u015fedinta Comisiei Europene organizeaz\u0103 un teledon mondial pentru finan\u0163area descoperirii unui vaccin",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Stirea este reala deoarece Comisia Europeana a organizat initiative pentru a sprijini finantarea cercetarii si dezvoltarii vaccinurilor impotriva COVID-19, inclusiv teledonuri pentru a str\u00e2nge fonduri."
+    },
+    {
+        "title": "Realii papusari nu ne arata vreo luminita la capatul tunelului, deoarece vor ca masele nemultumite sa gaseasca o unica solutie: RAZBOIUL si REVOLUTIA",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o conspira\u021bie \u0219i o incitare la violen\u021b\u0103, f\u0103r\u0103 a avea o baz\u0103 factual\u0103 \u00een realitatea pandemiei COVID-19, care este o problem\u0103 de s\u0103n\u0103tate public\u0103 \u0219i nu un apel la r\u0103zboi sau revolu\u021bie."
+    },
+    {
+        "title": "Dr. Carrie Madej din SUA ne dezv\u0103luie PERICOLELE URIA\u0218E pentru s\u0103n\u0103tate pe care le poate avea VACCINUL anti- COVID",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Stirea face referire la pericolele vaccinului anti-COVID, dar vaccinurile au fost dovedite a fi sigure \u0219i eficiente \u00een prevenirea infec\u021biilor severe \u0219i a deceselor cauzate de COVID-19, conform autorit\u0103\u021bilor de s\u0103n\u0103tate public\u0103."
+    },
+    {
+        "title": "OMS recunoa\u0219te EFECTELE vaccin\u0103rii: num\u0103rul deceselor \u0219i a infect\u0103rilor a crescut. Tot OMS se declar\u0103 \u00eempotriva pa\u0219aportului de vaccinare",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Organiza\u021bia Mondial\u0103 a S\u0103n\u0103t\u0103\u021bii (OMS) nu a declarat niciodat\u0103 c\u0103 vaccinarea ar fi responsabil\u0103 pentru cre\u0219terea num\u0103rului de decese \u0219i infect\u0103ri. Vaccinurile COVID-19 au demonstrat eficacitate \u00een prevenirea infec\u021biilor severe \u0219i a deceselor cauzate de COVID-19. De asemenea, OMS sus\u021bine pa\u0219aportul de vaccinare ca un instrument pentru a facilita c\u0103l\u0103toriile \u0219i a proteja s\u0103n\u0103tatea public\u0103."
+    },
+    {
+        "title": "Decizia CEDO de azi va duce la vaccinarea anti-Covid obligatorie",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Decizia CEDO nu poate impune vaccinarea obligatorie, deoarece astfel de m\u0103suri sunt reglementate de legisla\u021biile na\u021bionale \u0219i de politicile de s\u0103n\u0103tate public\u0103 ale fiec\u0103rei \u021b\u0103ri. CEDO poate oferi orient\u0103ri, dar nu are autoritatea de a impune vaccinarea obligatorie."
+    },
+    {
+        "title": "Ai \u015fobolani \u00een gospod\u0103rie? Acum trebuie microcipa\u0163i \u015fi vaccina\u0163i",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 c\u0103 \u0219obolanii ar trebui microcipa\u021bi \u0219i vaccina\u021bi, ceea ce nu are nicio baz\u0103 \u0219tiin\u021bific\u0103 sau medical\u0103. Nu exist\u0103 dovezi sau recomand\u0103ri oficiale care s\u0103 sus\u021bin\u0103 ideea c\u0103 animalele, cum ar fi \u0219obolanii, ar trebui s\u0103 fie microcipa\u021bi sau vaccina\u021bi \u00eempotriva COVID-19."
+    },
+    {
+        "title": "Mike Pompeo trage un semnal de alarm\u0103: \u201eLaboratorul din Wuhan e \u00eenc\u0103 \u00een func\u021biune\u201c ",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Stirea este falsa deoarece nu exist\u0103 dovezi credibile c\u0103 laboratorul din Wuhan ar fi \u00een continuare \u00een func\u021biune \u00een contextul pandemiei COVID-19. De asemenea, nu exist\u0103 informa\u021bii oficiale care s\u0103 sus\u021bin\u0103 afirma\u021biile lui Mike Pompeo despre activit\u0103\u021bile laboratorului \u00een prezent."
+    },
+    {
+        "title": "Kanye West \u00ee\u0219i anun\u021b\u0103 candidatura la pre\u0219edin\u021bia SUA, cu sloganul DA. Ce spune despre Donald Trump \u0219i cine l-a convins s\u0103 candideze",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i se refer\u0103 la o candidatur\u0103 politic\u0103, ceea ce \u00eel face irelevant \u00een contextul informa\u021biilor despre COVID-19."
+    },
+    {
+        "title": "Ivermectina, medicamentul miraculos \u00eempotriva Covid-19 pe care dac\u0103 \u00eel iei, nu te \u00eemboln\u0103ve\u0219ti \u2013 potrivit dr. Pierre Kory, pre\u0219edintele FLCCC Alliance",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Ivermectina nu este un medicament aprobat pentru prevenirea sau tratarea COVID-19. De\u0219i a fost studiat\u0103, nu exist\u0103 dovezi concludente c\u0103 ar fi eficient\u0103 \u00eempotriva virusului SARS-CoV-2. Organiza\u021biile de s\u0103n\u0103tate public\u0103, inclusiv OMS, nu recomand\u0103 utilizarea sa pentru COVID-19."
+    },
+    {
+        "title": "Beijingul acuz\u0103 Washingtonul c\u0103 vrea s\u0103 elimine Huawei ''prin orice mijloace'', dup\u0103 o aten\u0163ionare a SUA \u00een Brazilia",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la o acuza\u021bie politic\u0103 \u00eentre Beijing \u0219i Washington, f\u0103r\u0103 leg\u0103tur\u0103 cu pandemia COVID-19, deci nu este o \u0219tire real\u0103 despre COVID-19."
+    },
+    {
+        "title": "Revista TIME. Melinda Gates: \u201eNegrii vor fi primii vaccina\u021bi\u201d",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o afirma\u021bie rasial\u0103 care nu este sus\u021binut\u0103 de fapte. Vaccinarea nu se bazeaz\u0103 pe ras\u0103, ci pe priorit\u0103\u021bi de s\u0103n\u0103tate public\u0103 \u0219i riscuri de expunere, iar astfel de declara\u021bii pot contribui la dezinformare \u0219i discriminare."
+    },
+    {
+        "title": "ZECE MOTIVE PENTRU CARE SARS-COV-2 ESTE UN VIRUS \u201eIMAGINAR\u201d \u0218I \u201eTEORETIC\u201d. \u201eNU AU IZOLAT NICIODAT\u0102 VIRUSUL\u201d",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Stirea este falsa deoarece SARS-CoV-2 a fost izolat \u0219i identificat de cercet\u0103tori, iar dovezile \u0219tiin\u021bifice confirm\u0103 existen\u021ba sa ca virus real, responsabil pentru pandemia COVID-19. De asemenea, exist\u0103 numeroase studii \u0219i date care demonstreaz\u0103 transmiterea \u0219i impactul acestui virus asupra s\u0103n\u0103t\u0103\u021bii publice."
+    },
+    {
+        "title": "De ce vor muri vaccina\u021bii anti-Covid pe captete",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o afirma\u021bie alarmist\u0103 \u0219i nefondat\u0103 despre vaccinurile anti-COVID-19, care nu este sus\u021binut\u0103 de dovezi \u0219tiin\u021bifice. Vaccinurile au demonstrat eficacitate \u00een prevenirea infec\u021biilor simptomatice \u0219i a spitaliz\u0103rilor, iar afirma\u021biile despre moartea vaccinatelor nu au baz\u0103 real\u0103."
+    },
+    {
+        "title": "40% dintre bulgari cred c\u0103 noul coronavirus\u00a0este o arm\u0103 biologic\u0103 creat\u0103 pentru a reduce popula\u021bia de pe Glob (sondaj)",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Sondajul reflect\u0103 o opinie comun\u0103 \u00een r\u00e2ndul popula\u021biei, dar nu este o afirma\u021bie factual\u0103 despre virus. De\u0219i exist\u0103 teorii conspira\u021bioniste, acestea nu sunt sus\u021binute de dovezi \u0219tiin\u021bifice. COVID-19 este cauzat de un virus natural, nu de o arm\u0103 biologic\u0103."
+    },
+    {
+        "title": "Trump: \u201e99% din cazurile de Covid-19 sunt total inofensive.\u201d",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Afirmatia ca '99% din cazurile de Covid-19 sunt total inofensive' este o exagerare si nu reflecta realitatea. COVID-19 poate provoca simptome severe si chiar moarte, in special in randul persoanelor in varsta si celor cu afectiuni medicale subiacente. De asemenea, nu exista dovezi care sa sustina o astfel de afirmatie."
+    },
+    {
+        "title": "Peru: Ni\u015fte \u0163\u0103rani au \u0163inut captivi opt tehnicieni de teama consecin\u0163elor instal\u0103rii tehnologiei 5G",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la o problem\u0103 legat\u0103 de tehnologia 5G, care nu are leg\u0103tur\u0103 direct\u0103 cu pandemia COVID-19. De\u0219i exist\u0103 temeri \u0219i teorii conspira\u021bioniste legate de 5G, acestea nu sunt sus\u021binute de dovezi \u0219tiin\u021bifice \u0219i nu sunt relevante \u00een contextul COVID-19."
+    },
+    {
+        "title": "Rom\u00e2nul care cre\u0219te c\u00e2ini \u0219o\u0219ocari nu poate dormi de la l\u0103trat",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i nu con\u021bine informa\u021bii relevante sau verificate despre virus sau m\u0103surile de s\u0103n\u0103tate public\u0103."
+    },
+    {
+        "title": "Vaccinul lui Bill Gates, rezultate \u00eencurajatoare. Cipul se ata\u0219eaz\u0103 perfect la creier!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul afirm\u0103 c\u0103 vaccinul lui Bill Gates ar include un cip care se ata\u0219eaz\u0103 la creier, ceea ce este o teorie a conspira\u021biei f\u0103r\u0103 fundament \u0219tiin\u021bific. Vaccinurile COVID-19 sunt dezvoltate pentru a preveni infec\u021bia cu virusul SARS-CoV-2 \u0219i nu con\u021bin cipuri sau alte tehnologii de urm\u0103rire."
+    },
+    {
+        "title": "INTERVIU Mihai Tudose: Solu\u021bia pentru re-industrializarea UE este \u00een Europa de Est, de Sud \u0219i \u00een \u021b\u0103rile balcanice. Se poate dezvolta \u00een regiunea noastr\u0103 atelierul de care are nevoie UE",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i nu con\u021bine informa\u021bii relevante despre virus sau m\u0103surile de s\u0103n\u0103tate public\u0103."
+    },
+    {
+        "title": "Twitter a \u00eenchis contul conspira\u0163ionistului David Icke pentru ''\u00eenc\u0103lcarea regulilor privind dezinformarea COVID''",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Stirea este reala deoarece Twitter a implementat politici de moderare a continutului pentru a combate dezinformarea legata de COVID-19, inclusiv inchiderea conturilor care incalca aceste reguli."
+    },
+    {
+        "title": "Coronavirusul este pretextul pentru fuziunea identit\u0103\u021bii noastre fizice, digitale \u0219i biologice",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o teorie conspira\u021bionist\u0103 care nu are fundament \u0219tiin\u021bific \u0219i nu reflect\u0103 realitatea pandemiei COVID-19, care este o problem\u0103 de s\u0103n\u0103tate public\u0103 global\u0103, nu un pretext pentru fuziunea identit\u0103\u021bii fizice, digitale \u0219i biologice."
+    },
+    {
+        "title": "Breaking! Documentele care con\u021bin lista efectelor adverse cauzate de vaccinurile anti-COVID-19",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Nu exist\u0103 dovezi credibile care s\u0103 sus\u021bin\u0103 c\u0103 vaccinurile anti-COVID-19 cauzeaz\u0103 efecte adverse semnificative care s\u0103 fie listate \u00een documente oficiale. Vaccinurile au fost supuse unor studii riguroase \u0219i au demonstrat eficacitate \u0219i siguran\u021b\u0103 \u00een prevenirea infec\u021biilor severe cu COVID-19."
+    },
+    {
+        "title": "ONU, sub controlul lui Bill Gates",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o teorie a conspira\u021biei nefondat\u0103 care asociaz\u0103 ONU cu Bill Gates, f\u0103r\u0103 dovezi sau fapte concrete. Bill Gates este cunoscut pentru contribu\u021biile sale la s\u0103n\u0103tate public\u0103, dar nu exist\u0103 dovezi c\u0103 ar controla ONU sau c\u0103 ar avea un rol de conducere \u00een gestionarea pandemiei COVID-19."
+    },
+    {
+        "title": "Cercet\u0103torii sunt uimi\u0163i de\u2026 dispari\u0163ia gripei! Dar chiar a disp\u0103rut, sau e doar mascat\u0103 de Covid-19?",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "Stirea se refera la o observatie reala in legatura cu scaderea cazurilor de gripa in timpul pandemiei COVID-19, care a fost documentata de cercetatori. Aceasta nu inseamna ca gripa a disparut complet, ci ca poate fi mascat\u0103 de COVID-19, avand in vedere ca ambele afectiuni au simptome similare si se transmit in moduri asemanatoare."
+    },
+    {
+        "title": "Iohannis s-a r\u0103zg\u00e2ndit cu vaccinul, c\u0103 are deja vreo opt cipuri \u00een cap",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul afirm\u0103 c\u0103 pre\u0219edintele Iohannis ar avea cipuri \u00een cap din cauza vaccinului, ceea ce este o teorie a conspira\u021biei f\u0103r\u0103 fundament \u0219tiin\u021bific. Vaccinurile COVID-19 nu con\u021bin cipuri \u0219i nu exist\u0103 dovezi care s\u0103 sus\u021bin\u0103 astfel de afirma\u021bii."
+    },
+    {
+        "title": "Neti Sandu are COVID. L-a luat de la cineva \u00een Gemeni cu ascendent \u00een Taur",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 c\u0103 Neti Sandu a contractat COVID-19 de la o persoan\u0103 cu un anumit ascendent zodiacal, ceea ce nu are nicio baz\u0103 \u0219tiin\u021bific\u0103 sau medical\u0103. COVID-19 se transmite prin contactul cu persoane infectate, nu prin caracteristici astrologice."
+    },
+    {
+        "title": "Noi reguli pentru simplificarea instal\u0103rii re\u021belelor 5G \u00een UE: Antenele vor avea limite stricte de expunere la radia\u021bii pentru protec\u021bia s\u0103n\u0103t\u0103\u021bii",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la reglement\u0103ri privind re\u021belele 5G \u0219i expunerea la radia\u021bii, care nu are leg\u0103tur\u0103 cu pandemia COVID-19."
+    },
+    {
+        "title": "C\u00ee\u021bu, \u00een corzi. Rom\u00e2nii nu mai vor s\u0103 se vaccineze",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul sugereaz\u0103 c\u0103 rom\u00e2nii nu mai doresc s\u0103 se vaccineze, ceea ce este o generalizare \u0219i nu reflect\u0103 realitatea complex\u0103 a atitudinilor fa\u021b\u0103 de vaccinare. De\u0219i pot exista fluctua\u021bii \u00een dorin\u021ba de vaccinare, nu exist\u0103 dovezi clare c\u0103 o majoritate a rom\u00e2nilor a renun\u021bat la vaccinare. Vaccinarea r\u0103m\u00e2ne un instrument esen\u021bial \u00een combaterea pandemiei COVID-19."
+    },
+    {
+        "title": "MASCA \u2013 INSTRUMENT AL FRICII, AL \u00ceNROBIRII \u015eI AL MINCIUNII",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 c\u0103 masca este un instrument de fric\u0103 \u0219i \u00eenrobire, ceea ce contrazice dovezile \u0219tiin\u021bifice care arat\u0103 c\u0103 m\u0103\u0219tile sunt un instrument eficient de prevenire a r\u0103sp\u00e2ndirii COVID-19 \u0219i protejeaz\u0103 s\u0103n\u0103tatea public\u0103."
+    },
+    {
+        "title": "Livr\u0103rile globale de smartphone-uri vor sc\u0103dea cu aproape 12% anul acesta (IDC)",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la livr\u0103rile globale de smartphone-uri, care nu are leg\u0103tur\u0103 cu pandemia COVID-19 sau cu informa\u021biile despre aceasta."
+    },
+    {
+        "title": "Raport PwC: Tehnologia 5G va m\u0103ri productivitatea, contribuind cu 1,3 trilioane de dolari la PIB-ul global, p\u00e2n\u0103 \u00een 2030",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i se refer\u0103 la un raport economic despre tehnologia 5G, care nu este relevant \u00een contextul COVID-19."
+    },
+    {
+        "title": "Dr. Mike Yeadon: Pandemia s-a sf\u00e2r\u015fit \u2013 \u201cCel de-al doilea val\u201d este fabricat prin testele fals-pozitive de COVID",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Pandemia COVID-19 nu s-a \u00eencheiat, iar afirma\u021bia c\u0103 'cel de-al doilea val' este fabricat prin teste fals-pozitive este o teorie conspira\u021bionist\u0103 f\u0103r\u0103 dovezi \u0219tiin\u021bifice. COVID-19 continu\u0103 s\u0103 fie o problem\u0103 global\u0103, cu milioane de cazuri \u0219i decese confirmate."
+    },
+    {
+        "title": "Nimeni nu poarta masca la Copenhaga, Stockholm sau Oslo. ",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 c\u0103 nimeni nu poart\u0103 masc\u0103 \u00een ora\u0219ele men\u021bionate, ceea ce este o generalizare exagerat\u0103 \u0219i nu reflect\u0103 realitatea, av\u00e2nd \u00een vedere c\u0103 m\u0103\u0219tile sunt recomandate \u0219i utilizate \u00een continuare \u00een multe locuri pentru a preveni r\u0103sp\u00e2ndirea COVID-19."
+    },
+    {
+        "title": "Coronavirus: Am\u00e2narea summitului UE-China programat \u00een septembrie, \u00een Germania",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la un eveniment real, am\u00e2narea summitului UE-China, care a fost influen\u021bat de pandemia COVID-19 \u0219i de restric\u021biile de c\u0103l\u0103torie asociate."
+    },
+    {
+        "title": "Fauci recunoa\u0219te c\u0103 masca nu protejeaz\u0103 \u00eempotriva Covid \u0219i recomand\u0103 purtarea \u0219i a ochelarilor",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Stirea este falsa deoarece masca este recomandata ca o masura de protectie impotriva COVID-19, iar nu exista dovezi ca Dr. Fauci ar fi afirmat ca masca nu protejeaza. De asemenea, purtarea ochelarilor nu este o recomandare standard in contextul prevenirii COVID-19."
+    },
+    {
+        "title": "Capii Facebook, Google \u015fi Twitter pu\u0219i la col\u021b de Congresul american pentru c\u0103 nu au CENZURAT destul \u00een leg\u0103tur\u0103 cu plandemia",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 c\u0103 Facebook, Google \u0219i Twitter sunt criticate pentru c\u0103 nu au cenzurat suficient informa\u021biile despre COVID-19, ceea ce este o interpretare exagerat\u0103 \u0219i distorsionat\u0103 a realit\u0103\u021bii. De\u0219i aceste platforme au luat m\u0103suri pentru a combate dezinformarea, nu exist\u0103 dovezi c\u0103 ar fi fost acuzate oficial de Congresul american pentru insuficienta cenzur\u0103 \u00een leg\u0103tur\u0103 cu pandemia."
+    },
+    {
+        "title": "A ap\u0103rut vaccinul anti-COVID sub form\u0103 de iaurt: \u201eEste pur \u0219i simplu lapte fermentat cu bacterii ce con\u021bin genele coronavirusului\u201d",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Vaccinurile anti-COVID-19 nu sunt disponibile sub form\u0103 de iaurt sau lapte fermentat. Vaccinurile sunt produse prin metode \u0219tiin\u021bifice avansate \u0219i nu con\u021bin bacterii cu genele coronavirusului. Aceast\u0103 afirma\u021bie este o dezinformare."
+    },
+    {
+        "title": "Twitter va eticheta post\u0103rile care asociaz\u0103 re\u021belele 5G cu noul coronavirus",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Twitter a implementat etichete pentru a combate dezinformarea, inclusiv asocierea re\u021belelor 5G cu COVID-19, care este o teorie conspira\u021bionist\u0103 f\u0103r\u0103 fundament \u0219tiin\u021bific."
+    },
+    {
+        "title": "The Financial Times: India \u00ee\u0219i alege o tab\u0103r\u0103 \u00een noul r\u0103zboi rece. E o nebunie din partea Chinei s\u0103-\u0219i \u00eemping\u0103 rivalul \u00een bra\u021bele Americii",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu se refer\u0103 la COVID-19, ci la o problem\u0103 geopolitic\u0103 \u00eentre India \u0219i China, deci nu este o \u0219tire real\u0103 legat\u0103 de pandemie."
+    },
+    {
+        "title": "Peste 750 de milioane de cipuri AI \u00eencorporate \u00een mobile vor fi v\u00e2ndute \u00een 2020  venit estimat de 2,6 miliarde de dolari (studiu)",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la v\u00e2nz\u0103rile de cipuri AI \u00eencorporate \u00een mobile, care nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i nu este relevant pentru subiectul COVID-19."
+    },
+    {
+        "title": "\"Partida rus\u0103\" din energie",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i nu reflect\u0103 informa\u021bii relevante despre virus sau m\u0103surile de s\u0103n\u0103tate public\u0103 asociate."
+    },
+    {
+        "title": "Vaccinarea obligatorie! Dictatura BigPharma s-a declan\u0219at",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o teorie a conspira\u021biei referitoare la vaccinare \u0219i Big Pharma, f\u0103r\u0103 a oferi dovezi sau fapte concrete. Vaccinarea \u00eempotriva COVID-19 este o m\u0103sur\u0103 de s\u0103n\u0103tate public\u0103 sus\u021binut\u0103 de organiza\u021bii de s\u0103n\u0103tate global\u0103, iar vaccinurile au fost dezvoltate pentru a preveni spitaliz\u0103rile \u0219i decesele cauzate de virus."
+    },
+    {
+        "title": "AMD negociaz\u0103 preluarea rivalului Xilinx pentru 30 de miliarde de dolari",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la o negociere de afaceri \u00eentre companii, care nu are leg\u0103tur\u0103 cu pandemia COVID-19."
+    },
+    {
+        "title": "Circa 23% dintre responden\u0163ii din Rom\u00e2nia au un telefon compatibil cu tehnologia 5G (raport)",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i se refer\u0103 la un raport despre tehnologia 5G, care nu este relevant pentru subiectul COVID-19."
+    },
+    {
+        "title": "Scandal diplomatic: Premierul Australiei someaz\u0103 China s\u0103 \u00ee\u0219i cear\u0103 scuze pentru o postare despre solda\u021bii australieni",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 direct\u0103 cu pandemia COVID-19 \u0219i se refer\u0103 la un scandal diplomatic \u00eentre Australia \u0219i China, care nu este o informa\u021bie despre COVID-19."
+    },
+    {
+        "title": "Editorial  Putem s\u0103 fim o echip\u0103 na\u021bional\u0103?",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu con\u021bine informa\u021bii specifice despre COVID-19 \u0219i nu se refer\u0103 la fapte sau date concrete legate de pandemie, ci mai degrab\u0103 la o \u00eentrebare retoric\u0103 despre unitatea na\u021bional\u0103, ceea ce \u00eel face s\u0103 nu fie o \u0219tire real\u0103 despre COVID-19."
+    },
+    {
+        "title": "Dr. Fauci vorbea constant cu Bill Gates \u0219i Mark Zuckerberg, \u0219tia c\u0103 m\u0103\u0219tile nu func\u021bioneaz\u0103 \u0219i era con\u0219tient de probabilitatea unei scurgeri din laboratorul din Wuhan, reiese din e-mail-uri lui, prezentate de presa american\u0103 conservatoare",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Stirea face afirma\u021bii nefondate despre Dr. Fauci \u0219i despre eficien\u021ba m\u0103\u0219tilor, care sunt sus\u021binute de dovezi \u0219tiin\u021bifice. M\u0103\u0219tile au fost dovedite a fi eficiente \u00een reducerea transmiterii virusului COVID-19, iar specula\u021biile despre o scurgere din laborator nu sunt confirmate de cercet\u0103ri \u0219tiin\u021bifice solide."
+    },
+    {
+        "title": "Germania: Vicepremierul Olaf Scholz, despre uria\u0219ul plan de ie\u0219ire din cea mai grav\u0103 recesiune postbelic\u0103: \"Vrem s\u0103 ie\u0219im \u00een for\u021b\u0103 din criz\u0103\". M\u0103surile decise \u0219i o not\u0103 de optimism",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la un plan economic al vicepremierului Olaf Scholz din Germania, care este o informa\u021bie valid\u0103 \u0219i relevant\u0103 \u00een contextul recesiunii cauzate de pandemia COVID-19. Aceasta reflect\u0103 m\u0103surile economice luate de guverne pentru a r\u0103spunde impactului economic al pandemiei."
+    },
+    {
+        "title": "Huawei a raportat venituri de aproape 65 miliarde de dolari \u00een primul semestru din 2020",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la veniturile Huawei, care nu are leg\u0103tur\u0103 cu pandemia COVID-19. Informa\u021bia nu este relevant\u0103 pentru subiectul COVID-19."
+    },
+    {
+        "title": "Indienii au g\u0103sit leac la Covid-19. Ce tehnic\u0103 tradi\u021bional\u0103 ajut\u0103 la combatere",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Nu exist\u0103 dovezi \u0219tiin\u021bifice care s\u0103 sus\u021bin\u0103 c\u0103 tehnicile tradi\u021bionale pot trata COVID-19. Tratamentul COVID-19 se bazeaz\u0103 pe medicamente antivirale \u0219i alte interven\u021bii medicale aprobate, nu pe tehnici tradi\u021bionale."
+    },
+    {
+        "title": "Valneva a anun\u021bat lansarea unui studiu clinic de faz\u0103 3 \u00een care \u00ee\u0219i va compara vaccinul contra Covid-19 cu cel AstraZeneca",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Valneva a anun\u021bat \u00eentr-adev\u0103r lansarea unui studiu clinic de faz\u0103 3 pentru vaccinul s\u0103u \u00eempotriva COVID-19, compar\u00e2ndu-l cu vaccinul AstraZeneca, ceea ce este o practic\u0103 obi\u0219nuit\u0103 \u00een dezvoltarea vaccinurilor."
+    },
+    {
+        "title": "Business report: Magazinele au avut \u00een aceast\u0103 perioad\u0103 v\u00e2nz\u0103ri mai mari dec\u00e2t de Cr\u0103ciun, la anumite categorii de produse  Coronavirus - cum se simte un antreprenor \u00een Rom\u00e2nia, ast\u0103zi  Un gigant de lux se al\u0103tur\u0103 luptei \u00eempotriva coronavirusului. Va produce dezinfectant",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Stirea se refera la cresterea vanzarilor in magazine si la implicarea unui gigant de lux in producerea dezinfectantului, ceea ce este plauzibil in contextul pandemiei COVID-19, avand in vedere cererea crescuta pentru produse de igiena si dezinfectare."
+    },
+    {
+        "title": "Premierul italian Giuseppe Conte promite un plan 'clar' pentru relansarea economiei",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la un angajament al premierului italian Giuseppe Conte de a prezenta un plan pentru relansarea economiei, ceea ce este o reac\u021bie comun\u0103 a guvernelor \u00een contextul pandemiei COVID-19, care a avut un impact economic semnificativ la nivel global."
+    },
+    {
+        "title": "Vinovatul de serviciu: Tehnologia 5G \u0219i teoriile conspira\u021bioniste despre coronavirus",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Titlul discut\u0103 despre asocierile false \u00eentre tehnologia 5G \u0219i COVID-19, care sunt parte din teoriile conspira\u021bioniste. Aceste teorii nu au fundament \u0219tiin\u021bific \u0219i au fost demontate de exper\u021bi, dar discu\u021bia despre ele este real\u0103 \u00een contextul dezinform\u0103rii care a circulat \u00een timpul pandemiei."
+    },
+    {
+        "title": "Oficiali din Guvern \u0219i SRI: Ne confrunt\u0103m cu o adev\u0103rat\u0103 pandemie \u0219i \u00een spa\u021biul cibernetic . Ce victime au fost \u00een Rom\u00e2nia \u0219i semnalul de alarm\u0103 \u00een privin\u021ba securit\u0103\u021bii 5G",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul face referire la o 'pandemie' \u00een spa\u021biul cibernetic, ceea ce nu este corect \u00een contextul COVID-19, care este o pandemie biologic\u0103. De asemenea, nu exist\u0103 dovezi c\u0103 securitatea 5G ar fi legat\u0103 de pandemia COVID-19."
+    },
+    {
+        "title": "Guvernul Wuhannis umfl\u0103 cifrele \u201einfecta\u021bilor\u201d de covid-19 pentru a primi cele 33 miliarde de euro din partea UE",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul afirm\u0103 c\u0103 guvernul umfl\u0103 cifrele infect\u0103rilor pentru a ob\u021bine fonduri de la UE, ceea ce este o teorie a conspira\u021biei f\u0103r\u0103 dovezi concrete. De asemenea, nu exist\u0103 informa\u021bii credibile care s\u0103 sus\u021bin\u0103 aceast\u0103 afirma\u021bie, iar gestionarea pandemiei se bazeaz\u0103 pe date \u0219tiin\u021bifice \u0219i statistici verificate."
+    },
+    {
+        "title": "O mare victorie pentru Omenire \u0219i Libertate: Curtea Suprem\u0103  a Statelor Unite a anulat Vaccinarea Universal\u0103 pe care o preconiza Banda lui Bill Gates \u0219i a celorlal\u021bi t\u00e2lhari mondiali\u0219ti",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul con\u021bine afirma\u021bii false \u0219i teorii ale conspira\u021biei, cum ar fi asocierea vaccin\u0103rii universale cu 'Banda lui Bill Gates' \u0219i 't\u00e2lharii mondiali\u0219ti', care nu au fundament \u00een realitate. Vaccinarea este un instrument recunoscut de s\u0103n\u0103tate public\u0103 pentru a combate pandemia COVID-19, iar deciziile legate de vaccinare sunt bazate pe dovezi \u0219tiin\u021bifice \u0219i recomand\u0103ri ale exper\u021bilor \u00een s\u0103n\u0103tate."
+    },
+    {
+        "title": "INTERESANT Valeriu Gheorghi\u021b\u0103 nu-i las\u0103 pe pacien\u021bi s\u0103 decid\u0103 cu ce doz\u0103 s\u0103 se vaccineze: Moderna sau Pfizer",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 c\u0103 Valeriu Gheorghi\u021b\u0103, o figur\u0103 public\u0103 asociat\u0103 cu vaccinarea, nu permite pacien\u021bilor s\u0103 decid\u0103 \u00eentre vaccinurile Moderna \u0219i Pfizer, ceea ce este o interpretare eronat\u0103. Decizia privind vaccinarea ar trebui s\u0103 fie bazat\u0103 pe recomand\u0103rile medicale \u0219i pe consim\u021b\u0103m\u00e2ntul informat al pacien\u021bilor, nu pe o interdic\u021bie."
+    },
+    {
+        "title": "Cazurile de COVID-19 s-au \u00eenmul\u021bit dup\u0103 introducerea obligativit\u0103\u021bii m\u0103\u0219tilor",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Obligativitatea m\u0103\u0219tilor nu a dus la o \u00eenmul\u021bire a cazurilor de COVID-19; dimpotriv\u0103, purtarea m\u0103\u0219tilor este o m\u0103sur\u0103 preventiv\u0103 recomandat\u0103 pentru a reduce transmiterea virusului."
+    },
+    {
+        "title": "R\u0103zboiul psihologic COVID: \u201eTehnici de modificare comportamental\u0103\u201d pentru supunerea popula\u021biei",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o teorie a conspira\u021biei referitoare la utilizarea tehnicilor de modificare comportamental\u0103 pentru a controla popula\u021bia, ceea ce nu este sus\u021binut de dovezi \u0219tiin\u021bifice. Pandemia COVID-19 este o problem\u0103 de s\u0103n\u0103tate public\u0103 real\u0103, iar m\u0103surile de prevenire \u0219i control sunt bazate pe \u0219tiin\u021b\u0103 \u0219i date epidemiologice, nu pe manipulare psihologic\u0103."
+    },
+    {
+        "title": "Henry Kissinger avertizeaz\u0103 c\u0103 deteriorarea rela\u021biilor SUA-China ar putea provoca \"o catastrof\u0103 comparabil\u0103 cu Primul R\u0103zboi Mondial\"",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu se refer\u0103 la COVID-19, ci la rela\u021biile interna\u021bionale, ceea ce \u00eel face irelevant pentru subiectul pandemiei."
+    },
+    {
+        "title": "GRAFICE \u200bLa ce opera\u021biuni renun\u021b\u0103 DIGI \u00een Ungaria, dup\u0103 v\u00e2nzarea afacerilor c\u0103tre o companie controlat\u0103 de apropia\u021bi ai premierului Viktor Orban",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19, ci se refer\u0103 la opera\u021biunile unei companii din Ungaria, ceea ce \u00eel face irelevant pentru subiectul COVID-19."
+    },
+    {
+        "title": "UPDATE! \u00ceNC\u0102 DOI ROM\u00c2NI UCI\u0218I DE VACCIN. Un profesor de 45 de ani din Arge\u0219 \u0219i un b\u0103rbat de 46 de ani din Tg. Jiu au murit la nici 24 de ore dup\u0103 ce s-au vaccinat cu PFIZER / BioNTech. BILAN\u021aUL NEGRU \u00eenregistrat de ACTIVENEWS",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul afirm\u0103 c\u0103 vaccinul a ucis doi rom\u00e2ni, dar nu exist\u0103 dovezi c\u0103 vaccinurile COVID-19 au cauzat moartea acestor persoane. Moartea dup\u0103 vaccinare nu implic\u0103 automat o cauz\u0103 de deces legat\u0103 de vaccin, iar astfel de afirma\u021bii sunt adesea bazate pe dezinformare."
+    },
+    {
+        "title": "Guvernul olandez cere cet\u0103\u021benilor S\u0102 NU POARTE MASC\u0102!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Guvernul olandez nu a cerut cet\u0103\u021benilor s\u0103 nu poarte masc\u0103. De fapt, purtarea m\u0103\u0219tilor este recomandat\u0103 ca m\u0103sur\u0103 preventiv\u0103 \u00eempotriva r\u0103sp\u00e2ndirii COVID-19, conform recomand\u0103rilor Organiza\u021biei Mondiale a S\u0103n\u0103t\u0103\u021bii \u0219i altor autorit\u0103\u021bi de s\u0103n\u0103tate public\u0103."
+    },
+    {
+        "title": "\u200bO noua strategie de securitate cibernetic\u0103 a UE: Reducerea expunerii fa\u021b\u0103 de furnizorii 5G cu grad ridicat de risc, un scut bazat pe Inteligen\u021ba Artificial\u0103 \u0219i rolul centrului de la Bucure\u0219ti",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la o strategie de securitate cibernetic\u0103 a Uniunii Europene, care nu are leg\u0103tur\u0103 cu pandemia COVID-19."
+    },
+    {
+        "title": "Japonia, investi\u0163ie de miliarde de dolari pentru o fabric\u0103 unde s\u0103 fie produse cele mai noi cipuri (Yomiuri)",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i se refer\u0103 la o investi\u021bie \u00een tehnologie, nu la aspecte legate de virus sau m\u0103suri de s\u0103n\u0103tate public\u0103."
+    },
+    {
+        "title": "Mecanismul european de redresare: Nu exist\u0103 proiecte care s\u0103 fie excluse din start de la finan\u021bare, dar trebuie respectate anumite condi\u021bii / Dac\u0103 proiectele din PNRR nu sunt finalizate p\u00e2n\u0103 la finalul anului 2026, banii vor fi returna\u021bi",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la un mecanism de redresare economic\u0103 \u0219i nu are leg\u0103tur\u0103 direct\u0103 cu pandemia COVID-19 sau cu informa\u021bii despre virus, vaccinuri sau m\u0103suri de s\u0103n\u0103tate public\u0103."
+    },
+    {
+        "title": "DOCUMENT Dou\u0103 site-uri, \u00eenchise de autorit\u0103\u021bi pentru c\u0103 au publicat \u0219tiri false legate de coronavirus",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Stirea este reala deoarece autoritatile au inchis site-uri care au publicat dezinformari legate de COVID-19, ceea ce este o masura luata pentru a combate raspandirea informatiilor false in timpul pandemiei."
+    },
+    {
+        "title": "Ex Machina (2015) \u2013 Much more human than human",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul se refer\u0103 la un film de fic\u021biune, 'Ex Machina', care nu are leg\u0103tur\u0103 cu pandemia COVID-19 sau cu informa\u021biile despre virus."
+    },
+    {
+        "title": "Cercet\u0103tor german: Virusul a fost creat \u00een Laborator",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Nu exist\u0103 dovezi credibile c\u0103 SARS-CoV-2, virusul care cauzeaz\u0103 COVID-19, a fost creat \u00een laborator. Originea virusului este considerat\u0103 a fi zoonotic\u0103, av\u00e2nd leg\u0103turi cu liliecii \u0219i alte animale, conform cercet\u0103rilor \u0219tiin\u021bifice."
+    },
+    {
+        "title": "Marea Britanie se preg\u0103te\u0219te s\u0103 suspende tratatul de extr\u0103dare cu Hong Kong",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la o problem\u0103 politic\u0103 \u0219i nu are leg\u0103tur\u0103 direct\u0103 cu pandemia COVID-19 sau cu aspectele sale medicale, de s\u0103n\u0103tate public\u0103 sau de prevenire a r\u0103sp\u00e2ndirii virusului."
+    },
+    {
+        "title": "Chinezii r\u00e2d \u00een hohote de pro\u0219tii care au luat \u00een serios teatrul din Wuhan",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o atitudine sarcastic\u0103 \u0219i dispre\u021buitoare fa\u021b\u0103 de persoanele care au luat \u00een serios pandemia COVID-19, ceea ce nu reflect\u0103 realitatea gravit\u0103\u021bii situa\u021biei. Pandemia a avut un impact semnificativ asupra s\u0103n\u0103t\u0103\u021bii publice \u0219i a fost tratat\u0103 cu seriozitate de majoritatea oamenilor \u0219i autorit\u0103\u021bilor din \u00eentreaga lume."
+    },
+    {
+        "title": "Secretarul de stat american Mike Pompeo \u00eel acuz\u0103 pe \u015feful OMS c\u0103 a fost ''cump\u0103rat'' de China (pres\u0103)",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la o declara\u021bie public\u0103 a unui oficial guvernamental, ceea ce este o practic\u0103 obi\u0219nuit\u0103 \u00een politica interna\u021bional\u0103. Acuza\u021biile de influen\u021b\u0103 politic\u0103 asupra organiza\u021biilor interna\u021bionale, cum ar fi OMS, au fost discutate \u00een mod frecvent \u00een contextul pandemiei COVID-19."
+    },
+    {
+        "title": "Exterminarea omenirii intr\u0103 \u00eentr-o nou\u0103 faz\u0103? \u00cen SUA se propune purtarea a dou\u0103 m\u0103\u0219ti deodat\u0103 de c\u0103tre aceea\u0219i persoan\u0103",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o teorie conspira\u021bionist\u0103 despre exterminarea omenirii, ceea ce nu este sus\u021binut de faptele \u0219tiin\u021bifice. Purtarea a dou\u0103 m\u0103\u0219ti este o m\u0103sur\u0103 de precau\u021bie recomandat\u0103 \u00een anumite condi\u021bii pentru a reduce riscul de transmitere a virusului, nu o strategie de exterminare."
+    },
+    {
+        "title": "Cu \u00eengrijorare, despre vaccinare: vaccinul covid = legume modificate genetic",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Vaccinurile COVID-19 nu sunt legume modificate genetic. Aceasta este o afirma\u021bie fals\u0103 \u0219i o form\u0103 de dezinformare care circul\u0103 frecvent. Vaccinurile au fost dezvoltate prin metode \u0219tiin\u021bifice riguroase \u0219i nu au leg\u0103tur\u0103 cu modificarea genetic\u0103 a legumelor."
+    },
+    {
+        "title": "Ve\u0219ti bune! S\u0103tenii din Suraia v\u00e2nd vaccin Pfizer \u00een Pia\u021ba Obor",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Vaccinurile COVID-19, inclusiv Pfizer, sunt distribuite prin canale oficiale de s\u0103n\u0103tate public\u0103 \u0219i nu sunt v\u00e2ndute pe pie\u021be publice. V\u00e2nzarea vaccinurilor \u00een pie\u021be neautorizate este ilegal\u0103 \u0219i periculoas\u0103."
+    },
+    {
+        "title": "Pentru c\u0103 sunt prea agresivi, iubitorii de maidanezi vor fi steriliza\u0163i s\u0103 nu se \u00eenmul\u0163easc\u0103",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i nu reflect\u0103 informa\u021bii reale despre virus sau m\u0103surile de s\u0103n\u0103tate public\u0103. Este o afirma\u021bie absurd\u0103 \u0219i nefondat\u0103."
+    },
+    {
+        "title": "Raport EY: 8 din 10 companii din sectorul telecom reg\u00e2ndesc planurile de transformare digital\u0103 pe fondul pandemiei",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Stirea se refera la impactul pandemiei COVID-19 asupra sectorului telecom, ceea ce este plauzibil avand in vedere ca multe companii au fost nevoite sa regandeasca planurile de transformare digitala in contextul pandemiei."
+    },
+    {
+        "title": "Afacerile Orange Rom\u00e2nia au sc\u0103zut cu 2,1% p\u00e2n\u0103 la 273,1 milioane euro \u00een trimestrul trei, pe fondul v\u00e2nz\u0103rilor moderate de echipamente \u00een criza COVID-19",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Stirea referitoare la sc\u0103derea afacerilor Orange Rom\u00e2nia cu 2,1% pe fondul v\u00e2nz\u0103rilor moderate de echipamente \u00een criza COVID-19 este plauzibil\u0103, av\u00e2nd \u00een vedere impactul economic semnificativ al pandemiei asupra multor industrii, inclusiv telecomunica\u021biile."
+    },
+    {
+        "title": "Vaccinarea cu Pfizer dezvolt\u0103 \u0219i temuta boal\u0103 Zona Zoster, chiar \u0219i la cei tineri",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Vaccinurile COVID-19, inclusiv cel de la Pfizer, nu au fost asociate cu dezvoltarea bolii Zona Zoster. De fapt, vaccinarea ajut\u0103 la prevenirea infec\u021biilor severe cu COVID-19 \u0219i nu exist\u0103 dovezi c\u0103 ar provoca Zona Zoster, care este o infec\u021bie viral\u0103 cauzat\u0103 de reactivarea virusului varicelo-zosterian."
+    },
+    {
+        "title": "Comisia de Ap\u0103rare din Parlamentul britanic anun\u021b\u0103 c\u0103 are dovezi c\u0103 Huawei ac\u0163ioneaz\u0103 \u00een complicitate cu statul chinez",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la o problem\u0103 de securitate na\u021bional\u0103 \u0219i tehnologie, care nu are leg\u0103tur\u0103 direct\u0103 cu pandemia COVID-19 sau cu informa\u021biile despre virus, tratamente sau m\u0103suri de prevenire."
+    },
+    {
+        "title": "Ceaiul care poate ajuta in lupta cu COVID-19",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Nu exist\u0103 dovezi \u0219tiin\u021bifice care s\u0103 sus\u021bin\u0103 c\u0103 ceaiul poate ajuta \u00een mod eficient \u00een lupta \u00eempotriva COVID-19. Tratamentul COVID-19 se bazeaz\u0103 pe medicamente antivirale \u0219i anticorpi monoclonali, nu pe remedii pe baz\u0103 de plante."
+    },
+    {
+        "title": "Vaccinurile omoar\u0103 mai mul\u021bi oameni dec\u00e2t COVID. STUDII",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Vaccinurile COVID-19 au fost dovedite a fi sigure \u0219i eficiente \u00een prevenirea infec\u021biilor severe \u0219i a deceselor cauzate de COVID-19. Nu exist\u0103 dovezi care s\u0103 sus\u021bin\u0103 afirma\u021bia c\u0103 vaccinurile omoar\u0103 mai mul\u021bi oameni dec\u00e2t COVID-19."
+    },
+    {
+        "title": "Samsung prognozeaz\u0103 un profit peste a\u015ftept\u0103ri \u00een primul trimestru",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i se refer\u0103 la profitul unei companii, ceea ce nu este relevant \u00een contextul informa\u021biilor despre COVID-19."
+    },
+    {
+        "title": "Secretarul general al NATO: Este important ca Regatul Unit s\u0103 reanalizeze rolul Chinei la re\u0163eaua sa 5G",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19, ci se refer\u0103 la o declara\u021bie a secretarului general al NATO despre rolul Chinei \u00een re\u021beaua 5G, ceea ce nu este relevant pentru subiectul COVID-19."
+    },
+    {
+        "title": "Pentagonul public\u0103 o list\u0103 de companii care ar avea leg\u0103tur\u0103 cu armata chinez\u0103",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i nu se refer\u0103 la informa\u021bii despre virus, vaccinuri sau m\u0103suri de s\u0103n\u0103tate public\u0103, ci la o problem\u0103 de securitate na\u021bional\u0103."
+    },
+    {
+        "title": "''Ora Guvernului'': procedur\u0103 \u015fi cronologie",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu ofer\u0103 informa\u021bii relevante sau verificate despre COVID-19, ci pare a fi o referire general\u0103 la o procedur\u0103 guvernamental\u0103, f\u0103r\u0103 leg\u0103tur\u0103 direct\u0103 cu pandemia."
+    },
+    {
+        "title": "BBC Mundo: Impactul economic al epidemiei de coronavirus este evident, dar e imposibil de \u015ftiut c\u00e2t se va extinde",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Stirea reflecta o realitate complexa, recunoscuta de experti, referitoare la impactul economic al pandemiei COVID-19, care este intr-adevar greu de estimat in totalitate."
+    },
+    {
+        "title": "Corporate News: Profitul companiei Samsung decoleaz\u0103, propulsat de v\u00e2nz\u0103rile de smartphone-uri \u0219i de problemele Huawei",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19, ci se refer\u0103 la profitul unei companii, ceea ce nu este relevant \u00een contextul \u0219tirilor despre COVID-19."
+    },
+    {
+        "title": "Coronavirus: Institutul de cercetare economic\u0103 Ifo din Germania vede \u00een varianta delta o amenin\u0163are pentru economie",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Institutul de cercetare economic\u0103 Ifo din Germania a exprimat \u00eengrijor\u0103ri legate de impactul variantelor de coronavirus, inclusiv varianta delta, asupra economiei, ceea ce este o pozi\u021bie valid\u0103 av\u00e2nd \u00een vedere efectele pandemiei asupra economiei globale."
+    },
+    {
+        "title": "Donald Trump nu mai are ''acelea\u015fi sentimente'' fa\u0163\u0103 de Xi Jinping",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i nu se refer\u0103 la informa\u021bii relevante despre virus sau m\u0103surile de s\u0103n\u0103tate public\u0103."
+    },
+    {
+        "title": "Cel mai influent manager din presa european\u0103, editorial devastator la adresa Chinei: Ce vor UE \u0219i Germania? O alian\u021b\u0103 cu democra\u021bia imperfect\u0103 din SUA sau cu dictatura perfect\u0103 din China? Alegerea nu e doar despre bani, ci despre libertate \u0219i demnitatea uman\u0103",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu se refer\u0103 la COVID-19 \u00een mod direct, ci la o opinie editorial\u0103 despre rela\u021biile interna\u021bionale, f\u0103r\u0103 a oferi informa\u021bii relevante sau verificate despre pandemie."
+    },
+    {
+        "title": "Editorial  O \u0219ans\u0103 istoric\u0103: 30 de miliarde de euro \u00een 3 ani pentru spitale, autostr\u0103zi, digitalizare \u0219i ecologizare",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu se refer\u0103 la COVID-19, ci la investi\u021bii \u00een spitale, autostr\u0103zi, digitalizare \u0219i ecologizare, ceea ce nu este relevant pentru pandemia de COVID-19."
+    },
+    {
+        "title": "Arafat ne bag\u0103 din nou \u00een cea\u021b\u0103 privind coronavirusul",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 c\u0103 Arafat ar crea confuzie \u00een leg\u0103tur\u0103 cu coronavirusul, ceea ce nu este sus\u021binut de fapte. Arafat, ca expert \u00een s\u0103n\u0103tate public\u0103, ofer\u0103 informa\u021bii \u0219i m\u0103suri clare pentru gestionarea pandemiei, nu contribuie la confuzie."
+    },
+    {
+        "title": "Ofert\u0103 \u0219i contraofert\u0103: dup\u0103 ce mai multe afaceri din Bra\u0219ov au oferit un discount de 10% pentru cei care se vaccineaz\u0103, o afacere din T\u00e2rgu Jiu ofer\u0103 20% reducere pentru cei refuz\u0103 vaccinul anti covid",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Stirea este falsa deoarece oferirea de reduceri pentru refuzul vaccinului este contrar mesajelor de s\u0103n\u0103tate public\u0103 care promoveaz\u0103 vaccinarea ca fiind esen\u021bial\u0103 pentru combaterea pandemiei COVID-19. Vaccinarea este recomandat\u0103 pentru a preveni spitaliz\u0103rile \u0219i decesele cauzate de COVID-19."
+    },
+    {
+        "title": "\u00cenc\u0103 un site blocat pentru informa\u021bii false despre evolu\u021bia COVID-19: Un blog care ar fi promovat conspira\u021bii despre noul coronavirus, vaccinuri \u0219i tehnologia 5G",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Stirea este reala deoarece se refera la blocarea unui site care a promovat dezinformari si teorii ale conspiratiei legate de COVID-19, ceea ce este o masura luata de autoritati pentru a combate raspandirea informatiilor false."
+    },
+    {
+        "title": "OMS dezv\u0103luie genocidul ce se va produce \u00een urma vaccin\u0103rii anti-covid",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul afirm\u0103 c\u0103 OMS dezv\u0103luie un genocid legat de vaccinarea anti-COVID, ceea ce este o dezinformare. OMS \u0219i comunitatea \u0219tiin\u021bific\u0103 sus\u021bin vaccinarea ca fiind un instrument esen\u021bial pentru prevenirea spitaliz\u0103rilor \u0219i deceselor cauzate de COVID-19, f\u0103r\u0103 dovezi care s\u0103 sus\u021bin\u0103 afirma\u021bii de genocid."
+    },
+    {
+        "title": "Ziua Comunica\u0163iilor 2021, edi\u0163ie aniversar\u0103 de 25 de ani",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19, ci se refer\u0103 la un eveniment de comunica\u021bii, deci nu este o \u0219tire real\u0103 despre COVID-19."
+    },
+    {
+        "title": "Cei care merg iute au \u0219anse de 4 ori mai mici s\u0103 ia Covid",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Nu exist\u0103 dovezi \u0219tiin\u021bifice care s\u0103 sus\u021bin\u0103 afirma\u021bia c\u0103 mersul rapid reduce semnificativ riscul de a contracta COVID-19. COVID-19 se transmite prin aerosoli \u0219i contact direct, iar activitatea fizic\u0103 nu influen\u021beaz\u0103 direct susceptibilitatea la infec\u021bie."
+    },
+    {
+        "title": "Twitter va ad\u0103uga etichete \u015fi mesaje de avertizare la unele tweeturi cu informa\u0163ii controversate sau \u00een\u015fel\u0103toare despre COVID-19",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Stirea este reala deoarece Twitter a implementat masuri pentru a adauga etichete si mesaje de avertizare la tweeturi care contin informatii controversate sau in\u0219el\u0103toare despre COVID-19, ca parte a eforturilor de combatere a dezinformarii legate de pandemie."
+    },
+    {
+        "title": "Dictatura COVID \u0219i Poligonul de \u00eencercare Rom\u00e2nia",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o teorie a conspira\u021biei, asociind pandemia COVID-19 cu o 'dictatur\u0103' \u0219i un 'poligon de \u00eencercare', ceea ce nu este sus\u021binut de faptele \u0219i datele \u0219tiin\u021bifice referitoare la pandemie. COVID-19 este o pandemie global\u0103 real\u0103, iar m\u0103surile luate de guverne sunt destinate s\u0103 protejeze s\u0103n\u0103tatea public\u0103, nu s\u0103 impun\u0103 o dictatur\u0103."
+    },
+    {
+        "title": "Dr Fauci nu crede \u00een eficacitatea total\u0103 a vaccinului: Purta\u021bi masc\u0103 \u0219i dup\u0103",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Stirea sugereaz\u0103 c\u0103 Dr. Fauci nu crede \u00een eficacitatea total\u0103 a vaccinului, ceea ce este fals. Vaccinurile COVID-19 au demonstrat eficacitate de p\u00e2n\u0103 la 95% \u00een prevenirea infec\u021biilor simptomatice, iar autorit\u0103\u021bile de s\u0103n\u0103tate public\u0103, inclusiv Dr. Fauci, au subliniat importan\u021ba vaccin\u0103rii ca principal instrument de prevenire a spitaliz\u0103rilor \u0219i deceselor cauzate de COVID-19."
+    },
+    {
+        "title": "Milionarul american Elon Musk vrea ca p\u00e2n\u0103 \u00een 2021 s\u0103 microcipeze to\u021bi rom\u00e2nii",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul afirm\u0103 c\u0103 Elon Musk vrea s\u0103 microcipeze to\u021bi rom\u00e2nii, ceea ce este o afirma\u021bie absurd\u0103 \u0219i f\u0103r\u0103 fundament. Nu exist\u0103 dovezi sau declara\u021bii oficiale care s\u0103 sus\u021bin\u0103 o astfel de inten\u021bie din partea lui Musk sau a oric\u0103rei autorit\u0103\u021bi. De asemenea, microciparea popula\u021biei este un subiect de dezinformare frecvent asociat cu teorii ale conspira\u021biei, f\u0103r\u0103 nicio baz\u0103 \u0219tiin\u021bific\u0103 sau legal\u0103."
+    },
+    {
+        "title": "Renate Weber le cere doctorilor milui\u0163i de Iohannis s\u0103 renun\u0163e la mascarad\u0103",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o afirma\u021bie controversat\u0103 \u0219i nefondat\u0103 despre doctori \u0219i pre\u0219edintele Iohannis, f\u0103r\u0103 a oferi dovezi sau context. De asemenea, nu exist\u0103 informa\u021bii credibile care s\u0103 sus\u021bin\u0103 o astfel de cerere din partea Renatei Weber."
+    },
+    {
+        "title": "Pandemia va tine 2 ani exact c\u00e2t au ei nevoie pt implementarea noii tehnologii 5G la nivel mondial!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Stirea sugereaz\u0103 o teorie a conspira\u021biei care leag\u0103 pandemia de COVID-19 de implementarea tehnologiei 5G, f\u0103r\u0103 dovezi \u0219tiin\u021bifice sau fundamentare factual\u0103. COVID-19 este cauzat de un virus, nu de tehnologia 5G."
+    },
+    {
+        "title": "Serialul Netflix \u201cMy Secret Terrius\u201d a prezis \u00een 2018 apari\u0163ia coronavirusului cu o acurate\u0163e alarmant\u0103! \u201cAtac\u0103 direct pl\u0103m\u00e2nii!\u201d",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul afirm\u0103 c\u0103 un serial Netflix a prezis apari\u021bia coronavirusului, ceea ce este o exagerare \u0219i o interpretare gre\u0219it\u0103 a con\u021binutului de divertisment. COVID-19 a fost identificat pentru prima dat\u0103 \u00een decembrie 2019, iar orice afirma\u021bie c\u0103 a fost prezis \u00een 2018 este nefondat\u0103 \u0219i nu are suport \u0219tiin\u021bific."
+    },
+    {
+        "title": "Sf\u00e2r\u0219itul republicii automobilistice germane? O nou\u0103 er\u0103, a automobilelor ecologice",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu se refer\u0103 la COVID-19, ci la o discu\u021bie despre automobilele ecologice \u00een Germania, ceea ce nu are leg\u0103tur\u0103 cu pandemia."
+    },
+    {
+        "title": "VIDEO Bill Gates, \u0163inta unor teorii ale conspira\u0163iei care-l fac vinovat de pandemia coronavirusului",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Teoriile conspira\u021biei care \u00eel fac pe Bill Gates vinovat de pandemia COVID-19 nu au fundament \u0219tiin\u021bific \u0219i sunt parte din dezinformare. COVID-19 este cauzat\u0103 de virusul SARS-CoV-2, iar originile sale sunt legate de focare anterioare de coronavirus, nu de ac\u021biunile unei persoane sau organiza\u021bii."
+    },
+    {
+        "title": "Vaccinul, primul obiectiv al provocatei pandemii cu coronavirus este in curs de desfasurare!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 c\u0103 vaccinul este primul obiectiv al provoc\u0103rii pandemiei, ceea ce este o interpretare gre\u0219it\u0103. Vaccinurile au fost dezvoltate ca r\u0103spuns la pandemie, nu ca un obiectiv al acesteia. De asemenea, nu exist\u0103 o 'provocare' a pandemiei, ci o criz\u0103 de s\u0103n\u0103tate public\u0103."
+    },
+    {
+        "title": "Profesorul japonez de fiziologie  medicinal\u0103, dr. imunolog Tasuku Honjo, a provocat ast\u0103zi senza\u021bie \u00een mass-media, spun\u00e2nd c\u0103 virusul corona nu este natural",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Stirea este falsa deoarece nu exista dovezi credibile care sa sustina afirmatia ca virusul SARS-CoV-2 nu este de origine naturala. Majoritatea cercetarilor sugereaza ca virusul provine din lilieci si a fost transmis oamenilor printr-o gazda intermediara, ceea ce este o caracteristica comuna a multor coronavirusuri."
+    },
+    {
+        "title": "Bill Gates are patentul vaccinului pentru virusul mortal de la Wuhan! Se a\u0219teapt\u0103 60 de milioane de mor\u021bi!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul afirm\u0103 c\u0103 Bill Gates de\u021bine patentul vaccinului pentru COVID-19 \u0219i prezice un num\u0103r extrem de mare de decese, ceea ce este o dezinformare. Vaccinurile COVID-19 au fost dezvoltate de diverse companii farmaceutice \u0219i nu exist\u0103 dovezi c\u0103 Bill Gates ar avea un patent pentru un vaccin specific. De asemenea, estim\u0103rile privind num\u0103rul de decese nu sunt bazate pe fapte \u0219i sunt exagerate."
+    },
+    {
+        "title": "Sondaj: \u015etirile false \u015fi slaba informare a publicului - pricipalele cauze ale scepticismului privind vaccinarea",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la un sondaj care discut\u0103 despre impactul \u0219tirilor false \u0219i al informa\u021biilor slabe asupra scepticismului fa\u021b\u0103 de vaccinare, un subiect real \u0219i relevant \u00een contextul pandemiei COVID-19."
+    },
+    {
+        "title": "Afacerile Huawei cu operatorii de telecomunica\u0163ii dispar, anun\u021b\u0103 \u0219eful diploma\u021biei americane",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19, ci se refer\u0103 la afacerile Huawei \u0219i diploma\u021bia american\u0103, ceea ce \u00eel face irelevant \u00een contextul COVID-19."
+    },
+    {
+        "title": "Forum de securitate cibernetic\u0103, organizat joi \u00een sistem online",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i nu con\u021bine informa\u021bii relevante despre virus sau m\u0103surile de s\u0103n\u0103tate public\u0103."
+    },
+    {
+        "title": "Vela \u2013 Str\u0103nu\u021bi pe strad\u0103, e\u0219ti bun de pu\u0219c\u0103rie!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o afirma\u021bie exagerat\u0103 \u0219i nefondat\u0103 despre consecin\u021bele str\u0103nutului \u00een public, care nu este sus\u021binut\u0103 de nicio legisla\u021bie sau m\u0103sur\u0103 oficial\u0103 legat\u0103 de COVID-19. De\u0219i str\u0103nutul poate contribui la r\u0103sp\u00e2ndirea virusului, nu exist\u0103 dovezi c\u0103 ar duce la \u00eencarcerare."
+    },
+    {
+        "title": "Coronavirusul, conceput \u00een laborator ca o arm\u0103 biologic\u0103 de distrugere \u00een mas\u0103",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Nu exist\u0103 dovezi credibile c\u0103 SARS-CoV-2 a fost conceput \u00een laborator ca o arm\u0103 biologic\u0103. Virusul a fost identificat ca av\u00e2nd o origine zoonotic\u0103, provenind de la animale, \u0219i nu exist\u0103 suport \u0219tiin\u021bific pentru teoria c\u0103 a fost creat inten\u021bionat."
+    },
+    {
+        "title": "Un rom\u00e2n angajat la Oculta Mondial\u0103 \u015fi-a f\u0103cut anten\u0103 5G din piese furate de la munc\u0103",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul face referire la o teorie conspira\u021bionist\u0103 care nu are fundament \u00een realitate. Nu exist\u0103 dovezi c\u0103 un rom\u00e2n angajat la o organiza\u021bie global\u0103 ar fi construit o anten\u0103 5G din piese furate, iar astfel de afirma\u021bii sunt adesea folosite pentru a r\u0103sp\u00e2ndi dezinformare despre tehnologia 5G \u0219i pandemia COVID-19."
+    },
+    {
+        "title": "Femeie arestat\u0103 \u00een Anglia pentru c\u0103 a filmat un spital gol",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Stirea este falsa deoarece nu exist\u0103 dovezi credibile c\u0103 o femeie a fost arestat\u0103 pentru filmarea unui spital gol \u00een contextul pandemiei COVID-19. De asemenea, spitalele au fost adesea supraaglomerate \u00een timpul v\u00e2rfurilor pandemiei, iar informa\u021biile despre spitale goale sunt adesea parte a dezinform\u0103rii care circul\u0103 \u00een timpul crizelor de s\u0103n\u0103tate public\u0103."
+    },
+    {
+        "title": "[VIDEO] M\u0103\u0219tile con\u021bin parazi\u021bi? Din acest motiv s\u0103 fie interzis\u0103 ivermectina, un anti-parazitar?",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 c\u0103 m\u0103\u0219tile con\u021bin parazi\u021bi \u0219i c\u0103 ivermectina ar trebui interzis\u0103, ceea ce nu este sus\u021binut de dovezi \u0219tiin\u021bifice. M\u0103\u0219tile sunt utilizate pentru a preveni r\u0103sp\u00e2ndirea virusului COVID-19, iar ivermectina nu este un tratament aprobat pentru COVID-19."
+    },
+    {
+        "title": "Raed Arafat confirm\u0103 c\u0103 ne vom vaccina de PATRU ORI pe an: 'Imunitatea, dup\u0103 vaccin, este de 6-8 luni'",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "Raed Arafat a confirmat c\u0103 imunitatea dup\u0103 vaccinare poate dura \u00eentre 6-8 luni, ceea ce sugereaz\u0103 necesitatea unor doze de rapel, dar nu exist\u0103 un consens generalizat asupra num\u0103rului exact de vaccin\u0103ri pe an. Totu\u0219i, ideea de a avea vaccin\u0103ri frecvente este sus\u021binut\u0103 de evolu\u021bia pandemiei \u0219i de variantele virusului."
+    },
+    {
+        "title": "Ambasadorul SUA: Corpora\u021biile corupte din China comunist\u0103, precum Huawei \u0219i ZTE, nu \u00ee\u0219i au locul \u00een Rom\u00e2nia democratic\u0103",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu se refer\u0103 la pandemia COVID-19, ci la o declara\u021bie politic\u0103 despre corpora\u021biile din China, ceea ce \u00eel face irelevant pentru subiectul COVID-19."
+    },
+    {
+        "title": "Mike Pompeo \u00eel acuz\u0103 pe \u015feful OMS c\u0103 a fost \"cump\u0103rat\" de guvernul Chinei",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Mike Pompeo a acuzat public Organiza\u021bia Mondial\u0103 a S\u0103n\u0103t\u0103\u021bii (OMS) de leg\u0103turi cu guvernul chinez, ceea ce reflect\u0103 o pozi\u021bie politic\u0103 real\u0103 \u0219i o critic\u0103 adus\u0103 OMS \u00een contextul pandemiei COVID-19. Aceste afirma\u021bii au fost parte din discu\u021biile \u0219i controversele legate de gestionarea pandemiei \u0219i de originea virusului."
+    },
+    {
+        "title": "Secretarul de stat american Michael Pompeo, mesaj adresat Rom\u00e2niei: \u201eV\u0103 dorim pace, prosperitate \u015fi mult\u0103 s\u0103n\u0103tate \u00een anul care vine\u201d",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu face referire la COVID-19 \u0219i nu con\u021bine informa\u021bii relevante despre pandemie, ci mai degrab\u0103 un mesaj general de urare."
+    },
+    {
+        "title": "Pre\u015fedintele CIO opineaz\u0103 c\u0103 JO 2020 vor fi primele din a patra revolu\u0163ie industrial\u0103",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 direct\u0103 cu pandemia COVID-19 \u0219i nu se refer\u0103 la informa\u021bii relevante despre virus sau m\u0103surile de s\u0103n\u0103tate public\u0103. Este o opinie despre Jocurile Olimpice, care nu este relevant\u0103 \u00een contextul COVID-19."
+    },
+    {
+        "title": "\u0218i vaccinul Pfizer UCIDE! Un t\u00e2n\u0103r de doar 35 de ani din Vaslui a murit la 48 de ore de la rapel",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 c\u0103 vaccinul Pfizer ar fi cauza mor\u021bii unui t\u00e2n\u0103r, ceea ce este o afirma\u021bie grav\u0103 \u0219i nefondat\u0103. Nu exist\u0103 dovezi \u0219tiin\u021bifice care s\u0103 sus\u021bin\u0103 c\u0103 vaccinurile COVID-19, inclusiv Pfizer, cauzeaz\u0103 moartea \u00een mod direct. Vaccinurile au fost testate riguros \u0219i s-au dovedit a fi sigure \u0219i eficiente \u00een prevenirea COVID-19."
+    },
+    {
+        "title": "Profesorul Streinu Cercel: Spirtul nu folose\u0219te la nimic",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Afirma\u021bia c\u0103 spirtul nu folose\u0219te la nimic este fals\u0103, deoarece spirtul (etanolul) este un antiseptic eficient utilizat pentru dezinfectarea m\u00e2inilor \u0219i a suprafe\u021belor, contribuind la prevenirea r\u0103sp\u00e2ndirii virusului SARS-CoV-2."
+    },
+    {
+        "title": "ODAT\u0102 VACCINAT, E\u0218TI IREVERSIBIL MODIFICAT GENETIC PRIN PARTICULE SINTETICE \u0218I, MAXIM\u0102 ATEN\u021aIE: VEI AVEA PROPRIETARI. (VIDEO)",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul afirm\u0103 c\u0103 vaccinarea te modific\u0103 genetic \u0219i c\u0103 vei avea proprietari, ceea ce este o dezinformare. Vaccinurile COVID-19 nu modific\u0103 ADN-ul uman \u0219i nu exist\u0103 dovezi c\u0103 vaccinarea ar duce la o astfel de situa\u021bie. Aceste afirma\u021bii sunt false \u0219i nu au suport \u0219tiin\u021bific."
+    },
+    {
+        "title": "Deputatul PNL, Ovidiu Rae\u021bchi: Rom\u00e2nia ar trebui s\u0103 \u00eencheie contracte \u00een sectoarele de infrastructur\u0103 strategic\u0103 doar cu state din spa\u0163iul euro-atlantic, sau cu companii din state cu valori democratice",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i nu se refer\u0103 la informa\u021bii despre virus, vaccinuri sau m\u0103suri de s\u0103n\u0103tate public\u0103, ci la o declara\u021bie politic\u0103 despre contractele de infrastructur\u0103."
+    },
+    {
+        "title": "Biserica Ortodox\u0103 din Moldova, subordonat\u0103 Rusiei, \u00eendeamn\u0103 \u201es\u0103 se \u021bin\u0103 post aspru\u201d \u0219i \u201es\u0103 ne rug\u0103m unii pentru al\u021bii\u201d, \u00een contextul pandemiei COVID-19. Ini\u021bial, \u0219efii Bisericii au lansat teorii ale conspira\u021biei cu Bill Gates, antene 5G \u0219i vaccin cu microcip",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Stirea reflecta o situatie reala in care Biserica Ortodox\u0103 din Moldova a facut apeluri la post si rug\u0103ciune \u00een contextul pandemiei COVID-19, iar dezinformarea legat\u0103 de vaccinuri \u0219i teorii ale conspira\u021biei este un fenomen documentat pe parcursul pandemiei."
+    },
+    {
+        "title": "EXCLUSIV: Vaccinarea obligatorie se va face la ordinul ministrului S\u0103n\u0103t\u0103\u021bii cu recomandarea OMS. Amenzi de p\u00e2n\u0103 la 10 mii de lei",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Vaccinarea obligatorie nu este impus\u0103 de OMS, iar astfel de m\u0103suri sunt reglementate de fiecare \u021bar\u0103 \u00een parte. De asemenea, nu exist\u0103 informa\u021bii oficiale despre amenzi de p\u00e2n\u0103 la 10 mii de lei pentru refuzul vaccin\u0103rii."
+    },
+    {
+        "title": "Coronavirus: Antene de telecomunica\u0163ii, atacate pe fondul teoriilor conspira\u0163iei \u00een Marea Britanie",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la atacurile asupra antenelor de telecomunica\u021bii \u00een Marea Britanie, care au fost legate de teorii ale conspira\u021biei referitoare la COVID-19. Aceste atacuri au avut loc \u00een realitate, alimentate de dezinformare \u0219i teorii conspira\u021bioniste care au circulat \u00een timpul pandemiei."
+    },
+    {
+        "title": "Accidentele \u0219i coinciden\u021bele care au dus la pandemia Covid-19",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 c\u0103 pandemia COVID-19 a fost cauzat\u0103 de accidente sau coinciden\u021be, ceea ce este o afirma\u021bie fals\u0103. COVID-19 este cauzat\u0103 de virusul SARS-CoV-2, care a fost identificat pentru prima dat\u0103 \u00een Wuhan, China, \u0219i nu exist\u0103 dovezi care s\u0103 sus\u021bin\u0103 ideea c\u0103 pandemia a fost rezultatul unor accidente sau coinciden\u021be."
+    },
+    {
+        "title": "Veste devastatoare pentru lumea televiziunii. Toni Grecu este internat \u00een spital, bolnav de COVID-19",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "Titlul afirm\u0103 c\u0103 Toni Grecu este internat \u00een spital din cauza COVID-19, ceea ce este o informa\u021bie care poate fi adev\u0103rat\u0103, av\u00e2nd \u00een vedere c\u0103 COVID-19 a afectat multe persoane, inclusiv cele din domeniul public. F\u0103r\u0103 dovezi contrare, nu exist\u0103 motive s\u0103 consider\u0103m aceast\u0103 informa\u021bie ca fiind fals\u0103."
+    },
+    {
+        "title": "Fost ministru rom\u00e2n: coronavirusul a fost creat \u00een laborator \u0219i brevetat la Paris",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Nu exist\u0103 dovezi credibile c\u0103 SARS-CoV-2 a fost creat \u00een laborator sau brevetat. Virusul a fost identificat pentru prima dat\u0103 \u00een Wuhan, China, \u0219i se crede c\u0103 are o origine zoonotic\u0103, provenind de la animale, nu dintr-un laborator."
+    },
+    {
+        "title": "COVID-19 \u0219i articolele cu num\u0103rul 33. Ordin pe unitate? Simbolism?",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o leg\u0103tur\u0103 \u00eentre COVID-19 \u0219i un num\u0103r specific (33) care nu are nicio baz\u0103 \u0219tiin\u021bific\u0103 sau relevan\u021b\u0103 \u00een contextul pandemiei. De asemenea, nu exist\u0103 dovezi sau informa\u021bii credibile care s\u0103 sus\u021bin\u0103 ideea de simbolism asociat cu acest num\u0103r \u00een leg\u0103tur\u0103 cu COVID-19."
+    },
+    {
+        "title": "FOX NEWS TV SUA DEZV\u0102LUIE CUM VOR OMS, BILL GATES \u0218I DEMOCRA\u021aII AMERICANI S\u0102 CONTROLEZE MASELE, SUB PRETEXTUL COVID-19. VIDEO",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Stirea promoveaza teorii ale conspiratiei nefondate, sugerand ca OMS, Bill Gates si democratii americani ar controla masele sub pretextul COVID-19, ceea ce nu este sustinut de dovezi si este o forma de dezinformare."
+    },
+    {
+        "title": "VIDEO Klaus Iohannis pledeaz\u0103 pentru solidaritate transatlantic\u0103, la recep\u021bia ambasadei SUA cu ocazia Zilei Independen\u021bei",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu se refer\u0103 la COVID-19, ci la o declara\u021bie politic\u0103 a lui Klaus Iohannis, deci nu este o \u0219tire relevant\u0103 pentru pandemia de COVID-19."
+    },
+    {
+        "title": "Presa Interna\u021bional\u0103 Confirm\u0103 : Dovezi c\u0103 virusul corona este f\u0103cut \u00een laborator",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Nu exist\u0103 dovezi credibile care s\u0103 sus\u021bin\u0103 afirma\u021bia c\u0103 virusul SARS-CoV-2 a fost creat \u00een laborator. Studiile sugereaz\u0103 c\u0103 virusul are o origine zoonotic\u0103, provenind de la animale, \u00een special lilieci, \u0219i nu a fost manipulat genetic."
+    },
+    {
+        "title": "Proiectul chinez de infrastructuri \u2018Noul drum al m\u0103t\u0103sii\u2019, un instrument de \u2018propagand\u0103\u2019 (ministru australian)",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu se refer\u0103 la COVID-19, ci la un proiect de infrastructur\u0103 chinez, ceea ce \u00eel face irelevant pentru subiectul pandemiei."
+    },
+    {
+        "title": "Comisia European\u0103: Toate statele membre au lansat un proces de revizuire \u015fi de consolidare a m\u0103surilor de securitate aplicabile re\u0163elelor 5G",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la m\u0103suri de securitate pentru re\u021belele 5G, care nu sunt direct legate de pandemia COVID-19. Informa\u021bia nu are leg\u0103tur\u0103 cu aspectele medicale sau de s\u0103n\u0103tate public\u0103 ale pandemiei."
+    },
+    {
+        "title": "Un num\u0103r de 12 m\u0103rci de motociclete \u015fi scutere, disponibile \u00een Programul Rabla Moto 2020 (asocia\u0163ie)",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19, ci se refer\u0103 la un program de reciclare auto, ceea ce \u00eel face irelevant \u00een contextul COVID-19."
+    },
+    {
+        "title": "Apple vrea s\u0103 majoreze cu 20% produc\u0163ia noului model de iPhone",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i se refer\u0103 la o decizie de afaceri a companiei Apple, care nu este relevant\u0103 \u00een contextul COVID-19."
+    },
+    {
+        "title": " UPDATE: Hristos Pilalis, Directorul adjunct al unui mare spital din Atena - Thriasio -, este \u00een stare grav\u0103 la 24 ore de la administrarea vaccinului Pfizer/ BioNTech. So\u021bia: \"M\u0103 tem c\u0103 se \u00eencearc\u0103 s\u0103 se ascund\u0103 faptul c\u0103 este o reac\u021bie advers\u0103 la vaccin\"",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Nu exist\u0103 dovezi c\u0103 vaccinul Pfizer/BioNTech cauzeaz\u0103 reac\u021bii adverse severe imediate, iar afirma\u021bia c\u0103 se \u00eencearc\u0103 s\u0103 se ascund\u0103 o reac\u021bie advers\u0103 este o teorie a conspira\u021biei f\u0103r\u0103 fundament \u0219tiin\u021bific."
+    },
+    {
+        "title": "Congela\u021bi sperma \u00eenainte de vaccinul covid pentru a proteja fertilitatea \u2013 spun cercet\u0103torii de la Universitatea din Miami",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Nu exist\u0103 dovezi \u0219tiin\u021bifice care s\u0103 sus\u021bin\u0103 afirma\u021bia c\u0103 congelarea spermei ar proteja fertilitatea \u00een contextul vaccin\u0103rii \u00eempotriva COVID-19. Vaccinurile COVID-19 au fost considerate sigure \u0219i nu afecteaz\u0103 fertilitatea."
+    },
+    {
+        "title": "Rom\u00e2nia, oficial: peste 8.000 de rom\u00e2ni vaccina\u021bi s-au \u00eemboln\u0103vit\u2026 de Covid",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "Stirea este reala deoarece este cunoscut faptul ca, desi vaccinurile COVID-19 sunt foarte eficiente, exista in continuare cazuri de infectare in randul persoanelor vaccinate. Acest lucru se datoreaza faptului ca vaccinurile nu ofera o protectie de 100% si ca virusul poate infecta si persoanele vaccinate, in special in cazul variantelor mai contagioase."
+    },
+    {
+        "title": "STUDIUL care-l bag\u0103 pe Arafat \u00een pu\u0219c\u0103rie: \u00cenchiderea magazinelor la ora 18:00 duce la CRE\u0218TEREA infect\u0103rilor C0VID",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 c\u0103 \u00eenchiderea magazinelor la ora 18:00 ar duce la cre\u0219terea infect\u0103rilor cu COVID-19, ceea ce nu este sus\u021binut de dovezi \u0219tiin\u021bifice. M\u0103surile de restric\u021bie, cum ar fi \u00eenchiderea timpurie a magazinelor, sunt de obicei implementate pentru a reduce r\u0103sp\u00e2ndirea virusului, nu pentru a o cre\u0219te."
+    },
+    {
+        "title": "OMS \u0219i presa s-au schimbat \u00een organiza\u021bii teroriste pe timp de pandemie",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul sugereaz\u0103 c\u0103 OMS \u0219i presa au devenit organiza\u021bii teroriste, ceea ce este o afirma\u021bie extrem\u0103 \u0219i nefondat\u0103. OMS este o organiza\u021bie interna\u021bional\u0103 de s\u0103n\u0103tate care a coordonat r\u0103spunsul la pandemie, iar presa are rolul de a informa publicul. Aceste afirma\u021bii nu au suport \u00een faptele \u0219i datele reale despre pandemie."
+    },
+    {
+        "title": "Dup\u0103 re\u021beaua 5G, Vodafone anun\u021b\u0103 o nou\u0103 revolu\u021bie \u00een tehnologie: un site func\u021bional",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i nu se refer\u0103 la informa\u021bii relevante despre virus sau m\u0103surile de s\u0103n\u0103tate public\u0103. Este o afirma\u021bie despre tehnologie care nu este legat\u0103 de COVID-19."
+    },
+    {
+        "title": "Suntem terminati ca specie. Pregatesc terenul pentru a ne comunica, in curand, ca acest coronavirus se transmite si prin fecale, canalizare, sobolani, pasari si alte animale",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Stirea sugereaz\u0103 c\u0103 COVID-19 se transmite prin fecale \u0219i animale, dar nu exist\u0103 dovezi concludente care s\u0103 sus\u021bin\u0103 aceast\u0103 afirma\u021bie. Transmiterea principal\u0103 a virusului se face prin pic\u0103turi respiratorii, nu prin fecale sau animale, de\u0219i unele studii au detectat ARN viral \u00een fecale, dar acest lucru nu \u00eenseamn\u0103 c\u0103 este o modalitate principal\u0103 de transmitere."
+    },
+    {
+        "title": "Huawei lanseaz\u0103 cea mai recent\u0103 versiune a telefonului s\u0103u pliabil",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la lansarea unui telefon pliabil de c\u0103tre Huawei, care nu are leg\u0103tur\u0103 cu pandemia COVID-19."
+    },
+    {
+        "title": "D\u0103ncil\u0103 are un medalion cu num\u0103rul de telefon al lui Dragnea, \u00een caz c\u0103 se pierde",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i nu con\u021bine informa\u021bii relevante sau verificate despre virus sau m\u0103surile de s\u0103n\u0103tate public\u0103."
+    },
+    {
+        "title": "Eugen Tomac, pre\u0219edintele PMP: Propunem \u00eenfiin\u021barea unui Minister pentru Digitalizare, Inovare \u0219i Inteligen\u021b\u0103 Artificial\u0103 pentru valorificarea performan\u021belor pe care Rom\u00e2nia le are \u00een domeniul ITC",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19, ci se refer\u0103 la o propunere politic\u0103 privind digitalizarea \u0219i inteligen\u021ba artificial\u0103 \u00een Rom\u00e2nia."
+    },
+    {
+        "title": "S-a lansat \u0162uicafe Dolcepruno, aparatul \u00een care bagi dou\u0103 prune \u015fi iese cinzeaca",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul nu are nicio leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i se refer\u0103 la un produs fictiv, ceea ce \u00eel face o \u0219tire fals\u0103."
+    },
+    {
+        "title": "VIDEO Ambasadorul SUA la Bucure\u0219ti, mesaj electoral de Ziua Na\u021bional\u0103: Guvernul Orban a aplicat reforme pentru a restaura statul de drept / Corup\u0163ia endemic\u0103 \u015fi baronii ro\u015fii r\u0103ma\u015fi din anii regimului comunist nu \u00ee\u015fi au locul \u00een Rom\u00e2nia modern\u0103",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu se refer\u0103 la COVID-19, ci la un mesaj electoral \u0219i probleme politice din Rom\u00e2nia, deci nu este relevant pentru pandemia de COVID-19."
+    },
+    {
+        "title": "Medicii din Moldova refuz\u0103 s\u0103 se vaccineze \u00eempotriva COVID-19 ",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Informa\u021bia c\u0103 medicii din Moldova refuz\u0103 s\u0103 se vaccineze \u00eempotriva COVID-19 este o generalizare care nu reflect\u0103 realitatea. Vaccinarea este recomandat\u0103 de autorit\u0103\u021bile de s\u0103n\u0103tate \u0219i majoritatea medicilor sus\u021bin vaccinarea ca o m\u0103sur\u0103 eficient\u0103 de prevenire a bolii."
+    },
+    {
+        "title": "Comisia European\u0103 simplific\u0103 normele privind ajutoarele de stat, pentru a combate efectele economice ale pandemiei",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la m\u0103suri economice luate de Comisia European\u0103 pentru a combate efectele pandemiei COVID-19, ceea ce este o informa\u021bie corect\u0103 \u0219i relevant\u0103 \u00een contextul actual."
+    },
+    {
+        "title": "Interzis la rug\u0103ciune! Directorul unei institu\u0163ii publice, demis din cauz\u0103 c\u0103 a cerut ajutorul lui Dumnezeu \u00eempotriva epidemiei de coronavirus",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Stirea este falsa deoarece nu exist\u0103 dovezi c\u0103 demiterea unui director de institu\u021bie public\u0103 ar fi fost cauzat\u0103 de cererea ajutorului divin \u00een contextul pandemiei COVID-19. De asemenea, astfel de afirma\u021bii sunt adesea folosite pentru a r\u0103sp\u00e2ndi dezinformare \u0219i a crea confuzie \u00een r\u00e2ndul popula\u021biei."
+    },
+    {
+        "title": "5G \u00eent\u00e2rzie s\u0103 se dezvolte \u00een Europa: Comisia European\u0103 recomand\u0103 \u021b\u0103rilor UE s\u0103 aib\u0103 o abordare comun\u0103 \u0219i s\u0103 evite \u00eent\u00e2rzierile de acordare a licen\u021belor 5G",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu se refer\u0103 la COVID-19, ci la dezvoltarea tehnologiei 5G \u00een Europa, ceea ce nu are leg\u0103tur\u0103 cu pandemia."
+    },
+    {
+        "title": "Schimb\u0103rile 5G printre utilizatorii de smartphone-uri din 26 de \u021b\u0103ri, inclusiv Rom\u00e2nia: Unul din cinci utilizatori folose\u0219te mai pu\u021bin Wi-Fi acas\u0103 - studiu",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 direct\u0103 cu pandemia COVID-19, ci se refer\u0103 la utilizarea tehnologiei 5G \u0219i a smartphone-urilor, ceea ce nu este relevant pentru subiectul COVID-19."
+    },
+    {
+        "title": "UPDATE \u00cen plin\u0103 criz\u0103 politic\u0103, C\u00ee\u021bu \u00eencearc\u0103 din nou o \u0219edin\u021b\u0103 de Guvern la ora 13.00 / USR ar putea boicota din nou",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu se refer\u0103 la COVID-19, ci la o situa\u021bie politic\u0103 din Rom\u00e2nia, deci nu este o \u0219tire real\u0103 legat\u0103 de pandemie."
+    },
+    {
+        "title": "Olivia Steer are spume la gur\u0103, semn c\u0103 vaccinul de COVID e aproape gata",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o leg\u0103tur\u0103 \u00eentre simptomele unei persoane \u0219i vaccinul COVID-19, ceea ce este o afirma\u021bie fals\u0103 \u0219i nefondat\u0103. Vaccinurile COVID-19 nu cauzeaz\u0103 spume la gur\u0103 \u0219i nu exist\u0103 dovezi care s\u0103 sus\u021bin\u0103 o astfel de afirma\u021bie."
+    },
+    {
+        "title": "Italia: Premierul Giuseppe Conte anun\u021b\u0103 un proiect post-coronavirus pentru relansarea economiei, cu sprijinul UE",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Stirea referitoare la anun\u021bul premierului Giuseppe Conte despre un proiect post-coronavirus pentru relansarea economiei cu sprijinul UE este real\u0103, av\u00e2nd \u00een vedere c\u0103 guvernele europene au implementat m\u0103suri de relansare economic\u0103 \u00een urma impactului pandemiei COVID-19."
+    },
+    {
+        "title": "Povestea nega\u021bionistului Covid a c\u0103rui so\u021bie a murit din cauza infect\u0103rii: Nu mai pot schimba trecutul. Nu fi\u021bi necugeta\u021bi ca mine",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Titlul relateaz\u0103 o experien\u021b\u0103 personal\u0103 a unei persoane care a suferit pierderi din cauza COVID-19, ceea ce este plauzibil \u0219i reflect\u0103 realitatea impactului pandemiei asupra indivizilor \u0219i familiilor. De asemenea, nega\u021bionismul COVID-19 este un fenomen documentat, iar pove\u0219tile de regret \u0219i avertizare sunt frecvente \u00een r\u00e2ndul celor care au pierdut pe cineva din cauza virusului."
+    },
+    {
+        "title": "\u00cen urma succesului melodiei \u201cMaidanez\u201d, c\u00e2nt\u0103re\u0163ul Puya a fost sterilizat \u015fi microcipat de prim\u0103rie",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul afirm\u0103 c\u0103 un c\u00e2nt\u0103re\u021b a fost sterilizat \u0219i microcipat de prim\u0103rie, ceea ce este o afirma\u021bie absurd\u0103 \u0219i f\u0103r\u0103 fundament \u00een realitate. Nu exist\u0103 nicio leg\u0103tur\u0103 \u00eentre COVID-19 \u0219i sterilizarea sau microciparea persoanelor de c\u0103tre autorit\u0103\u021bi."
+    },
+    {
+        "title": "Covid-19: preg\u0103tiri pentru DICTATURA electronic\u0103. Premierul Israelului propune CIPAREA elevilor, China le-a pus deja br\u0103\u021b\u0103ri electronice\u2026",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 o teorie a conspira\u021biei despre cipurile electronice pentru elevi, care nu are fundament \u00een realitate \u0219i nu este sus\u021binut de dovezi \u0219tiin\u021bifice sau de m\u0103surile oficiale de s\u0103n\u0103tate public\u0103. De asemenea, nu exist\u0103 informa\u021bii credibile care s\u0103 sus\u021bin\u0103 ideea c\u0103 guvernele ar implementa astfel de m\u0103suri \u00een contextul pandemiei COVID-19."
+    },
+    {
+        "title": "Dr. Emilian Imbri, despre imunitatea la COVID-19: Scade dup\u0103 o perioad\u0103 pe care speciali\u015ftii nu o cunosc ",
+        "predicted_label": "real",
+        "actual_label": "fake",
+        "reason": "Stirea este reala deoarece afirmatia ca imunitatea la COVID-19 scade dupa o perioada este sustinuta de cercetari si observatii ale specialistilor in domeniul sanatatii. De asemenea, nu exista o perioada exacta cunoscuta de scadere a imunitatii, ceea ce este in conformitate cu afirmatia din titlu."
+    },
+    {
+        "title": "Ce \u00eenseamn\u0103 tehnologia 5G? Vei putea vedea 2 ore de porno \u00een 45 de minute!",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i promoveaz\u0103 o idee fals\u0103 despre tehnologia 5G, care nu este relevant\u0103 pentru COVID-19."
+    },
+    {
+        "title": "Scandal la Prim\u0103ria Capitalei dup\u0103 ce hingherii au sterlizat din gre\u015feal\u0103 un v\u00e2rcolac",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul face referire la un v\u00e2rcolac, o fiin\u021b\u0103 mitologic\u0103, care nu are leg\u0103tur\u0103 cu pandemia COVID-19 sau cu realitatea \u0219tiin\u021bific\u0103. Informa\u021bia este fictiv\u0103 \u0219i nu reflect\u0103 faptele legate de COVID-19."
+    },
+    {
+        "title": "Analiz\u0103 Reuters: Bill Gates nu vrea s\u0103 microcipeze oamenii. Acuza\u021biile sunt false",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Stirea afirm\u0103 c\u0103 acuza\u021biile conform c\u0103rora Bill Gates ar dori s\u0103 microcipeze oamenii sunt false, ceea ce este corect. Aceste acuza\u021bii sunt parte din dezinformare \u0219i teorii ale conspira\u021biei care au circulat \u00een timpul pandemiei COVID-19."
+    },
+    {
+        "title": "Raport PwC: Tehnologia 5G va avea o contribu\u0163ie de 1,3 trilioane de dolari la PIB-ul global, p\u00e2n\u0103 \u00een 2030",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19, ci se refer\u0103 la impactul tehnologiei 5G asupra PIB-ului global, ceea ce nu este relevant pentru subiectul COVID-19."
+    },
+    {
+        "title": "Consiliul Fiscal apreciaz\u0103 un nivel probabil al deficitului bugetar pentru anul 2020 de 9,8% din PIB",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la deficitul bugetar din 2020, care nu este legat de pandemia COVID-19, ci de aspecte economice generale. Informa\u021bia nu are leg\u0103tur\u0103 cu COVID-19."
+    },
+    {
+        "title": "TEHNOLOGIA DE VACCINARE MRNA ESTE \u201ePIRATERIA SOFTWARE-ULUI VIE\u021aII\u201d. MODIFIC\u0102 GENOMUL UMAN",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 c\u0103 tehnologia de vaccinare mRNA modific\u0103 genomul uman, ceea ce este fals. Vaccinurile mRNA, cum ar fi cele dezvoltate de Pfizer-BioNTech \u0219i Moderna, nu modific\u0103 ADN-ul uman; ele func\u021bioneaz\u0103 prin instruirea celulelor s\u0103 produc\u0103 o protein\u0103 specific\u0103 a virusului, stimul\u00e2nd astfel un r\u0103spuns imun. Nu exist\u0103 dovezi \u0219tiin\u021bifice care s\u0103 sus\u021bin\u0103 afirma\u021bia c\u0103 vaccinurile mRNA constituie 'piraterie software-ului vie\u021bii' sau c\u0103 ar modifica genomul uman."
+    },
+    {
+        "title": "Un rom\u00e2n care s-a scobit \u00een nas prin masc\u0103 \u015fi-a \u00eempins cipul 5G direct \u00een creier",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul face referire la o situa\u021bie absurd\u0103 \u0219i neplauzibil\u0103, care implic\u0103 un cip 5G \u0219i o ac\u021biune ridicol\u0103 de a se scobi \u00een nas prin masc\u0103, ceea ce nu are nicio baz\u0103 \u00een realitate sau \u00een \u0219tiin\u021ba medical\u0103. Dezinformarea legat\u0103 de cipuri 5G \u0219i COVID-19 este o teorie a conspira\u021biei f\u0103r\u0103 fundament."
+    },
+    {
+        "title": "Apple se preg\u0103te\u015fte s\u0103 lanseze 75 de milioane de telefoane iPhone 5G \u00een 2020",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la lansarea de telefoane iPhone 5G, care nu are leg\u0103tur\u0103 cu pandemia COVID-19. Informa\u021bia nu este relevant\u0103 pentru subiectul COVID-19."
+    },
+    {
+        "title": "Blocajele au fost inspirate de Partidul Comunist Chinez. O recunoa\u0219te \u201ecreierul\u201d din spatele lockdown-ului din Anglia, Neil Ferguson",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul sugereaz\u0103 c\u0103 blocajele au fost inspirate de Partidul Comunist Chinez, ceea ce este o afirma\u021bie nefondat\u0103 \u0219i nu reflect\u0103 realitatea m\u0103surilor de s\u0103n\u0103tate public\u0103 adoptate \u00een contextul pandemiei COVID-19. Lockdown-urile au fost implementate \u00een multe \u021b\u0103ri ca r\u0103spuns la r\u0103sp\u00e2ndirea virusului SARS-CoV-2, nu ca o strategie politic\u0103 dictat\u0103 de un singur partid."
+    },
+    {
+        "title": "Samsung Electronics anun\u0163\u0103 investi\u0163ii de 206 miliarde de dolari \u00een urm\u0103torii trei ani",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la o investi\u021bie a Samsung Electronics, care nu are leg\u0103tur\u0103 cu pandemia COVID-19. Informa\u021bia nu este relevant\u0103 pentru subiectul COVID-19."
+    },
+    {
+        "title": "Samsung a redevenit cel mai mare produc\u0103tor mondial de smartphone, dar v\u00e2nz\u0103rile Xiaomi au explodat",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i se refer\u0103 la o informa\u021bie despre v\u00e2nz\u0103rile de smartphone-uri, ceea ce nu este relevant \u00een contextul COVID-19."
+    },
+    {
+        "title": "S\u0103teni din Bolivia au distrus antene de telecomunica\u0163ii din cauza temerilor legate de noul coronavirus",
+        "predicted_label": "real",
+        "actual_label": "real",
+        "reason": "Titlul se refer\u0103 la un incident real \u00een care s\u0103tenii din Bolivia au distrus antene de telecomunica\u021bii din cauza temerilor legate de COVID-19, ceea ce reflect\u0103 frica \u0219i confuzia generate de pandemie \u00een r\u00e2ndul popula\u021biei."
+    },
+    {
+        "title": "Europarlamentarul PLUS Drago\u0219 Tudorache cere Comisiei Europene dezvoltarea propriei tehnologii 5G de c\u0103tre UE: Este o adaptare imperativ\u0103 la o lume \u00een care dependen\u021ba \u0219i vulnerabilitatea \u00een fa\u021ba unui regim nedemocratic \u0219i netransparent precum cel din China ne cost\u0103 mii de vie\u021bi",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu se refer\u0103 direct la COVID-19, ci la o solicitare politic\u0103 privind tehnologia 5G, f\u0103r\u0103 leg\u0103tur\u0103 cu pandemia sau impactul acesteia asupra s\u0103n\u0103t\u0103\u021bii publice."
+    },
+    {
+        "title": "Scriitorul australian de origine chinez\u0103, Yang Hengjun, judecat \u00een China pentru spionaj",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19, ci se refer\u0103 la un caz de spionaj, care nu este relevant pentru subiectul COVID-19."
+    },
+    {
+        "title": "Alert\u0103 medical\u0103! ARN-ul mesager chiar poate schimba ADN-ul uman. Vaccinul ARN mesager, inamicul t\u0103cut al celulelor imunitare",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "ARN-ul mesager nu poate schimba ADN-ul uman. Vaccinurile ARN mesager, cum ar fi cele dezvoltate de Pfizer-BioNTech \u0219i Moderna, func\u021bioneaz\u0103 prin instruirea celulelor s\u0103 produc\u0103 o protein\u0103 specific\u0103 a virusului SARS-CoV-2, dar nu interac\u021bioneaz\u0103 cu ADN-ul uman \u0219i nu \u00eel modific\u0103."
+    },
+    {
+        "title": "Tratament sigur \u00eempotriva Covid 19 recompensat cu Premiul Nobel",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Nu exist\u0103 dovezi c\u0103 un tratament specific \u00eempotriva COVID-19 a fost recompensat cu Premiul Nobel. Premiul Nobel este acordat pentru realiz\u0103ri excep\u021bionale \u00een diverse domenii, iar p\u00e2n\u0103 \u00een prezent, nu a fost anun\u021bat un astfel de tratament care s\u0103 fi primit aceast\u0103 distinc\u021bie."
+    },
+    {
+        "title": "Slugilor lui SOROS le st\u0103 POLIDINUL \u00een g\u00e2t",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul con\u021bine o afirma\u021bie care nu are nicio baz\u0103 factual\u0103 \u0219i folose\u0219te un limbaj peiorativ, suger\u00e2nd o conspira\u021bie f\u0103r\u0103 dovezi. De asemenea, nu exist\u0103 nicio leg\u0103tur\u0103 \u00eentre Polidin \u0219i COVID-19, iar referin\u021bele la 'slugilor lui SOROS' sunt tipice pentru dezinformare \u0219i teorii ale conspira\u021biei."
+    },
+    {
+        "title": "Asocia\u021bia Medical\u0103 din Tokyo recomand\u0103 administrarea ivermectinei pentru tratarea Covid19",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Ivermectina nu este recomandat\u0103 de organiza\u021biile de s\u0103n\u0103tate pentru tratarea COVID-19. Tratamentul COVID-19 se bazeaz\u0103 pe antivirale aprobate \u0219i alte m\u0103suri preventive, iar utilizarea ivermectinei pentru COVID-19 nu are suport \u0219tiin\u021bific adecvat."
+    },
+    {
+        "title": "Apple a pierdut 100 de miliarde de dolari din capitalizarea sa bursier\u0103",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i nu se refer\u0103 la informa\u021bii despre virus, vaccinuri sau m\u0103suri de s\u0103n\u0103tate public\u0103, ci la o problem\u0103 economic\u0103 a unei companii."
+    },
+    {
+        "title": "Casa Poporului va fi deconsolidat\u0103, astfel \u00eenc\u00e2t s\u0103 se pr\u0103bu\u015feasc\u0103 la cutremure mai mici de 5 grade",
+        "predicted_label": "fake",
+        "actual_label": "fake",
+        "reason": "Titlul nu are leg\u0103tur\u0103 cu pandemia COVID-19 \u0219i se refer\u0103 la o problem\u0103 de construc\u021bie, nu la s\u0103n\u0103tate public\u0103 sau la virus."
+    },
+    {
+        "title": "Retrospectiva evenimentelor interne 12-16 aprilie 2021",
+        "predicted_label": "fake",
+        "actual_label": "real",
+        "reason": "Titlul nu ofer\u0103 informa\u021bii relevante sau legate de pandemia COVID-19, ci pare a fi o retrospectiv\u0103 a unor evenimente interne, f\u0103r\u0103 leg\u0103tur\u0103 cu subiectul pandemiei."
+    },
+    {
+        "accuracy": 0.6233333333333333,
+        "total_preds": 300,
+        "num_invalid_predictions": 0
+    }
+]
